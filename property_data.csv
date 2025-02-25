@@ -1,0 +1,1001 @@
+id,location,size_sqft,bedrooms,bathrooms,property_id,property_type,property_size,year_built,listing_price,num_bedrooms,num_bathrooms,neighborhood,garage_spaces,has_pool
+1,Kinsman,768,3,2,1,house,4157,2012,866818.73,6,1.2,urban,1,false
+2,Forest Run,794,1,6,2,condo,2393,1997,393604.2,2,1.9,rural,0,true
+3,Lakeland,385,3,5,3,townhouse,3735,2007,499365.09,5,2.6,urban,2,true
+4,Drewry,147,5,5,4,townhouse,4427,1941,495378.9,6,1.3,suburban,0,true
+5,Jenna,156,3,5,5,house,3328,1942,454512.91,2,2.3,urban,0,false
+6,Manley,965,2,3,6,apartment,4429,1942,142984.81,3,2.6,suburban,2,true
+7,American,20,4,3,7,condo,1297,1962,788045.47,1,2.2,urban,2,false
+8,Old Shore,709,4,4,8,townhouse,3300,1929,183531.31,1,3.1,suburban,0,true
+9,Arizona,474,2,2,9,house,1415,1911,852384.05,3,1.8,suburban,0,true
+10,Crescent Oaks,231,1,1,10,apartment,4001,2001,362487.0,4,3.3,rural,3,false
+11,Homewood,190,1,1,11,condo,3891,1909,454591.63,6,2.3,rural,2,true
+12,Oneill,113,2,4,12,condo,1393,1929,714292.07,4,2.5,suburban,0,true
+13,Park Meadow,654,3,5,13,townhouse,851,1989,766077.79,6,3.3,rural,3,true
+14,Muir,145,5,1,14,condo,4214,1984,847263.7,1,3.1,rural,1,false
+15,Stone Corner,421,5,4,15,house,4082,1954,276645.57,6,2.7,rural,2,false
+16,Morrow,649,1,4,16,house,2784,1962,378121.81,3,3.1,urban,0,false
+17,Fuller,792,1,6,17,townhouse,4932,1947,533884.88,4,2.5,rural,0,true
+18,Monica,485,2,6,18,house,893,1963,322215.53,2,2.8,rural,3,false
+19,Waubesa,855,4,5,19,house,1470,1904,368221.14,5,1.7,urban,3,false
+20,Arrowood,837,4,5,20,condo,2584,1944,551294.98,2,2.5,rural,3,true
+21,Northridge,986,2,3,21,townhouse,3601,1934,537537.68,5,2.9,urban,0,true
+22,Laurel,243,1,2,22,condo,1688,1967,596287.09,5,3.4,suburban,1,false
+23,Anthes,385,3,2,23,apartment,4944,1946,516969.81,6,2.5,rural,3,true
+24,Vernon,222,2,3,24,house,2628,1963,555590.37,1,3.3,rural,2,false
+25,Service,544,3,3,25,house,3208,1945,239460.77,4,3.7,rural,1,false
+26,Bartillon,138,4,3,26,apartment,1649,1955,335524.9,4,3.3,urban,1,true
+27,Killdeer,195,3,6,27,townhouse,4301,1980,506841.86,1,3.9,rural,0,true
+28,Grim,611,4,3,28,townhouse,4350,1927,614034.73,6,1.3,suburban,0,false
+29,Cody,878,4,5,29,house,879,1997,830950.57,1,2.2,rural,0,true
+30,Forest,703,2,2,30,apartment,2952,1950,440811.14,3,2.1,suburban,0,false
+31,Moulton,566,2,4,31,condo,540,1925,381886.04,3,2.1,rural,3,true
+32,Becker,332,3,6,32,townhouse,2966,1929,668322.31,5,1.5,rural,3,true
+33,Barnett,318,4,5,33,condo,3393,1917,627971.11,1,1.3,urban,1,false
+34,Springs,90,4,4,34,house,4779,1961,217056.81,4,3.3,rural,0,true
+35,Heffernan,666,4,5,35,apartment,3453,1930,798728.4,4,1.8,suburban,2,true
+36,Aberg,232,4,3,36,townhouse,4879,1956,186988.54,2,3.7,suburban,3,true
+37,Tennyson,435,5,1,37,apartment,2050,1905,182402.69,3,2.4,urban,1,true
+38,Carey,788,3,6,38,condo,3607,2007,751469.23,4,1.5,rural,1,false
+39,Ilene,521,2,5,39,apartment,803,1959,694739.85,2,3.5,suburban,0,true
+40,Texas,640,2,5,40,condo,4808,1952,983952.26,2,2.9,suburban,0,true
+41,Iowa,142,2,2,41,house,4171,1956,875961.74,3,2.0,urban,2,false
+42,Kenwood,92,3,4,42,house,2603,2011,826323.92,3,1.6,urban,1,true
+43,Evergreen,98,5,6,43,townhouse,3307,1910,916303.79,5,1.0,suburban,0,true
+44,Derek,164,1,6,44,condo,870,1959,298754.46,2,2.2,urban,0,false
+45,Becker,48,3,1,45,house,4709,1915,823930.07,1,3.1,suburban,0,false
+46,Daystar,987,4,4,46,townhouse,3659,1967,780503.04,1,2.2,urban,0,false
+47,Linden,982,3,2,47,townhouse,2205,1963,911359.03,1,3.1,rural,0,true
+48,Doe Crossing,982,3,6,48,condo,2809,2013,401477.69,5,3.2,urban,3,true
+49,Mccormick,856,1,1,49,apartment,4811,1969,456856.62,1,1.7,rural,1,true
+50,Evergreen,901,1,2,50,apartment,3509,1979,300843.49,6,2.9,suburban,3,false
+51,Haas,910,1,3,51,condo,2670,1977,333334.38,1,4.0,suburban,2,true
+52,Redwing,480,2,5,52,townhouse,2505,1918,773772.99,2,2.6,rural,0,true
+53,Holmberg,737,1,4,53,house,725,1954,480559.76,3,3.9,urban,1,true
+54,Farragut,915,3,5,54,townhouse,2031,1913,356934.48,2,3.6,suburban,0,true
+55,Menomonie,236,4,6,55,house,2578,1907,455842.96,5,1.3,urban,1,false
+56,Dennis,241,3,4,56,apartment,2186,2016,682542.61,3,1.7,urban,3,false
+57,Lerdahl,850,2,1,57,apartment,3300,2016,868730.74,4,3.7,suburban,0,false
+58,Spohn,240,5,5,58,apartment,643,1961,267074.52,2,3.4,urban,3,true
+59,Northwestern,442,1,4,59,condo,2752,1965,646833.66,2,2.7,suburban,1,true
+60,Macpherson,647,5,6,60,townhouse,4490,1976,507657.31,6,2.7,suburban,0,true
+61,Rigney,295,3,1,61,condo,1175,1973,741903.35,3,2.0,urban,3,false
+62,Graedel,183,2,6,62,apartment,3995,1935,144339.29,2,1.8,urban,1,false
+63,Fordem,855,1,4,63,condo,3363,2004,102673.21,2,3.7,suburban,2,true
+64,1st,759,3,1,64,apartment,4671,1994,746571.6,2,1.3,urban,1,false
+65,Colorado,893,5,1,65,house,3351,1906,883591.83,5,3.1,suburban,3,false
+66,Golf,409,3,3,66,condo,4257,1901,425512.91,2,1.3,urban,2,false
+67,Stang,84,3,4,67,condo,2957,1995,503929.5,2,3.3,rural,1,true
+68,Lien,570,2,1,68,apartment,4068,2011,704846.6,6,3.5,rural,2,true
+69,High Crossing,244,3,2,69,house,2528,1959,908743.49,6,2.6,urban,2,true
+70,Kenwood,167,5,2,70,condo,1947,1960,657021.53,6,2.3,suburban,1,false
+71,Dixon,560,4,4,71,townhouse,1660,1938,536081.18,6,2.4,urban,1,true
+72,Dakota,669,2,5,72,townhouse,4736,1906,381492.89,3,3.2,urban,2,true
+73,Prentice,810,1,2,73,apartment,962,1910,264648.09,5,2.4,urban,1,true
+74,Scofield,647,3,3,74,townhouse,3935,1919,440603.09,1,3.6,urban,0,false
+75,Melody,103,3,6,75,house,4398,1993,128300.81,2,2.4,urban,2,true
+76,Warner,849,1,4,76,house,3168,1984,184464.29,4,1.4,urban,1,true
+77,Golf View,287,5,3,77,condo,2609,1965,427595.69,4,2.5,suburban,2,true
+78,School,318,3,3,78,condo,2714,1911,552969.26,6,3.5,urban,2,true
+79,Green Ridge,627,4,2,79,townhouse,4790,2016,413972.88,3,2.9,urban,3,true
+80,Boyd,50,5,3,80,townhouse,4882,1961,568740.81,2,2.9,suburban,1,false
+81,Loftsgordon,676,3,4,81,house,2424,1941,442145.24,1,3.9,rural,0,true
+82,Evergreen,708,4,1,82,condo,3715,1985,975965.38,5,3.4,rural,0,true
+83,Lighthouse Bay,186,3,1,83,townhouse,1374,1956,603328.83,3,1.1,urban,0,true
+84,Southridge,879,3,1,84,townhouse,2573,1932,460189.88,3,1.4,suburban,0,true
+85,Maple Wood,51,4,5,85,townhouse,2810,1998,559616.26,6,2.6,urban,3,false
+86,Mallory,735,4,4,86,townhouse,4093,2013,856446.3,5,3.8,urban,0,false
+87,Sunnyside,826,5,2,87,house,3923,1908,597453.63,3,1.4,rural,3,false
+88,Barnett,601,5,5,88,townhouse,2905,1950,106497.2,5,2.2,suburban,1,false
+89,Coleman,485,2,6,89,condo,3338,1939,108361.65,2,1.2,urban,2,true
+90,Welch,73,3,3,90,townhouse,2725,2006,175693.74,1,2.5,rural,2,true
+91,Corscot,358,4,1,91,house,4307,1911,249083.92,1,1.1,rural,3,true
+92,Oriole,455,2,1,92,house,3924,1917,324121.25,1,3.5,urban,2,false
+93,Waxwing,9,3,4,93,townhouse,1160,2004,668088.77,5,2.6,suburban,3,false
+94,Paget,932,2,5,94,apartment,4510,1916,139232.72,6,1.2,rural,0,true
+95,Dakota,311,4,3,95,townhouse,3578,1940,893588.51,5,2.8,suburban,0,true
+96,Delaware,528,1,3,96,condo,4515,1904,411161.48,1,2.9,rural,0,false
+97,Basil,818,2,6,97,house,3788,1976,673474.66,3,3.7,rural,2,true
+98,Ohio,251,1,2,98,condo,4592,1908,773146.34,4,1.5,suburban,2,true
+99,Alpine,451,2,4,99,townhouse,4540,2018,228449.54,4,3.7,urban,1,true
+100,Washington,990,3,3,100,condo,2303,1952,483327.97,1,1.0,urban,3,true
+101,Gulseth,967,2,5,101,apartment,727,1989,180219.94,2,3.9,suburban,3,false
+102,Stone Corner,632,2,2,102,apartment,4971,1961,945181.3,5,1.5,rural,1,true
+103,Maple Wood,731,5,2,103,apartment,2031,1984,119772.76,3,3.3,urban,0,true
+104,Sycamore,17,4,1,104,townhouse,2521,1934,756813.87,1,3.5,rural,0,true
+105,Oriole,997,4,2,105,condo,4816,1987,301497.3,6,1.4,rural,3,false
+106,Spohn,744,3,5,106,townhouse,3368,2021,255423.17,5,2.4,suburban,3,true
+107,Talmadge,208,5,5,107,apartment,995,1901,933861.71,4,1.8,suburban,0,true
+108,3rd,781,4,1,108,house,3368,1931,605293.86,1,3.1,urban,0,false
+109,Killdeer,656,2,5,109,townhouse,3331,1986,365906.79,5,3.0,suburban,0,false
+110,Shelley,710,1,5,110,apartment,4900,2002,181982.09,1,3.2,suburban,2,false
+111,Mandrake,307,2,6,111,apartment,4767,1992,446942.54,6,2.9,rural,2,false
+112,4th,891,4,5,112,townhouse,1013,1941,744933.47,1,2.1,suburban,1,true
+113,Sullivan,90,4,3,113,condo,2114,1918,161162.93,1,3.4,suburban,2,true
+114,Mayfield,840,1,1,114,apartment,4169,1922,197031.06,4,3.5,urban,3,true
+115,Surrey,670,1,5,115,house,2523,1929,621945.9,6,2.9,urban,2,true
+116,Weeping Birch,322,3,4,116,condo,3361,1914,600156.45,3,1.6,rural,2,false
+117,Oneill,272,2,2,117,condo,2188,1964,249421.19,4,2.2,rural,2,true
+118,Clove,764,4,6,118,townhouse,4593,1983,665253.39,5,3.9,suburban,1,false
+119,Becker,474,2,6,119,townhouse,1410,1942,642985.59,3,1.0,urban,3,false
+120,Grover,609,2,1,120,apartment,3304,1999,130843.76,4,3.4,suburban,0,true
+121,Mariners Cove,703,1,2,121,apartment,2927,2019,820739.43,6,1.6,rural,2,false
+122,Commercial,698,3,2,122,townhouse,4252,1982,105764.96,5,2.6,urban,1,true
+123,Holmberg,390,1,2,123,townhouse,2981,1995,829012.2,3,2.7,rural,3,false
+124,Canary,156,4,5,124,condo,1451,1905,765481.73,4,2.7,urban,2,false
+125,Waywood,849,1,4,125,house,2148,1978,706073.65,2,2.4,suburban,3,true
+126,Rusk,431,5,4,126,apartment,1918,1913,234903.38,6,1.4,rural,1,true
+127,Twin Pines,220,4,4,127,condo,1721,2014,177979.94,5,1.1,urban,3,true
+128,Acker,342,2,1,128,townhouse,4496,1958,475919.34,5,2.1,urban,0,false
+129,Stang,117,4,5,129,condo,2050,1974,994454.51,6,2.1,rural,3,true
+130,David,321,2,1,130,condo,2050,1945,845956.95,5,3.2,urban,0,false
+131,Cambridge,654,3,3,131,house,1370,2012,560344.65,3,1.8,rural,2,false
+132,Laurel,485,3,1,132,condo,1281,2020,971750.32,4,3.9,suburban,3,true
+133,Meadow Valley,604,5,1,133,apartment,3846,1981,347494.23,2,2.3,suburban,2,false
+134,Golf Course,935,5,4,134,house,4610,1948,794632.83,5,3.9,rural,3,false
+135,Saint Paul,137,5,3,135,house,4757,1917,955163.29,1,3.4,suburban,2,true
+136,Briar Crest,113,3,6,136,house,828,1963,975987.65,3,1.5,urban,2,true
+137,Old Gate,415,3,4,137,house,3612,1965,529542.45,1,2.8,urban,3,true
+138,Jackson,659,1,1,138,house,4476,1954,702116.11,4,3.3,rural,1,true
+139,Aberg,603,3,2,139,townhouse,4885,1941,182657.97,6,2.7,suburban,2,false
+140,Esch,462,3,5,140,house,1932,1974,255218.37,2,2.6,urban,2,true
+141,Havey,516,5,4,141,apartment,985,1904,499953.24,3,3.8,rural,3,true
+142,Melody,184,1,5,142,apartment,2457,1917,431786.59,1,2.0,rural,3,false
+143,Anhalt,352,4,2,143,townhouse,810,2020,245670.51,5,3.5,urban,1,true
+144,Sloan,565,4,3,144,apartment,4072,2001,836363.27,2,3.2,urban,3,false
+145,Ramsey,799,4,2,145,townhouse,1344,2007,829121.46,5,2.2,rural,3,true
+146,Montana,143,1,4,146,townhouse,3942,1966,875941.52,5,3.2,suburban,2,true
+147,Prairie Rose,905,5,2,147,townhouse,573,2000,823556.28,1,1.5,urban,1,false
+148,Bowman,583,1,1,148,house,2895,1914,650902.87,4,2.7,rural,1,true
+149,Superior,319,1,3,149,apartment,1801,1931,725834.31,3,3.9,rural,0,true
+150,Blaine,682,3,5,150,apartment,1557,1987,904042.91,2,2.3,rural,3,false
+151,North,546,1,1,151,apartment,4137,2017,236720.07,6,3.0,rural,1,false
+152,Spenser,307,3,4,152,condo,4895,1920,625007.72,3,1.7,urban,2,false
+153,John Wall,64,4,1,153,townhouse,610,1955,200419.54,4,3.9,suburban,2,false
+154,Macpherson,73,4,2,154,condo,3269,2008,630258.92,3,2.7,rural,3,false
+155,Anniversary,849,1,6,155,townhouse,3653,1922,619693.4,4,3.6,suburban,1,false
+156,Browning,289,4,3,156,apartment,3063,1905,515885.79,1,1.1,suburban,3,false
+157,Harper,382,5,6,157,condo,2876,1902,288312.95,5,1.1,urban,0,true
+158,Dwight,247,3,1,158,apartment,1672,1983,543357.27,3,2.4,rural,2,false
+159,Pankratz,717,2,5,159,townhouse,1218,1970,739419.29,6,2.0,suburban,2,false
+160,Buhler,317,2,4,160,house,1734,1938,823455.71,2,2.0,suburban,2,false
+161,Summerview,280,5,4,161,townhouse,4266,2019,989383.48,1,3.6,urban,0,true
+162,Graceland,889,1,6,162,condo,883,1995,224170.78,5,1.9,rural,3,true
+163,Caliangt,165,3,6,163,apartment,3026,2020,354368.74,4,3.4,urban,0,true
+164,Badeau,982,3,2,164,townhouse,3555,1932,386069.59,2,2.4,rural,0,false
+165,Oak Valley,340,4,3,165,condo,1469,1995,270534.53,4,1.5,rural,1,false
+166,Melby,309,2,5,166,condo,3257,2014,478357.51,4,1.4,urban,1,false
+167,Kingsford,320,3,3,167,townhouse,3815,2002,807703.86,5,4.0,urban,0,false
+168,Schmedeman,964,1,3,168,condo,2628,1995,150340.43,1,2.2,suburban,2,false
+169,Forster,955,1,1,169,townhouse,2067,1949,705090.16,6,3.9,urban,1,false
+170,Express,142,2,3,170,townhouse,2303,1947,100358.27,1,2.3,urban,2,false
+171,Columbus,384,5,4,171,condo,511,1923,320676.97,6,2.7,suburban,3,false
+172,Burrows,456,5,2,172,apartment,2808,1992,527167.6,2,2.4,rural,1,true
+173,8th,85,1,5,173,apartment,1856,2000,368319.0,6,3.9,urban,0,false
+174,Nova,742,2,2,174,house,4047,1925,922919.35,3,2.1,suburban,2,false
+175,Mesta,437,3,1,175,house,2930,1923,987667.16,6,2.6,suburban,0,false
+176,Quincy,380,2,6,176,apartment,1186,1993,537118.6,5,1.9,rural,3,true
+177,Mifflin,469,3,2,177,condo,4367,2002,698535.19,6,1.7,rural,0,false
+178,Toban,742,4,5,178,townhouse,719,1984,736448.24,2,1.3,rural,1,false
+179,Helena,839,5,3,179,townhouse,3754,1955,435576.18,4,2.4,suburban,0,false
+180,Evergreen,214,5,1,180,apartment,3181,1956,382868.29,5,1.6,urban,2,false
+181,Scofield,500,3,5,181,condo,4422,2010,414889.54,5,2.7,rural,1,true
+182,Green Ridge,495,5,3,182,house,2258,1921,988070.7,2,3.4,urban,2,false
+183,Fulton,198,5,2,183,house,3992,2021,308969.76,4,2.5,rural,0,false
+184,Evergreen,987,2,1,184,apartment,597,2012,380265.05,5,3.8,urban,1,true
+185,High Crossing,977,4,1,185,house,4122,2013,445256.49,2,1.8,rural,1,false
+186,Spohn,172,5,6,186,house,3287,1935,270262.99,2,3.0,urban,3,true
+187,Norway Maple,691,5,3,187,apartment,589,2016,993969.53,6,2.3,rural,0,false
+188,4th,247,3,5,188,house,2383,1934,277473.88,3,1.6,suburban,1,true
+189,Scott,189,4,4,189,condo,4474,1936,392480.78,6,1.2,urban,3,true
+190,Monterey,139,5,1,190,house,1083,1984,905807.1,2,1.6,suburban,1,false
+191,Harper,67,4,5,191,house,2461,1938,311708.9,4,3.5,suburban,1,true
+192,Oriole,364,2,3,192,apartment,2414,1955,427451.27,2,3.9,urban,3,true
+193,Coleman,780,4,4,193,apartment,3655,1910,134900.13,6,3.9,urban,0,false
+194,Carpenter,261,4,3,194,apartment,1640,1912,616426.02,6,2.9,urban,1,true
+195,Monument,226,5,3,195,condo,2615,2014,285912.9,3,2.4,suburban,2,true
+196,Basil,491,5,6,196,townhouse,3877,1908,543025.49,3,1.1,rural,2,true
+197,Holy Cross,997,1,3,197,townhouse,1353,1942,580329.01,6,3.5,rural,2,true
+198,Parkside,928,2,2,198,house,3055,1959,340555.02,3,2.9,suburban,0,false
+199,Reindahl,571,4,4,199,house,3216,1904,430388.86,6,1.7,suburban,2,true
+200,Armistice,256,1,4,200,townhouse,1995,1906,558104.28,6,1.5,rural,2,true
+201,Swallow,111,5,2,201,condo,4222,2015,192417.24,4,3.5,suburban,2,false
+202,Stuart,570,5,3,202,house,3066,1952,652398.03,4,3.2,rural,2,false
+203,Anzinger,954,2,6,203,condo,2673,1964,775329.01,4,2.2,urban,0,true
+204,Browning,286,4,1,204,house,4602,2006,350896.59,2,3.0,urban,0,true
+205,Basil,590,2,2,205,house,1969,1956,815588.0,1,1.7,rural,3,true
+206,Haas,740,2,1,206,townhouse,2106,2005,421198.49,3,2.5,suburban,3,true
+207,Logan,81,5,4,207,apartment,3131,2000,312079.83,1,3.0,urban,1,true
+208,Manley,547,2,1,208,condo,716,2007,224807.48,3,1.9,urban,3,false
+209,Becker,825,2,6,209,townhouse,3221,2007,378813.12,4,2.3,suburban,2,false
+210,Pine View,206,4,4,210,house,1185,1970,881667.01,1,1.4,suburban,3,true
+211,American,977,1,4,211,apartment,4257,1960,503606.07,5,2.3,suburban,0,true
+212,Trailsway,423,1,6,212,house,3985,1965,142759.31,5,1.0,suburban,0,false
+213,Marquette,148,3,3,213,house,2373,1978,758740.78,4,2.3,rural,2,true
+214,Gina,202,4,6,214,house,3138,1958,339826.35,6,3.8,rural,2,true
+215,Artisan,794,3,5,215,townhouse,3101,2021,959661.35,5,1.8,suburban,0,false
+216,Northport,390,4,1,216,house,4176,1979,387685.82,3,3.2,rural,1,true
+217,Tennessee,786,2,1,217,townhouse,892,1996,400870.1,4,1.4,urban,3,false
+218,Lillian,295,1,3,218,townhouse,2062,1918,979388.08,5,2.5,urban,3,false
+219,Nobel,328,3,6,219,house,1197,1978,224952.08,5,2.7,urban,0,true
+220,Holmberg,859,1,1,220,house,4778,1904,656687.15,6,2.7,urban,2,true
+221,Farmco,444,1,1,221,condo,772,2017,133251.52,6,1.6,urban,1,true
+222,Havey,35,1,5,222,townhouse,1097,1956,787323.83,1,3.7,suburban,3,true
+223,Emmet,260,3,4,223,condo,594,1969,382002.85,1,1.1,urban,0,true
+224,Fair Oaks,377,5,1,224,house,1947,2007,234788.9,1,2.3,rural,0,false
+225,Bunker Hill,680,2,3,225,townhouse,515,1933,281214.3,1,1.5,rural,3,true
+226,Fisk,221,1,6,226,apartment,1997,1988,458277.98,4,2.9,rural,3,true
+227,Cambridge,87,4,1,227,apartment,4762,1979,415059.14,6,1.9,suburban,1,false
+228,Express,816,1,6,228,townhouse,3533,1902,325327.14,5,2.1,urban,0,false
+229,Park Meadow,130,5,2,229,apartment,972,1964,545962.34,1,3.8,suburban,2,false
+230,Bashford,129,5,3,230,apartment,4109,2012,172162.97,3,2.9,urban,1,false
+231,Arapahoe,27,2,5,231,house,4656,1961,949055.01,6,2.9,urban,1,false
+232,Warrior,727,1,4,232,apartment,3659,1902,525736.0,6,1.2,rural,1,false
+233,Cherokee,799,2,5,233,apartment,3213,1903,250894.74,2,3.0,rural,0,true
+234,Walton,883,2,4,234,townhouse,1866,1968,946879.28,1,1.5,suburban,3,false
+235,Mitchell,372,4,4,235,apartment,667,1987,734929.08,2,2.9,rural,2,true
+236,Luster,1000,1,2,236,apartment,1898,1932,870566.6,3,1.0,rural,2,false
+237,Dottie,622,2,6,237,condo,3556,1993,760097.51,1,3.7,rural,1,false
+238,Swallow,858,1,5,238,condo,2802,1918,177906.31,6,1.8,rural,0,false
+239,Village,601,1,3,239,apartment,3928,1968,213293.63,5,1.1,suburban,2,true
+240,Beilfuss,275,3,3,240,townhouse,2612,1906,268385.82,6,2.3,rural,2,false
+241,Dryden,871,3,1,241,townhouse,2579,1997,856118.44,6,3.4,suburban,2,false
+242,Kingsford,56,1,6,242,condo,1183,1976,198933.38,5,1.1,suburban,2,false
+243,Morning,828,5,1,243,condo,1967,1973,417731.12,4,2.6,urban,0,true
+244,Dixon,160,5,5,244,apartment,4036,1985,496932.86,2,1.0,rural,2,false
+245,Canary,614,5,6,245,townhouse,4577,1924,721690.09,4,2.1,suburban,1,true
+246,Cordelia,645,1,6,246,condo,4207,1996,198534.05,6,3.4,suburban,3,true
+247,Lindbergh,39,2,1,247,condo,2719,1960,232804.16,2,2.6,rural,1,true
+248,Blackbird,962,4,1,248,house,4303,1952,954544.11,2,3.7,suburban,1,true
+249,Milwaukee,221,5,3,249,apartment,4878,1960,398437.73,4,3.4,urban,1,true
+250,Forster,102,4,2,250,condo,4755,1933,754776.49,3,2.6,suburban,2,true
+251,Ruskin,666,3,6,251,townhouse,1886,2020,569124.01,4,2.1,suburban,3,false
+252,Sachtjen,551,4,6,252,house,2806,1941,511437.88,2,2.8,urban,1,false
+253,Bluestem,119,1,2,253,townhouse,1609,1984,821975.41,3,1.2,rural,1,true
+254,Logan,389,4,2,254,condo,3798,1951,525229.89,6,3.1,rural,3,false
+255,Prairie Rose,355,4,1,255,condo,2617,1941,681269.23,1,2.2,suburban,3,true
+256,Merrick,723,1,3,256,townhouse,3797,2009,596714.47,6,3.2,rural,2,true
+257,Armistice,242,1,3,257,townhouse,1711,1947,325890.47,5,1.5,urban,0,true
+258,Caliangt,850,2,4,258,apartment,1300,1938,600870.62,5,3.8,suburban,0,false
+259,Sauthoff,884,4,4,259,condo,2835,1992,592899.83,1,3.9,rural,3,true
+260,Burning Wood,375,5,4,260,house,3292,2004,919198.36,4,2.7,suburban,2,false
+261,Almo,785,2,3,261,townhouse,2001,1964,438243.05,5,2.4,rural,0,true
+262,Bashford,107,3,5,262,condo,4843,1906,320581.2,1,3.7,rural,3,true
+263,Mcbride,627,3,1,263,apartment,1258,2019,178602.61,6,2.9,suburban,0,false
+264,Manufacturers,797,3,5,264,townhouse,2854,2017,880731.85,2,2.7,suburban,0,true
+265,Donald,294,1,2,265,condo,2451,1915,149599.76,1,3.7,urban,0,false
+266,Center,908,1,4,266,condo,1883,1950,924202.91,6,3.6,rural,3,false
+267,Northport,168,2,4,267,condo,837,1902,219298.36,1,1.3,rural,1,false
+268,Melrose,353,4,5,268,house,898,1921,371495.16,3,3.2,rural,0,false
+269,Porter,31,2,4,269,apartment,4196,1997,922486.05,2,2.8,rural,2,true
+270,Lunder,452,4,1,270,apartment,934,1911,975475.07,6,1.1,rural,1,false
+271,Hovde,713,3,4,271,apartment,4027,1909,673033.21,3,3.9,suburban,1,true
+272,Spaight,387,4,2,272,townhouse,2467,1985,688804.28,2,1.2,rural,2,true
+273,Dunning,519,3,6,273,condo,3427,1958,809028.74,1,1.6,suburban,1,false
+274,Thackeray,812,3,1,274,condo,753,1957,607649.03,1,3.2,suburban,1,true
+275,Esch,213,3,6,275,condo,1230,1914,295116.99,2,2.1,suburban,0,false
+276,Arrowood,570,3,6,276,house,3405,1946,700675.7,6,3.5,suburban,0,true
+277,Westport,553,5,5,277,apartment,885,1954,552739.61,6,1.5,rural,2,false
+278,Maryland,372,5,4,278,apartment,1869,1902,225825.45,6,2.2,urban,2,true
+279,Lyons,562,2,1,279,condo,1499,1982,114350.27,3,3.5,rural,3,true
+280,Nobel,34,2,5,280,house,2066,1942,692825.11,4,1.4,urban,3,true
+281,Mcbride,605,3,1,281,apartment,4455,2014,144865.87,3,1.9,rural,2,false
+282,Dryden,72,3,2,282,townhouse,4289,1917,987243.83,2,2.8,rural,2,false
+283,Burning Wood,291,3,5,283,condo,1263,1915,354485.14,6,3.9,urban,1,true
+284,Evergreen,188,2,3,284,condo,3836,1976,503000.94,2,2.7,urban,1,true
+285,Hollow Ridge,1,1,1,285,apartment,4941,1936,947709.18,6,1.1,urban,2,false
+286,Reinke,774,5,4,286,townhouse,4330,1945,212331.67,4,2.5,urban,2,false
+287,Stuart,779,3,5,287,condo,4091,1949,328877.6,1,3.0,suburban,0,false
+288,Donald,690,3,6,288,apartment,3198,2006,627006.08,5,3.7,urban,2,true
+289,Oneill,724,5,1,289,townhouse,1578,2000,630407.2,3,1.0,suburban,3,true
+290,Rutledge,723,3,6,290,apartment,1841,1921,171666.36,5,1.8,suburban,1,false
+291,Stang,310,2,3,291,townhouse,3141,2022,133494.47,3,2.8,suburban,1,true
+292,Service,89,4,3,292,condo,1069,2011,230604.02,4,3.0,urban,2,false
+293,Hallows,750,2,5,293,house,1423,1990,423426.47,5,3.0,urban,1,true
+294,Talmadge,990,1,1,294,condo,3283,1981,964569.72,3,3.7,rural,3,true
+295,Carpenter,325,2,3,295,house,3623,1994,194858.44,3,2.1,urban,0,true
+296,Westport,758,1,5,296,townhouse,2422,1990,579953.6,1,3.5,suburban,2,false
+297,Jenna,979,2,5,297,house,1955,1921,399432.2,2,3.7,suburban,2,true
+298,Reindahl,9,2,1,298,apartment,4747,1964,650328.26,6,2.2,urban,3,false
+299,Hovde,962,3,3,299,townhouse,3771,1954,875206.5,6,2.8,urban,3,true
+300,Boyd,265,2,1,300,townhouse,567,1935,923297.5,2,1.4,urban,1,false
+301,Meadow Ridge,855,1,5,301,apartment,4202,1961,584524.44,3,2.4,rural,2,false
+302,Granby,835,4,5,302,townhouse,1931,1953,270932.21,6,3.9,rural,1,false
+303,Fieldstone,351,3,2,303,townhouse,611,1915,706395.56,2,1.6,suburban,3,false
+304,Crest Line,976,3,2,304,house,1474,2008,525354.93,4,1.9,urban,3,false
+305,American,609,5,6,305,townhouse,3949,2005,552998.74,3,1.4,urban,0,false
+306,Lyons,662,4,3,306,apartment,3359,1998,195652.7,5,2.8,rural,0,false
+307,Thompson,773,3,1,307,apartment,4487,1902,528289.68,4,3.8,rural,3,false
+308,Old Gate,321,5,3,308,condo,2799,1989,156394.07,2,3.3,rural,1,false
+309,Acker,876,2,2,309,townhouse,1229,1942,711208.48,3,3.4,suburban,0,false
+310,Sloan,455,3,1,310,condo,904,1901,640266.84,3,1.7,suburban,1,true
+311,Union,234,3,1,311,house,3327,1972,404107.01,4,3.3,urban,0,true
+312,Dottie,539,1,6,312,house,3933,1995,669074.25,4,3.0,rural,1,true
+313,Fallview,206,5,3,313,house,1689,1983,542128.94,1,2.6,rural,3,true
+314,Village,679,1,1,314,apartment,2038,1903,887645.48,6,2.1,suburban,0,false
+315,Dennis,99,4,5,315,house,1024,2018,166117.02,4,1.1,urban,2,true
+316,Express,579,5,2,316,apartment,3400,1900,877079.96,4,2.6,urban,2,true
+317,Corry,656,5,4,317,house,952,1970,710323.37,5,1.1,rural,2,true
+318,Coolidge,376,1,2,318,apartment,1281,2001,243437.82,6,2.4,rural,2,true
+319,Corben,201,1,3,319,house,1580,2020,735879.3,1,3.9,rural,0,false
+320,Laurel,141,2,2,320,house,1481,1956,962799.95,4,3.1,suburban,2,true
+321,Saint Paul,697,3,2,321,townhouse,3999,1903,128151.31,6,3.7,urban,1,true
+322,Clove,456,4,1,322,townhouse,3938,1985,643908.33,5,2.7,rural,2,false
+323,Thompson,220,4,1,323,condo,1164,2002,892100.84,1,2.4,rural,2,true
+324,Orin,922,4,6,324,house,4962,1954,626780.61,5,2.5,urban,3,false
+325,Butternut,862,4,4,325,townhouse,1817,1984,135305.25,1,2.6,suburban,1,false
+326,Milwaukee,285,4,1,326,house,2513,1904,799597.21,4,2.4,rural,0,true
+327,Transport,42,5,6,327,house,2009,2009,952657.75,1,3.9,rural,2,true
+328,Westridge,369,3,2,328,house,4169,1962,125691.08,4,2.4,urban,3,true
+329,Carioca,353,5,1,329,house,1081,2011,788760.7,4,3.8,rural,3,true
+330,Prentice,703,2,4,330,townhouse,1051,1964,902729.18,1,2.0,rural,2,false
+331,Scott,822,2,3,331,condo,3823,1916,553264.76,4,4.0,suburban,0,false
+332,Monument,626,2,5,332,house,4555,1952,203855.32,4,1.4,suburban,3,true
+333,Florence,249,1,1,333,townhouse,1087,1901,649947.81,6,1.1,suburban,3,true
+334,Pearson,53,4,2,334,condo,1986,2014,565056.99,6,1.0,rural,2,false
+335,Farragut,544,5,1,335,apartment,4648,1956,739485.06,2,2.4,suburban,0,false
+336,Golf,809,4,4,336,townhouse,2541,1928,764299.89,5,1.4,rural,0,true
+337,Killdeer,440,2,6,337,townhouse,4300,1939,937171.4,1,3.0,suburban,2,true
+338,Northfield,32,4,3,338,townhouse,1935,1915,914159.86,3,1.2,rural,3,false
+339,Hermina,235,3,5,339,condo,4991,1978,844940.07,5,2.9,rural,3,false
+340,Redwing,396,2,1,340,house,2467,1962,598045.98,1,3.1,suburban,1,false
+341,Myrtle,394,5,5,341,townhouse,2124,1978,272090.87,4,3.6,suburban,0,false
+342,Crescent Oaks,381,5,4,342,apartment,4627,1990,697311.69,6,1.8,urban,1,true
+343,Declaration,125,3,4,343,house,4764,1987,844710.55,3,3.9,suburban,2,true
+344,Swallow,326,2,6,344,house,3238,1991,318942.34,5,2.2,suburban,3,true
+345,Westridge,673,5,4,345,apartment,992,2017,343613.3,3,1.1,urban,3,true
+346,Roth,509,1,6,346,apartment,3437,1961,399129.18,4,2.6,urban,0,false
+347,Cambridge,356,3,1,347,condo,4761,1955,127694.69,6,2.6,rural,2,false
+348,Mcguire,469,2,5,348,townhouse,1185,1967,138738.27,2,2.9,suburban,1,true
+349,New Castle,511,4,1,349,townhouse,3881,1928,616648.04,5,2.7,urban,0,true
+350,Canary,279,4,5,350,house,4557,1912,512680.96,5,3.6,rural,3,true
+351,Straubel,930,5,1,351,townhouse,4852,1958,154451.57,1,1.0,urban,0,true
+352,Elka,221,4,3,352,apartment,3476,2000,460774.98,5,2.1,rural,3,false
+353,Morrow,262,2,3,353,house,4624,2008,181129.69,2,2.3,suburban,1,false
+354,Thompson,611,4,3,354,apartment,1410,1994,642100.54,5,2.3,rural,2,true
+355,Annamark,463,3,6,355,townhouse,2223,1976,207571.11,6,2.2,urban,0,false
+356,Hansons,567,5,6,356,apartment,4930,1972,548697.97,4,2.1,urban,3,true
+357,Nevada,866,1,1,357,condo,1458,2008,219483.41,5,2.5,rural,0,true
+358,Oneill,940,2,3,358,apartment,4664,1978,340948.69,2,2.4,suburban,1,false
+359,Summit,446,1,2,359,house,3360,1951,839954.91,1,3.8,urban,2,false
+360,Sherman,937,2,4,360,condo,1550,2022,848003.76,4,2.5,rural,2,false
+361,Mcbride,812,4,3,361,townhouse,3948,1966,525708.69,1,3.2,suburban,1,false
+362,Schlimgen,63,5,6,362,house,3330,1953,213259.42,2,2.7,urban,2,true
+363,Helena,686,5,4,363,house,3804,2008,639524.41,1,3.6,urban,2,true
+364,Roth,189,2,2,364,house,3345,1973,511285.48,6,3.9,suburban,3,true
+365,Basil,791,1,2,365,townhouse,1153,1909,179496.53,1,1.5,urban,3,true
+366,Florence,53,2,6,366,condo,1652,2017,626551.57,5,2.0,rural,0,true
+367,Maple,10,3,3,367,house,4287,2014,884050.15,4,3.3,urban,0,true
+368,Kings,630,5,4,368,condo,1115,1967,673464.08,5,3.4,suburban,3,false
+369,Graedel,686,1,3,369,condo,1168,1976,777865.3,3,1.7,urban,0,false
+370,Emmet,423,1,6,370,apartment,4442,1945,885222.06,2,1.2,rural,3,true
+371,Manufacturers,225,1,4,371,condo,894,1948,234572.35,5,2.6,rural,0,true
+372,Carpenter,232,5,6,372,house,1287,1917,578166.25,6,1.1,urban,2,true
+373,Delaware,200,1,3,373,apartment,4389,2015,824196.11,3,3.5,suburban,3,false
+374,Ohio,276,1,3,374,condo,1262,2010,327611.52,5,3.2,rural,0,false
+375,Granby,202,1,4,375,townhouse,4342,1922,804681.55,6,2.6,urban,0,true
+376,Basil,38,2,5,376,apartment,868,1997,732349.6,4,2.3,rural,3,false
+377,Lakewood Gardens,844,3,3,377,house,1052,1926,155454.73,3,1.6,rural,0,false
+378,Blackbird,409,4,2,378,condo,3246,1906,342848.11,5,2.3,urban,1,false
+379,Parkside,841,2,6,379,house,2346,2004,774499.8,5,1.4,suburban,0,true
+380,Veith,50,2,1,380,townhouse,4593,2011,200697.62,4,2.9,rural,1,false
+381,Dorton,385,1,5,381,condo,4760,1925,616421.86,2,1.0,urban,0,true
+382,International,427,3,6,382,apartment,3408,1997,523672.69,6,2.5,urban,3,false
+383,Summit,981,4,6,383,apartment,4810,2007,857518.45,3,1.5,suburban,3,false
+384,Portage,478,3,3,384,apartment,3446,1921,662519.84,5,2.7,urban,2,true
+385,International,901,2,3,385,house,2143,1969,473304.61,6,3.5,suburban,2,true
+386,Jana,918,4,3,386,house,1743,1983,876115.32,3,3.1,rural,1,true
+387,Fairfield,521,3,4,387,condo,654,1975,925471.88,6,2.5,urban,0,true
+388,Butterfield,103,1,3,388,house,3545,1930,279895.99,4,2.6,suburban,1,true
+389,Loeprich,406,5,3,389,house,2824,1942,349722.54,1,1.9,urban,3,false
+390,Upham,288,1,3,390,townhouse,873,1919,144022.84,2,1.0,urban,3,true
+391,Blaine,548,1,4,391,house,4378,1937,791330.56,1,2.7,rural,2,false
+392,Cottonwood,460,2,1,392,condo,3766,2002,891439.82,3,2.5,urban,2,true
+393,Sauthoff,318,5,5,393,townhouse,2183,1912,850833.33,5,2.3,suburban,3,true
+394,Elka,63,4,4,394,condo,2520,1998,754733.98,6,3.1,rural,2,true
+395,Coleman,496,3,2,395,apartment,1712,2012,259369.43,3,1.1,suburban,3,true
+396,Little Fleur,971,1,4,396,house,1425,1903,478847.6,5,3.2,rural,2,true
+397,Declaration,208,1,3,397,townhouse,2319,1935,993334.67,6,3.7,suburban,2,false
+398,4th,518,3,4,398,house,2768,1980,703762.08,2,2.7,suburban,3,true
+399,Golf,856,3,4,399,apartment,4843,1978,943821.17,3,2.7,urban,0,true
+400,Farmco,947,3,2,400,townhouse,2112,2015,660730.23,6,3.8,suburban,2,false
+401,Sullivan,532,2,6,401,house,4293,1952,382139.6,4,3.3,suburban,0,false
+402,Eliot,158,2,3,402,apartment,860,1944,224042.88,6,1.3,suburban,3,true
+403,Mallard,955,4,3,403,condo,4877,1998,660371.67,1,1.2,rural,1,false
+404,Bowman,995,4,5,404,condo,4418,1981,210654.39,5,2.7,urban,3,false
+405,Scofield,422,2,2,405,house,1752,1997,952481.44,5,2.7,rural,1,true
+406,Old Gate,127,1,6,406,apartment,4037,1917,749285.4,2,3.2,suburban,1,false
+407,Farragut,73,5,4,407,apartment,3919,1965,528529.06,6,3.7,urban,0,true
+408,8th,490,4,3,408,house,2029,2002,840372.04,2,3.3,urban,1,true
+409,Arapahoe,834,1,1,409,condo,1355,1911,246019.2,5,3.4,suburban,2,true
+410,Fair Oaks,531,2,5,410,house,4653,1997,336620.84,6,3.6,suburban,3,true
+411,Northridge,598,5,5,411,condo,1450,1981,270829.82,2,2.5,suburban,2,false
+412,Kennedy,983,5,6,412,townhouse,2803,1938,345196.28,2,2.2,urban,1,false
+413,Blue Bill Park,653,2,6,413,townhouse,3698,1918,448949.97,6,2.8,rural,2,false
+414,Rowland,938,2,5,414,condo,3750,1971,560362.75,3,3.9,rural,0,false
+415,Ruskin,99,1,6,415,condo,626,1940,988658.5,2,3.6,urban,3,true
+416,Ramsey,469,5,2,416,house,863,1919,950078.9,3,2.5,suburban,3,true
+417,Oxford,810,3,4,417,apartment,2349,1905,678284.95,4,3.4,suburban,3,true
+418,Pennsylvania,437,1,5,418,townhouse,2714,1991,113827.09,4,1.7,rural,0,true
+419,Anhalt,678,1,6,419,townhouse,2128,1973,814847.31,3,1.5,rural,2,true
+420,Dawn,94,5,6,420,house,2197,1936,780207.41,4,2.4,urban,0,false
+421,Tennessee,77,5,2,421,condo,771,1996,184538.76,5,1.3,suburban,1,false
+422,Coleman,155,4,4,422,condo,2748,1947,737230.23,5,3.7,urban,3,true
+423,Butternut,513,4,5,423,house,3668,1927,879735.1,5,1.5,rural,0,true
+424,Morning,474,3,5,424,townhouse,3981,1926,361661.91,3,1.2,rural,2,true
+425,Aberg,299,4,5,425,house,4055,1923,492566.17,6,1.1,rural,0,false
+426,Amoth,621,2,6,426,townhouse,4769,1914,917905.69,5,3.4,suburban,1,true
+427,Jenifer,357,4,1,427,townhouse,2140,2018,277415.94,6,2.7,suburban,2,false
+428,Mallory,174,1,2,428,house,3259,2003,463409.49,3,2.4,urban,0,true
+429,Merchant,61,3,1,429,condo,749,1951,368536.55,3,3.9,rural,0,true
+430,Eliot,2,3,6,430,condo,2541,2013,922963.51,4,1.1,urban,1,false
+431,Upham,412,5,5,431,condo,2449,1970,237546.87,4,3.5,rural,2,true
+432,Stuart,269,5,2,432,apartment,3995,1935,484646.57,4,3.2,suburban,0,false
+433,Eggendart,217,3,1,433,condo,2869,2007,813062.11,4,2.8,suburban,3,false
+434,Independence,480,5,5,434,townhouse,4669,1936,351135.67,2,1.8,urban,2,false
+435,Birchwood,457,4,4,435,apartment,4506,1953,155698.67,3,1.2,suburban,2,false
+436,Hoffman,414,2,2,436,townhouse,4566,1933,865017.85,6,2.3,rural,3,false
+437,Redwing,171,1,4,437,townhouse,2771,1919,379570.65,1,3.0,rural,0,false
+438,Dawn,398,2,2,438,condo,3108,1924,128259.7,6,1.1,suburban,2,false
+439,Manitowish,448,4,1,439,townhouse,2361,1960,671749.72,2,1.5,rural,0,false
+440,Michigan,810,5,4,440,apartment,646,2017,680124.04,2,2.4,rural,1,true
+441,High Crossing,292,4,2,441,condo,4803,1999,541574.57,6,1.3,urban,1,true
+442,Shoshone,791,1,4,442,apartment,4616,1977,959788.92,6,1.4,urban,2,false
+443,Duke,238,1,5,443,apartment,3299,1941,258286.36,2,1.3,suburban,0,true
+444,Oriole,963,4,4,444,townhouse,2574,1926,782451.9,3,2.3,urban,0,true
+445,Meadow Ridge,678,1,2,445,condo,3417,2007,851806.02,3,3.7,rural,2,false
+446,Sunbrook,520,2,3,446,townhouse,2106,1946,767212.9,5,1.4,suburban,3,true
+447,Bowman,285,4,1,447,townhouse,1306,2005,146435.49,2,3.1,urban,0,true
+448,Sloan,32,4,4,448,condo,2781,1981,358758.1,1,3.9,rural,2,false
+449,Coolidge,920,4,4,449,townhouse,2507,2001,585021.3,6,3.0,suburban,1,true
+450,Anniversary,61,2,2,450,apartment,3475,1917,979783.55,5,1.3,urban,2,false
+451,Barnett,818,1,3,451,townhouse,802,2018,836493.44,4,3.2,urban,2,true
+452,Crowley,58,4,4,452,townhouse,2700,1900,769022.46,6,1.2,rural,0,false
+453,Hoard,34,2,2,453,townhouse,851,1917,823197.76,2,1.2,rural,0,true
+454,Gerald,430,1,5,454,townhouse,1182,1903,766054.29,4,3.0,suburban,2,false
+455,Canary,534,4,6,455,house,685,1940,196674.18,5,3.4,suburban,2,true
+456,Mifflin,710,1,5,456,apartment,4459,1979,906052.95,5,1.2,suburban,2,false
+457,Kropf,96,1,5,457,condo,4097,1939,469253.43,6,3.1,suburban,3,true
+458,Maywood,56,4,2,458,townhouse,4036,1942,479463.51,5,2.6,rural,2,false
+459,Fremont,796,4,1,459,townhouse,3116,2001,599566.99,2,3.5,suburban,1,true
+460,Crownhardt,58,2,2,460,house,1641,1959,766654.81,3,1.5,suburban,1,false
+461,Brickson Park,961,3,1,461,condo,2023,1946,917615.45,5,1.5,rural,3,false
+462,Garrison,416,1,2,462,townhouse,2268,1929,197692.41,3,3.4,rural,0,false
+463,Doe Crossing,354,1,6,463,condo,4577,1939,516623.8,4,4.0,rural,2,false
+464,Dahle,859,1,5,464,house,2897,1957,419073.98,5,3.4,suburban,1,true
+465,Oak,380,2,4,465,apartment,3852,1938,676396.76,4,3.0,rural,0,false
+466,Clyde Gallagher,738,5,5,466,house,3450,1966,186885.61,1,2.1,rural,0,false
+467,Declaration,502,4,1,467,house,1498,1985,824447.92,2,3.2,urban,1,true
+468,Holy Cross,228,1,4,468,house,4269,1993,437660.02,1,3.4,urban,1,false
+469,Mallard,34,3,2,469,townhouse,4043,1991,277576.97,5,2.3,rural,0,false
+470,Cherokee,562,2,1,470,townhouse,3490,1912,518603.08,5,3.0,rural,0,false
+471,Rigney,234,2,2,471,apartment,2466,1921,241949.57,5,1.9,rural,3,false
+472,Elka,880,3,2,472,apartment,4271,1942,867585.26,4,1.9,suburban,1,false
+473,Westerfield,600,5,6,473,apartment,4874,2005,454255.09,1,1.5,urban,3,true
+474,Randy,870,3,5,474,apartment,4707,1966,497796.39,4,2.7,suburban,0,true
+475,Troy,473,4,6,475,townhouse,4458,1952,850027.29,1,1.8,rural,0,false
+476,Bunker Hill,563,2,4,476,apartment,1807,1939,487498.52,3,3.6,rural,3,false
+477,Summit,870,5,2,477,apartment,1471,2007,834887.36,3,3.0,rural,3,false
+478,Eliot,564,1,4,478,house,2035,2005,832068.84,2,1.5,suburban,1,true
+479,Hermina,131,2,6,479,townhouse,1060,1977,622804.31,3,3.8,rural,0,false
+480,Johnson,380,4,4,480,condo,3399,1946,708989.8,1,3.9,rural,1,false
+481,Anzinger,800,1,4,481,apartment,1747,1938,455280.88,6,2.5,rural,0,false
+482,Arkansas,108,2,3,482,townhouse,716,1986,526955.52,6,1.2,rural,2,true
+483,Northwestern,201,1,3,483,apartment,505,1963,465341.73,5,3.2,urban,2,false
+484,Waywood,849,1,4,484,apartment,2531,2015,864047.43,1,2.1,urban,2,true
+485,Huxley,631,1,4,485,condo,552,1944,835846.66,4,2.5,suburban,1,false
+486,Fuller,294,4,4,486,house,4267,1991,860883.33,3,3.9,rural,1,false
+487,Randy,572,2,5,487,apartment,1764,1902,984614.19,3,3.7,rural,1,false
+488,Heffernan,394,4,1,488,house,1928,1978,768010.11,1,2.4,rural,1,true
+489,Hazelcrest,494,3,3,489,house,2530,2021,287446.21,2,2.9,rural,3,false
+490,John Wall,786,3,4,490,house,639,1952,332605.99,6,3.5,rural,0,false
+491,Michigan,671,5,2,491,house,3971,2001,630469.17,1,1.4,urban,2,true
+492,Banding,592,4,3,492,condo,1200,1972,577245.04,5,1.6,urban,2,true
+493,Glendale,549,5,6,493,condo,641,1995,873168.02,2,1.2,suburban,2,true
+494,Portage,124,1,5,494,condo,2527,1914,406084.24,2,3.1,rural,2,true
+495,Buell,553,1,3,495,condo,4428,1990,613455.0,4,3.1,rural,2,true
+496,Homewood,743,1,3,496,apartment,3107,1920,147739.1,6,1.9,urban,0,true
+497,Basil,124,5,1,497,apartment,1865,1968,187026.37,6,1.9,urban,1,true
+498,Michigan,983,3,1,498,apartment,1692,1919,243847.13,2,1.1,suburban,3,false
+499,Hudson,559,4,4,499,condo,3725,1994,887509.54,3,2.9,rural,3,true
+500,Fairview,567,4,4,500,house,2782,1922,566812.71,5,4.0,urban,1,true
+501,Northland,898,3,4,501,townhouse,952,1981,486293.79,6,1.8,rural,1,true
+502,2nd,246,1,2,502,apartment,4273,2017,639925.65,2,3.5,urban,3,false
+503,Main,203,2,2,503,house,2097,2000,128690.71,1,3.6,urban,3,true
+504,Stoughton,22,2,3,504,house,2129,2001,798086.94,6,2.5,suburban,3,true
+505,Roth,647,4,3,505,condo,3286,1949,898853.17,5,3.4,urban,0,false
+506,Bunting,794,1,2,506,house,4273,1960,653260.0,2,2.2,rural,0,false
+507,Prairie Rose,365,1,5,507,apartment,3695,1922,737944.9,6,3.0,urban,1,true
+508,Russell,56,4,6,508,apartment,3356,1951,844198.43,6,3.7,urban,1,false
+509,Springview,612,1,2,509,townhouse,4406,1916,598117.06,1,3.7,suburban,2,true
+510,Prairie Rose,481,1,4,510,house,2771,1955,429596.83,3,2.7,urban,3,false
+511,Miller,309,1,6,511,house,3658,1902,144997.53,5,2.2,rural,1,false
+512,Pine View,679,5,4,512,house,3057,2009,845546.1,6,3.8,rural,3,false
+513,Dayton,701,5,2,513,condo,1704,1985,127362.29,2,1.1,urban,3,false
+514,Cody,425,1,2,514,house,1098,1977,511202.63,4,3.2,suburban,1,true
+515,Hanover,907,5,3,515,apartment,548,2015,725717.26,2,3.2,suburban,3,true
+516,Pine View,876,5,5,516,house,4913,2003,688870.47,4,3.4,urban,1,false
+517,Drewry,301,1,4,517,apartment,1527,1924,599118.56,2,2.6,urban,0,true
+518,Miller,40,4,6,518,condo,3785,1964,751324.57,1,3.4,rural,3,false
+519,Mockingbird,735,2,3,519,house,3107,1998,452003.94,6,2.9,suburban,1,false
+520,Manley,869,3,6,520,townhouse,1620,2018,516773.13,5,2.2,suburban,3,false
+521,Oxford,512,3,3,521,house,3776,1959,687253.54,5,1.9,urban,0,true
+522,Carioca,873,3,3,522,house,2057,1949,204835.33,6,3.5,suburban,1,false
+523,Center,501,5,6,523,apartment,3487,1974,356869.74,4,2.7,urban,1,false
+524,Dwight,230,4,6,524,townhouse,4551,1984,192004.63,3,2.7,rural,1,false
+525,Bartillon,807,2,6,525,condo,4593,1994,654996.97,2,3.5,urban,3,true
+526,Starling,665,2,1,526,townhouse,4444,1915,107013.53,4,1.6,rural,1,false
+527,Morning,415,1,3,527,condo,965,1964,699634.69,5,1.0,suburban,2,true
+528,Hanson,571,1,1,528,house,4110,1951,513535.58,1,2.5,suburban,3,false
+529,Oneill,85,4,2,529,condo,2659,2001,841045.04,5,3.6,suburban,1,true
+530,Prairie Rose,944,4,4,530,townhouse,559,1939,934812.31,1,2.2,urban,3,true
+531,Merry,854,4,6,531,townhouse,3140,1918,724740.24,6,3.0,suburban,2,false
+532,Sunbrook,564,3,4,532,condo,1012,1918,378043.65,3,1.3,suburban,2,false
+533,Sherman,328,3,5,533,condo,1313,1915,403473.02,3,2.6,rural,1,true
+534,Holmberg,586,3,4,534,house,4392,1991,625152.94,4,3.4,rural,1,true
+535,Darwin,722,5,3,535,condo,2879,1956,846456.11,3,1.7,rural,0,true
+536,Little Fleur,647,4,6,536,condo,4434,2020,106431.02,5,2.4,rural,0,true
+537,Butterfield,954,2,3,537,house,1521,1943,703943.54,1,1.0,suburban,2,true
+538,Golf,989,3,1,538,townhouse,4360,2011,242451.46,2,3.5,urban,0,true
+539,Vernon,633,3,5,539,house,1740,1948,816997.37,1,1.1,rural,2,true
+540,Kings,331,3,6,540,condo,3926,1969,977605.4,5,2.7,rural,0,true
+541,Arkansas,234,1,2,541,townhouse,3075,1918,211897.54,3,2.1,urban,0,true
+542,Clarendon,557,4,1,542,apartment,748,1958,516644.39,4,3.4,urban,2,true
+543,Clyde Gallagher,65,3,3,543,townhouse,1240,1988,120590.48,6,1.2,rural,0,true
+544,Debra,433,4,6,544,apartment,2359,2004,416984.45,5,3.1,urban,1,false
+545,Sundown,241,4,5,545,condo,836,1961,322059.87,1,2.4,urban,0,false
+546,Union,870,2,2,546,condo,4843,1912,398284.51,3,1.9,rural,2,false
+547,Mendota,364,4,1,547,condo,3155,1980,723813.83,6,2.4,suburban,2,false
+548,Grover,101,2,6,548,townhouse,1105,1998,264255.59,1,2.0,suburban,0,false
+549,Graedel,265,1,4,549,apartment,2433,2019,656151.16,4,3.7,urban,2,true
+550,Clyde Gallagher,927,2,5,550,townhouse,2812,1901,504223.04,2,1.5,suburban,3,true
+551,Drewry,941,4,6,551,townhouse,2891,1912,537200.41,2,3.5,suburban,2,true
+552,Hallows,512,5,1,552,condo,4436,1906,680401.58,2,3.8,urban,0,false
+553,Anderson,28,4,2,553,apartment,4178,1947,604463.76,4,2.1,rural,3,false
+554,Eastwood,962,5,5,554,condo,3947,1969,319252.83,3,2.7,urban,0,true
+555,Ronald Regan,521,1,3,555,house,3965,1904,704053.31,4,2.8,rural,0,true
+556,Toban,769,2,1,556,apartment,1161,1973,361121.27,4,3.9,suburban,1,true
+557,Jenna,515,1,5,557,townhouse,3259,1978,213177.93,6,3.7,suburban,1,false
+558,Westport,431,3,6,558,apartment,2583,1941,983782.12,6,3.8,urban,1,false
+559,Emmet,978,3,5,559,house,4316,1931,575573.89,3,2.3,suburban,1,true
+560,Union,218,5,2,560,condo,2799,1996,215713.97,1,2.6,rural,2,false
+561,Holmberg,496,5,1,561,condo,3879,1929,970214.17,4,1.6,rural,2,true
+562,La Follette,146,1,3,562,apartment,4977,1939,104312.75,6,2.7,suburban,0,true
+563,Grasskamp,864,4,6,563,townhouse,2241,1985,103858.03,2,1.6,suburban,1,true
+564,Onsgard,269,4,6,564,apartment,4206,1944,950494.99,3,3.3,urban,2,false
+565,Di Loreto,800,1,1,565,apartment,523,2002,389413.34,6,3.0,suburban,1,true
+566,Charing Cross,35,1,6,566,townhouse,2906,1965,856689.83,4,3.3,rural,2,true
+567,Northport,488,4,3,567,townhouse,2273,1984,394495.34,2,3.2,rural,0,false
+568,Lakeland,570,3,4,568,apartment,4579,2020,175814.78,2,2.4,rural,1,true
+569,Everett,183,3,4,569,condo,4902,1942,253383.85,2,2.0,suburban,1,true
+570,Mcbride,832,2,6,570,townhouse,1078,1988,287232.78,6,3.7,urban,3,true
+571,Warrior,838,5,3,571,house,2344,1931,770849.54,4,2.6,rural,2,false
+572,Truax,407,1,4,572,townhouse,1087,1918,354298.55,5,2.5,urban,3,true
+573,Ramsey,439,1,4,573,condo,4459,1996,954151.3,6,2.5,rural,1,true
+574,Meadow Vale,457,5,6,574,condo,4055,1987,866348.94,5,2.8,suburban,1,true
+575,Dennis,603,3,3,575,apartment,1917,1953,415415.2,2,2.1,urban,2,true
+576,Messerschmidt,698,2,6,576,house,774,1920,289510.01,1,1.1,suburban,3,true
+577,American,393,2,6,577,apartment,2873,1949,442600.55,4,2.9,urban,1,true
+578,Golf Course,278,5,6,578,apartment,4365,1930,248063.82,3,2.9,suburban,3,true
+579,Melby,882,3,6,579,apartment,4436,1975,492341.44,5,2.0,urban,0,false
+580,Summerview,587,2,4,580,condo,3561,1962,683539.49,1,2.6,suburban,1,true
+581,Calypso,995,1,6,581,townhouse,862,1929,321790.6,6,2.3,urban,3,false
+582,Messerschmidt,26,3,3,582,house,3702,2006,833964.49,1,3.0,rural,0,false
+583,Dottie,333,4,3,583,house,2458,1921,274814.57,1,1.4,rural,0,true
+584,Lindbergh,427,4,1,584,house,2804,1958,848445.74,1,2.7,suburban,1,false
+585,Meadow Vale,93,3,5,585,townhouse,2027,1995,235417.33,3,4.0,urban,2,false
+586,Bellgrove,128,5,3,586,house,2513,1908,580310.52,6,2.1,rural,3,false
+587,Straubel,488,2,5,587,apartment,4926,2007,790634.51,2,2.4,suburban,1,true
+588,Artisan,122,4,4,588,condo,1215,1948,399492.38,2,1.6,suburban,1,false
+589,Evergreen,558,1,2,589,apartment,4412,1990,195337.4,2,2.4,rural,1,false
+590,Barnett,229,4,6,590,apartment,2952,1948,902005.5,1,3.8,urban,2,false
+591,Dwight,274,4,6,591,apartment,1170,1997,546054.7,4,1.2,suburban,3,false
+592,Nobel,777,3,5,592,house,967,1945,356114.71,1,3.2,suburban,2,true
+593,Sommers,415,1,4,593,house,1614,1977,128930.4,2,2.3,rural,1,false
+594,Del Mar,339,5,6,594,townhouse,2664,1979,581141.14,3,2.3,rural,2,false
+595,Dexter,820,5,1,595,apartment,1883,1965,644950.75,6,1.6,urban,3,false
+596,Moulton,496,1,4,596,apartment,3143,1965,733705.89,5,1.2,rural,0,true
+597,Riverside,397,4,6,597,townhouse,678,1938,171711.65,4,2.2,rural,0,true
+598,Mitchell,15,2,6,598,house,3669,1998,633769.43,3,1.0,urban,0,true
+599,Golf,673,1,6,599,condo,1477,1935,817753.01,5,1.2,suburban,1,false
+600,Walton,150,5,1,600,townhouse,3302,1936,197123.36,1,2.9,suburban,3,true
+601,Sugar,802,4,1,601,house,2535,1980,663547.37,1,2.0,rural,2,false
+602,Jenna,653,1,6,602,condo,4646,2018,439609.01,1,1.5,rural,1,false
+603,Glacier Hill,155,3,3,603,townhouse,1928,1949,504934.06,2,3.9,suburban,1,false
+604,Arapahoe,728,4,3,604,apartment,683,1955,758671.73,1,3.0,suburban,1,false
+605,Mandrake,301,2,6,605,townhouse,2432,1988,326073.47,3,3.2,rural,0,false
+606,Debra,663,5,4,606,townhouse,4505,1967,384333.27,3,3.4,rural,3,true
+607,Dorton,535,4,5,607,house,3411,2010,262521.58,3,1.8,urban,1,true
+608,Straubel,81,4,6,608,house,1395,1968,690880.31,2,1.8,rural,2,false
+609,Vera,342,3,3,609,condo,2777,1987,601285.55,2,1.6,suburban,0,true
+610,6th,602,1,2,610,condo,2510,2009,659897.66,1,1.1,suburban,2,false
+611,Sycamore,996,5,1,611,condo,1242,2007,989127.28,3,2.5,urban,1,true
+612,Portage,818,2,5,612,apartment,1817,2014,973726.01,1,1.2,rural,3,false
+613,Hauk,347,5,5,613,apartment,2185,1980,952423.75,6,2.2,rural,2,false
+614,Graceland,531,1,6,614,apartment,3961,2019,257154.72,5,2.3,suburban,3,true
+615,Crescent Oaks,127,1,2,615,condo,4280,1986,105175.18,5,1.0,rural,3,true
+616,Corscot,992,2,4,616,apartment,3025,1948,848649.52,4,2.3,rural,0,true
+617,Milwaukee,167,5,4,617,house,2989,1961,749246.57,3,3.2,urban,3,true
+618,Helena,785,1,4,618,townhouse,4014,2021,671287.88,6,2.2,suburban,2,true
+619,Vidon,789,3,5,619,apartment,608,1939,151501.45,4,2.9,urban,0,true
+620,Scofield,922,1,4,620,apartment,1357,1969,243139.44,2,1.9,rural,0,false
+621,Clove,776,4,4,621,condo,4956,1998,110987.31,4,3.8,urban,0,true
+622,Memorial,587,3,1,622,condo,2822,2004,729199.77,1,1.2,urban,3,false
+623,John Wall,74,2,2,623,house,4055,1928,792121.55,1,1.5,rural,0,true
+624,Di Loreto,893,2,3,624,apartment,3768,1924,612801.57,5,3.7,urban,3,true
+625,Lien,871,3,4,625,condo,1274,1903,370824.34,3,2.2,urban,1,false
+626,Oak Valley,136,2,1,626,townhouse,837,1944,415129.94,5,1.7,rural,3,false
+627,Morrow,866,5,6,627,apartment,594,1937,544072.33,6,1.8,rural,0,false
+628,Grayhawk,515,4,6,628,house,3691,1931,692325.91,1,3.0,rural,1,false
+629,Sloan,383,3,3,629,condo,1640,1917,519334.48,1,3.6,suburban,3,false
+630,Straubel,450,3,3,630,townhouse,1924,1919,903546.73,4,1.6,suburban,1,true
+631,Commercial,195,4,6,631,condo,2216,2004,589426.91,2,3.7,suburban,2,false
+632,Lakewood Gardens,575,1,6,632,house,3078,1959,553324.04,2,3.0,suburban,1,false
+633,Novick,736,4,2,633,townhouse,1746,1989,957403.35,5,2.0,suburban,0,false
+634,Marcy,222,4,3,634,townhouse,2072,1902,499252.23,6,2.9,urban,3,false
+635,Schlimgen,268,1,4,635,townhouse,3995,1976,528811.15,4,3.6,urban,3,false
+636,Westerfield,620,2,1,636,townhouse,2531,2004,520611.06,1,3.3,suburban,1,true
+637,Bayside,157,5,2,637,condo,3551,1957,170356.15,2,1.3,urban,3,true
+638,Wayridge,718,3,5,638,townhouse,902,1921,210844.27,2,1.1,rural,1,false
+639,Atwood,73,5,1,639,apartment,3306,1934,369457.48,5,4.0,urban,0,true
+640,Surrey,929,4,4,640,condo,1917,1954,400089.87,6,4.0,rural,0,false
+641,Badeau,24,2,1,641,house,573,1937,229208.23,3,1.1,urban,3,false
+642,Superior,860,4,4,642,house,4490,1956,973194.78,6,2.7,urban,1,true
+643,Commercial,310,5,2,643,house,2133,1919,880255.37,5,4.0,suburban,1,true
+644,Village Green,453,3,6,644,apartment,1817,2015,134169.52,5,2.2,suburban,0,false
+645,Mockingbird,970,3,1,645,townhouse,734,1914,366000.9,1,3.0,rural,2,false
+646,Thompson,194,2,2,646,condo,2439,1901,889027.9,3,3.1,suburban,0,false
+647,Welch,296,1,5,647,condo,3768,1933,790414.91,3,1.4,rural,0,true
+648,Katie,714,2,3,648,house,3248,1918,749326.96,3,3.7,rural,3,true
+649,Goodland,759,1,5,649,condo,4714,2020,384471.13,3,2.8,urban,0,true
+650,Autumn Leaf,662,5,1,650,condo,3934,1916,355067.08,3,1.5,urban,3,false
+651,Barnett,379,4,1,651,townhouse,583,1995,473539.85,5,3.3,rural,2,true
+652,Lawn,613,2,1,652,townhouse,858,1962,993850.83,2,3.3,urban,0,true
+653,Becker,530,5,6,653,apartment,701,2005,184597.19,2,2.2,urban,1,true
+654,Atwood,317,3,2,654,apartment,712,1936,315376.34,6,2.0,urban,1,true
+655,Stuart,175,5,5,655,apartment,2183,1909,552338.72,4,3.5,rural,3,true
+656,New Castle,365,2,5,656,house,4409,1906,546345.53,3,3.9,urban,1,false
+657,Lakewood Gardens,74,1,5,657,condo,2496,2020,327337.69,2,3.3,rural,1,false
+658,Melody,818,1,4,658,townhouse,2062,1970,237138.25,1,1.2,rural,3,true
+659,1st,937,5,1,659,apartment,3164,1913,443929.56,4,3.6,urban,2,true
+660,East,790,5,3,660,condo,1214,1948,792440.31,2,2.1,rural,1,false
+661,Sunnyside,157,2,2,661,townhouse,1361,1947,933631.84,1,2.1,urban,0,true
+662,Chive,943,4,5,662,townhouse,886,1905,463434.45,1,3.0,suburban,3,false
+663,Stephen,166,1,6,663,house,4031,1979,262781.36,1,2.8,urban,1,false
+664,Lakeland,346,3,1,664,apartment,3887,1987,529028.62,1,2.1,urban,1,true
+665,Stoughton,646,3,2,665,apartment,1035,1972,602772.38,3,1.2,urban,3,true
+666,Gina,870,3,3,666,apartment,1056,1938,161063.37,4,1.2,urban,0,false
+667,Merchant,307,4,1,667,house,2188,1978,293506.2,6,2.8,rural,3,true
+668,Emmet,401,1,1,668,apartment,1338,1989,836845.83,6,3.6,rural,1,false
+669,Helena,867,5,1,669,townhouse,2853,2003,358379.57,2,1.9,rural,0,true
+670,Portage,102,3,5,670,townhouse,3538,1900,311142.2,2,3.5,suburban,1,true
+671,Rigney,479,1,1,671,condo,1436,1974,290927.34,4,3.0,rural,1,false
+672,Roth,96,5,5,672,house,2537,1937,815702.94,6,2.9,urban,1,false
+673,Monument,432,4,6,673,townhouse,1290,1904,629615.13,3,1.5,suburban,1,true
+674,Pine View,364,4,1,674,townhouse,4656,1923,260121.98,2,3.0,rural,0,true
+675,Graedel,884,4,6,675,apartment,3977,1904,309143.53,3,2.9,urban,3,true
+676,Forster,833,3,3,676,condo,3555,1964,439352.53,2,1.0,rural,1,false
+677,Larry,367,3,5,677,house,4937,1936,882095.55,5,2.8,urban,2,false
+678,Hoffman,657,4,4,678,condo,3668,1947,301294.27,1,1.8,suburban,0,true
+679,Crescent Oaks,462,2,2,679,townhouse,710,1972,590189.58,6,2.8,rural,2,false
+680,Farwell,154,2,5,680,apartment,2288,1936,551691.74,4,1.1,suburban,3,false
+681,Welch,661,5,3,681,house,2919,2019,684244.84,4,1.5,rural,1,true
+682,Starling,191,1,3,682,house,957,2003,702456.26,3,3.5,urban,1,true
+683,Lukken,986,2,5,683,condo,1140,1932,648476.96,4,3.5,urban,1,true
+684,Moland,502,5,5,684,townhouse,2570,1965,104637.8,4,3.2,suburban,2,false
+685,Knutson,366,4,4,685,townhouse,1187,1948,916923.79,5,1.4,rural,2,false
+686,Helena,225,4,4,686,condo,2840,1930,620125.37,5,1.9,suburban,0,true
+687,Tennyson,580,5,4,687,townhouse,1822,1930,280636.57,6,2.5,urban,0,false
+688,Kings,576,1,6,688,apartment,3451,1927,179991.68,2,2.8,suburban,3,true
+689,Namekagon,468,2,6,689,townhouse,1880,2017,289912.74,1,3.5,urban,1,false
+690,Forest Run,879,1,4,690,apartment,3615,1966,813507.84,6,3.8,suburban,1,false
+691,Spohn,51,1,5,691,condo,3098,1946,233380.69,6,3.8,suburban,0,true
+692,Mandrake,390,5,1,692,condo,4546,1940,573989.06,5,1.9,rural,1,true
+693,Eastlawn,372,5,3,693,townhouse,3041,2018,344907.97,3,1.6,urban,2,true
+694,Brentwood,603,4,4,694,townhouse,2900,1966,118841.03,1,2.9,suburban,3,true
+695,Nova,445,5,1,695,house,4721,1990,707864.33,5,2.9,rural,1,false
+696,Granby,278,5,4,696,house,4623,2022,142606.99,4,2.4,rural,2,true
+697,Oriole,426,4,2,697,condo,3323,2007,764050.51,5,2.2,urban,2,false
+698,Beilfuss,524,5,5,698,apartment,2109,1948,338515.34,5,2.0,suburban,1,true
+699,Carioca,804,1,3,699,condo,2440,2022,768880.58,2,3.0,rural,1,false
+700,Bay,68,2,4,700,house,556,1921,446059.01,4,2.4,urban,2,false
+701,Vidon,650,4,1,701,condo,1269,1908,913745.46,1,2.7,suburban,2,false
+702,Hoard,744,3,5,702,townhouse,4956,1999,437653.48,4,3.0,suburban,3,false
+703,Kingsford,341,3,3,703,condo,1016,1945,159826.91,3,1.2,suburban,2,false
+704,Westerfield,889,5,1,704,apartment,678,1901,829362.34,4,2.5,rural,2,true
+705,Loeprich,314,5,1,705,house,1638,1945,523995.5,3,3.1,rural,3,false
+706,Killdeer,955,2,5,706,townhouse,3312,2000,406825.62,6,1.8,suburban,2,true
+707,East,859,1,2,707,condo,775,1982,470371.99,4,1.2,suburban,2,true
+708,Duke,748,1,3,708,townhouse,1667,1991,362268.41,6,3.1,rural,0,true
+709,Cordelia,259,1,4,709,condo,3699,1960,136427.05,1,3.6,suburban,2,false
+710,Hansons,441,2,4,710,condo,4835,1999,311629.87,5,2.4,suburban,3,true
+711,Northridge,428,4,1,711,house,1425,1957,818188.4,5,3.8,urban,3,false
+712,Jenifer,902,5,4,712,apartment,3780,1913,616076.23,5,2.3,rural,0,true
+713,Riverside,576,2,1,713,townhouse,4876,1930,337108.5,3,3.0,suburban,1,false
+714,Pleasure,273,4,6,714,apartment,3334,1906,927549.63,1,1.2,rural,0,true
+715,Texas,918,4,5,715,condo,4914,1937,802774.98,2,2.6,urban,3,false
+716,Mcguire,355,4,3,716,house,4713,1976,917331.78,3,1.1,suburban,0,false
+717,Nelson,922,1,4,717,townhouse,747,1930,712824.44,2,1.6,urban,2,true
+718,Reinke,450,1,2,718,house,4041,1912,937951.07,6,2.4,rural,1,false
+719,Bartelt,963,1,2,719,townhouse,4774,2016,492645.79,2,3.4,urban,3,false
+720,Summerview,840,1,5,720,house,2043,2011,236848.34,2,2.0,rural,0,true
+721,Dovetail,827,1,4,721,townhouse,1614,1939,572115.21,1,2.8,urban,3,false
+722,Eagan,967,5,2,722,house,4402,1916,600199.63,5,2.9,rural,2,true
+723,Sugar,326,4,1,723,house,2152,1931,245504.99,3,2.2,rural,2,true
+724,Dayton,181,4,2,724,condo,790,1932,334934.76,3,3.1,urban,1,true
+725,Sugar,606,3,5,725,apartment,4527,1948,528938.5,5,2.3,rural,0,false
+726,Hazelcrest,392,1,3,726,townhouse,4292,2005,531632.98,3,2.2,suburban,2,false
+727,Comanche,201,3,4,727,house,1642,1971,690745.63,3,2.4,suburban,0,false
+728,Warbler,831,1,4,728,house,1231,1991,910546.58,1,3.9,urban,1,true
+729,Di Loreto,499,4,5,729,apartment,1267,1922,567297.85,2,3.2,suburban,0,false
+730,Duke,90,4,1,730,house,969,1931,607576.42,1,3.4,suburban,0,true
+731,Ilene,940,3,2,731,house,853,1987,728151.3,1,3.6,rural,1,true
+732,Merchant,51,4,1,732,apartment,3880,2016,502735.4,1,2.9,rural,1,true
+733,Anhalt,970,5,1,733,apartment,2039,1994,523009.43,5,2.9,rural,3,false
+734,Texas,76,4,3,734,condo,1171,1909,413122.06,6,2.8,suburban,3,true
+735,Longview,668,2,3,735,townhouse,3446,1947,586177.11,1,2.6,suburban,1,true
+736,Schiller,388,4,1,736,townhouse,1204,1908,816219.75,6,1.8,suburban,2,false
+737,Monument,126,4,2,737,apartment,4019,2011,278886.55,4,2.1,suburban,3,true
+738,Maple Wood,640,4,2,738,townhouse,1707,2021,954280.72,5,3.3,suburban,3,true
+739,Coleman,546,5,3,739,house,2094,2020,454503.54,4,3.8,rural,3,true
+740,Lerdahl,592,1,4,740,townhouse,1345,2008,710572.85,5,1.8,suburban,2,false
+741,Loomis,46,1,5,741,townhouse,4653,2013,665365.95,4,1.6,rural,1,false
+742,Northwestern,861,5,5,742,townhouse,670,1901,213346.44,2,2.3,suburban,0,true
+743,Division,437,4,3,743,condo,1474,2002,215169.79,4,1.3,suburban,1,true
+744,Forest Run,362,5,3,744,house,4110,1937,638518.34,5,2.6,urban,0,true
+745,Waywood,778,1,4,745,apartment,1634,1939,945308.91,6,3.6,suburban,2,false
+746,Grayhawk,221,2,4,746,apartment,1916,1991,590953.94,1,3.3,suburban,0,true
+747,4th,267,2,2,747,condo,3657,2005,784078.79,5,3.8,urban,0,true
+748,Kropf,556,5,5,748,townhouse,2800,1999,799773.09,4,3.0,rural,1,true
+749,Everett,934,1,2,749,townhouse,1053,1925,482557.68,3,1.1,suburban,1,true
+750,Bartillon,87,2,2,750,house,1209,1993,735815.22,3,2.5,rural,0,false
+751,Rutledge,100,3,4,751,condo,4898,1968,294634.05,5,3.3,rural,0,false
+752,Pepper Wood,316,1,5,752,house,2621,1921,223303.42,3,1.8,urban,3,true
+753,Fairfield,442,1,2,753,apartment,3963,2016,219701.08,2,2.0,rural,0,false
+754,Fieldstone,589,5,4,754,townhouse,2172,2020,235816.09,5,3.1,rural,1,true
+755,La Follette,913,3,3,755,townhouse,3489,1933,579726.03,6,1.8,urban,0,false
+756,Vermont,233,3,2,756,apartment,3836,1962,266120.62,5,2.4,rural,1,true
+757,Monterey,482,2,1,757,condo,1665,2017,953669.14,5,2.9,rural,1,true
+758,Northland,283,1,6,758,apartment,2774,1945,968803.46,2,3.5,urban,1,false
+759,Ronald Regan,838,4,1,759,house,863,2022,863421.84,1,1.4,suburban,3,false
+760,Shelley,304,5,1,760,townhouse,2253,1966,325195.83,2,1.8,suburban,2,true
+761,Corben,603,5,6,761,house,4488,1963,579918.21,3,3.6,suburban,2,false
+762,Autumn Leaf,184,3,3,762,townhouse,4571,1973,677942.16,1,3.7,suburban,2,true
+763,American Ash,644,3,4,763,townhouse,2904,1994,247429.03,3,2.7,urban,1,false
+764,Spenser,645,1,5,764,condo,3706,1917,304872.27,6,3.4,urban,2,false
+765,Maywood,655,3,2,765,house,2238,2004,752502.3,5,1.6,urban,0,false
+766,Birchwood,583,1,2,766,apartment,979,1938,274593.57,3,2.3,urban,0,false
+767,Bobwhite,426,3,3,767,townhouse,3613,1903,456564.19,5,1.2,rural,2,false
+768,Katie,264,4,1,768,townhouse,3888,2005,464624.53,5,3.5,suburban,2,true
+769,Reindahl,867,3,3,769,apartment,3450,1934,892687.33,1,2.0,urban,1,false
+770,Maryland,947,4,4,770,apartment,2139,1983,925393.02,2,1.7,urban,0,false
+771,Dapin,813,1,6,771,condo,4961,1988,164117.61,2,1.4,urban,0,false
+772,Summit,15,4,2,772,apartment,2809,1941,566931.58,1,1.5,urban,3,false
+773,Park Meadow,613,3,2,773,apartment,1196,1998,757780.4,6,3.3,rural,2,true
+774,Iowa,307,5,3,774,condo,4119,2010,461821.52,6,2.8,urban,0,true
+775,Corben,609,5,1,775,house,4616,1906,433053.99,1,3.5,suburban,0,false
+776,Pawling,374,5,3,776,condo,4400,2002,246856.54,6,3.2,urban,2,true
+777,Grim,784,2,3,777,condo,4077,1972,886224.48,6,2.9,suburban,3,true
+778,Hanson,156,5,2,778,townhouse,848,2004,377081.24,5,3.4,suburban,2,true
+779,Roth,934,1,5,779,apartment,2679,1994,511894.95,4,2.8,rural,0,false
+780,Anzinger,718,3,3,780,townhouse,3972,1948,537082.7,2,3.7,suburban,1,true
+781,Sutteridge,401,5,4,781,house,3984,2006,552743.92,1,1.9,rural,2,true
+782,Anniversary,926,1,4,782,condo,3718,1917,877355.01,1,2.4,suburban,2,true
+783,Thierer,456,2,1,783,condo,4556,1924,312678.28,1,1.7,suburban,1,false
+784,Oak,720,4,5,784,house,4524,2013,821617.58,2,3.2,urban,0,true
+785,Loomis,642,1,5,785,house,4754,1904,613940.33,1,2.8,urban,3,false
+786,Del Mar,904,4,4,786,townhouse,838,2021,131833.43,1,2.7,rural,1,true
+787,Stuart,811,3,5,787,house,4093,1995,890905.91,2,3.4,urban,1,false
+788,Truax,978,3,5,788,condo,1741,1956,482746.86,1,3.9,rural,1,false
+789,Elka,394,4,2,789,townhouse,2912,2018,779427.58,2,2.6,urban,1,false
+790,Arkansas,326,3,6,790,townhouse,1247,1992,298665.19,3,1.9,urban,3,false
+791,Birchwood,785,4,1,791,condo,4371,1910,542729.94,4,3.4,rural,1,false
+792,Crest Line,659,5,6,792,apartment,1388,2015,176994.74,6,3.7,urban,0,false
+793,Clove,944,3,6,793,townhouse,4457,1997,620763.8,3,3.6,rural,2,false
+794,Kings,919,5,4,794,house,4644,1993,239918.28,5,2.1,urban,2,false
+795,4th,328,4,1,795,apartment,3943,2011,540762.27,4,3.7,rural,3,false
+796,Oxford,463,5,1,796,condo,3229,1909,936299.56,5,3.9,urban,1,true
+797,Melody,603,2,6,797,townhouse,1169,1990,254560.29,3,3.8,suburban,0,false
+798,Ramsey,363,2,4,798,townhouse,3953,1947,284339.93,6,1.2,suburban,2,false
+799,Washington,305,5,2,799,house,1084,2001,176883.74,1,1.8,urban,3,true
+800,Arapahoe,731,3,6,800,condo,1269,1985,498394.14,1,2.2,rural,3,true
+801,Canary,718,3,4,801,house,3277,1937,256070.9,6,3.2,suburban,0,false
+802,Manitowish,926,4,3,802,apartment,560,1920,141865.95,4,2.4,suburban,2,false
+803,Pankratz,136,4,2,803,townhouse,1519,1939,320027.36,5,2.8,urban,1,false
+804,Brentwood,527,2,6,804,house,1806,1915,370850.97,5,3.5,rural,0,true
+805,Bluestem,737,5,2,805,townhouse,3124,1974,471167.94,1,1.2,suburban,3,false
+806,Hayes,108,2,4,806,condo,1525,1938,368216.63,1,1.2,suburban,0,false
+807,Jana,427,1,3,807,apartment,4521,1988,645692.72,6,1.1,rural,3,false
+808,Superior,324,2,5,808,townhouse,2206,1930,914554.57,4,2.6,rural,3,true
+809,Little Fleur,155,2,6,809,house,3604,1975,114720.24,6,2.9,rural,2,false
+810,Macpherson,679,3,4,810,house,593,1935,103920.84,6,2.5,rural,0,false
+811,Merchant,874,1,5,811,apartment,3610,1978,795022.54,6,3.2,rural,0,false
+812,Monica,793,5,2,812,apartment,3710,1912,977896.91,4,1.8,rural,1,false
+813,Mosinee,897,5,2,813,apartment,2099,1952,801346.84,6,3.9,rural,2,true
+814,Myrtle,375,4,5,814,townhouse,3149,1946,862364.71,2,1.1,rural,2,false
+815,Moland,690,2,3,815,condo,4979,1954,204990.27,2,2.0,urban,3,false
+816,Ramsey,272,4,1,816,apartment,3875,1947,151136.05,2,3.0,urban,1,false
+817,Grover,57,5,6,817,apartment,3066,1943,915409.34,2,2.0,suburban,3,true
+818,Cascade,978,4,5,818,house,2056,1986,652878.6,5,2.7,urban,0,false
+819,Hermina,358,5,1,819,townhouse,1183,2015,260104.65,5,3.6,rural,0,true
+820,Union,727,5,4,820,house,2882,2019,295435.13,5,1.9,urban,0,true
+821,Summerview,439,1,4,821,apartment,2672,1941,415792.45,3,2.7,rural,0,true
+822,Saint Paul,443,1,3,822,townhouse,1161,1936,477484.02,4,2.8,rural,3,true
+823,Hansons,178,3,4,823,townhouse,1357,1974,490946.83,3,1.8,rural,1,true
+824,Farmco,968,3,6,824,house,2545,1957,637010.2,3,1.4,urban,2,false
+825,Arapahoe,459,5,2,825,condo,3333,1948,892921.68,2,2.2,urban,1,false
+826,Crest Line,776,4,5,826,townhouse,4532,1960,205159.19,4,2.5,urban,0,true
+827,Esch,76,3,3,827,townhouse,2161,1965,664416.91,5,1.5,urban,3,true
+828,Meadow Vale,986,5,3,828,townhouse,3245,1947,592968.88,2,1.7,suburban,2,true
+829,Anderson,699,4,6,829,townhouse,1886,1900,489610.88,3,1.8,rural,3,false
+830,Swallow,208,2,5,830,condo,4553,2019,251511.01,3,3.7,rural,0,true
+831,Northwestern,377,5,2,831,townhouse,4368,1981,496934.54,4,1.6,rural,1,true
+832,Dennis,760,5,4,832,condo,3343,1953,659837.55,5,1.5,rural,3,true
+833,Nelson,555,2,6,833,condo,1185,2014,738358.46,4,1.6,suburban,0,true
+834,Bay,95,2,1,834,apartment,3453,1948,231201.25,6,3.7,rural,0,false
+835,Ilene,238,1,2,835,townhouse,4599,1904,902560.64,1,1.8,suburban,3,false
+836,Hayes,746,4,4,836,house,3793,2014,945550.69,6,2.6,rural,1,true
+837,Cottonwood,19,1,5,837,condo,669,1985,370102.37,6,2.5,urban,0,true
+838,Farwell,878,1,1,838,condo,1630,2004,276897.91,6,4.0,rural,2,false
+839,Lotheville,583,5,4,839,house,4734,1924,450052.87,1,1.9,urban,0,true
+840,Mccormick,289,4,2,840,condo,4716,1914,654841.75,1,1.8,rural,0,true
+841,Porter,933,2,5,841,townhouse,4283,1931,684815.0,2,1.1,rural,3,false
+842,Buhler,80,4,6,842,house,1455,1981,445323.36,2,2.6,urban,2,true
+843,Lakewood,148,5,2,843,condo,2508,1981,703025.15,6,3.2,rural,1,true
+844,Valley Edge,370,1,5,844,condo,2331,1990,518318.78,3,1.9,rural,0,true
+845,Northfield,153,5,5,845,townhouse,1110,1995,718763.48,5,2.2,suburban,2,false
+846,Kropf,459,3,1,846,house,2063,1999,217883.97,1,2.7,urban,0,false
+847,Riverside,711,1,6,847,apartment,1527,1925,911411.0,1,2.0,suburban,1,false
+848,Fairview,990,3,3,848,house,3828,1938,174576.62,3,1.0,rural,3,false
+849,Karstens,753,4,3,849,apartment,1543,1930,296235.39,4,1.2,rural,0,true
+850,Grasskamp,756,3,4,850,condo,846,1948,641230.65,2,3.6,suburban,2,true
+851,Barnett,903,1,6,851,apartment,3849,1986,975352.08,3,2.4,rural,3,false
+852,Thackeray,725,1,5,852,condo,1231,1964,995765.68,2,1.7,rural,0,false
+853,Del Mar,916,4,4,853,house,3324,1986,873214.8,3,2.1,suburban,2,true
+854,Truax,489,2,6,854,apartment,1850,2022,472613.56,6,1.2,urban,1,true
+855,Vidon,799,3,1,855,house,3551,1908,210019.81,3,3.5,suburban,3,false
+856,Mayfield,522,1,3,856,house,1686,1990,652803.86,3,2.9,urban,1,false
+857,Browning,352,1,2,857,condo,4272,1940,781930.06,5,1.4,suburban,0,false
+858,Eliot,473,1,4,858,apartment,3860,1985,516499.11,2,1.6,suburban,1,false
+859,Ludington,401,4,2,859,townhouse,2627,1942,758294.21,6,2.6,suburban,0,false
+860,Southridge,345,5,3,860,apartment,4230,2012,537641.07,3,3.6,rural,3,false
+861,Hanson,72,5,3,861,condo,520,1930,657455.67,3,1.2,suburban,2,false
+862,Jenifer,866,2,3,862,condo,3567,1911,528332.94,6,3.3,rural,2,true
+863,Holy Cross,991,1,6,863,house,4445,1937,291036.07,6,1.6,urban,1,true
+864,Reinke,939,2,4,864,townhouse,3161,1961,823187.6,4,2.5,suburban,2,true
+865,Almo,189,1,1,865,apartment,4070,2016,109756.69,4,2.9,urban,3,false
+866,Rockefeller,499,1,6,866,house,506,1997,142149.28,6,2.9,suburban,0,true
+867,Kropf,496,4,1,867,condo,1980,2011,933738.56,4,1.8,suburban,1,false
+868,Mccormick,455,4,4,868,condo,3669,1992,867190.95,3,2.6,suburban,2,true
+869,Manitowish,111,4,2,869,townhouse,3983,1939,321732.6,3,1.6,rural,1,true
+870,Pleasure,411,4,5,870,condo,1994,1977,369599.59,6,2.2,urban,3,true
+871,Petterle,716,3,5,871,apartment,3372,1977,613498.32,6,3.4,rural,3,true
+872,Heath,683,5,5,872,apartment,885,1992,244510.24,1,1.9,rural,2,true
+873,Maple Wood,342,2,4,873,apartment,3670,1966,652559.31,2,2.8,urban,2,false
+874,East,268,3,2,874,house,1492,1984,110834.74,1,1.5,suburban,1,false
+875,Claremont,17,2,2,875,condo,854,1949,629119.82,6,3.3,rural,0,true
+876,Hintze,419,3,1,876,apartment,2675,2016,948126.82,5,2.5,rural,1,false
+877,American Ash,377,3,1,877,condo,4490,1948,216119.76,5,3.7,suburban,2,true
+878,Michigan,887,3,6,878,house,2676,1978,156023.4,3,1.4,suburban,0,false
+879,Victoria,46,2,1,879,apartment,816,1970,435008.2,5,1.8,rural,0,false
+880,Arizona,685,3,5,880,condo,1005,2004,902287.5,5,2.1,rural,0,true
+881,Declaration,592,4,2,881,townhouse,2340,2000,562503.33,5,3.7,suburban,0,false
+882,Orin,948,1,5,882,condo,3353,1997,319873.21,2,1.4,urban,0,true
+883,Scoville,64,5,1,883,townhouse,2642,1906,565497.75,5,2.0,suburban,1,false
+884,Jenifer,946,2,6,884,apartment,1293,1995,922430.55,1,2.9,suburban,0,false
+885,Cherokee,889,4,1,885,house,1453,1933,756213.38,5,3.5,rural,1,false
+886,Anderson,603,1,5,886,condo,1790,1985,515530.43,3,2.4,suburban,2,true
+887,Boyd,370,2,2,887,condo,3703,1979,499554.98,3,3.8,rural,0,true
+888,Lotheville,71,1,6,888,condo,3097,1935,485360.24,4,3.7,rural,1,true
+889,Brown,625,4,1,889,house,3272,1950,938903.8,6,1.5,suburban,0,true
+890,Armistice,488,2,6,890,townhouse,1434,2016,567029.15,6,2.6,rural,0,true
+891,Green,516,4,4,891,condo,1059,1919,726290.4,2,1.1,urban,2,false
+892,Schlimgen,433,4,2,892,apartment,695,1966,131768.94,6,2.0,suburban,2,true
+893,Drewry,763,4,2,893,house,2288,1926,280250.27,1,3.0,urban,1,true
+894,Brown,750,4,6,894,condo,4853,2008,570188.96,2,2.5,suburban,0,false
+895,Merry,759,3,4,895,condo,3489,1951,971179.77,4,2.2,urban,2,true
+896,Florence,373,2,1,896,house,3998,1909,130662.9,1,3.7,urban,3,false
+897,Troy,876,2,2,897,condo,4993,1933,337735.86,2,1.7,urban,0,true
+898,Mcbride,177,5,1,898,apartment,2849,1907,431946.48,1,4.0,rural,1,true
+899,Westport,373,2,6,899,apartment,4722,1982,934977.93,5,3.1,urban,1,true
+900,Barby,339,1,3,900,condo,2962,2000,463973.49,4,3.0,suburban,1,true
+901,Cardinal,71,3,4,901,apartment,4260,2005,371894.82,1,1.2,rural,1,false
+902,Nobel,960,1,6,902,apartment,3347,1911,433044.35,1,3.3,suburban,3,false
+903,Mallard,650,2,3,903,townhouse,3300,2019,958489.22,4,1.3,urban,3,true
+904,Oak Valley,129,2,4,904,condo,4728,1997,876183.11,4,1.2,suburban,0,true
+905,Union,314,3,2,905,house,1920,1984,914964.35,3,1.5,rural,2,true
+906,Truax,400,4,2,906,condo,3360,1946,598880.56,1,1.5,rural,2,false
+907,Burrows,747,3,6,907,townhouse,728,1917,582251.65,5,3.8,rural,0,false
+908,Eliot,688,3,3,908,apartment,598,1900,999759.42,1,3.3,urban,3,false
+909,Spaight,262,2,6,909,apartment,1525,1971,450408.87,3,2.9,suburban,3,false
+910,Cherokee,199,5,5,910,apartment,1160,1983,683527.26,2,1.2,urban,0,true
+911,Marcy,596,4,4,911,townhouse,3051,1969,459053.06,3,2.8,rural,2,true
+912,Nelson,644,2,6,912,house,2321,1920,752259.83,1,2.7,urban,3,false
+913,Moulton,361,1,6,913,townhouse,1326,1908,135667.25,3,1.6,suburban,2,true
+914,Sunfield,159,2,1,914,townhouse,2289,1902,477166.8,4,2.1,suburban,3,false
+915,Schlimgen,812,3,4,915,townhouse,2786,1985,320383.82,2,3.0,suburban,2,false
+916,Old Gate,396,1,3,916,townhouse,3270,1908,223374.84,3,3.7,suburban,0,false
+917,Cambridge,997,1,4,917,house,2359,2022,277437.89,5,2.8,suburban,0,false
+918,Onsgard,13,3,2,918,house,1949,2014,905985.04,5,2.9,suburban,1,true
+919,Carioca,685,2,3,919,apartment,4644,1985,912894.38,2,2.0,rural,1,true
+920,Brentwood,699,1,6,920,apartment,677,1955,456441.94,2,4.0,urban,1,true
+921,Lerdahl,437,3,4,921,condo,3753,1922,742491.57,4,1.6,urban,1,true
+922,Sauthoff,480,2,6,922,house,4029,2003,317615.72,3,3.4,rural,3,true
+923,Mockingbird,812,4,4,923,condo,1068,2020,705428.94,1,2.7,urban,1,false
+924,Loomis,564,4,1,924,apartment,4836,1981,927861.88,5,3.0,rural,2,false
+925,Hoepker,635,5,5,925,condo,1406,1961,823966.29,3,1.9,suburban,0,false
+926,Moose,854,2,4,926,townhouse,2026,1980,186035.71,4,2.6,suburban,0,false
+927,Mockingbird,526,1,5,927,condo,2719,1930,959933.57,5,2.5,urban,2,false
+928,Morning,230,4,3,928,condo,1999,1995,717012.0,6,1.9,rural,0,false
+929,Bunting,999,4,3,929,townhouse,2337,1936,315652.9,4,2.8,urban,3,true
+930,Straubel,481,4,2,930,apartment,1510,1971,724517.92,2,2.8,suburban,0,true
+931,Donald,318,3,6,931,apartment,2886,1907,256472.65,4,2.5,suburban,2,false
+932,Carey,710,2,5,932,house,2667,1940,947360.99,4,1.1,rural,3,true
+933,Dunning,466,4,1,933,condo,3679,2001,797546.08,6,3.2,suburban,0,false
+934,Eagle Crest,174,5,1,934,apartment,4687,1984,711878.8,5,3.8,urban,1,false
+935,Lakewood,701,1,2,935,apartment,3507,1970,444216.05,6,3.0,suburban,3,true
+936,Evergreen,875,3,5,936,apartment,4047,1975,246394.58,3,3.3,urban,3,false
+937,Hazelcrest,938,5,3,937,apartment,3565,2004,615721.41,1,2.4,suburban,2,true
+938,Larry,922,3,5,938,townhouse,1305,1972,343934.28,2,1.1,rural,2,true
+939,Debra,644,5,2,939,townhouse,3721,2008,894369.58,6,2.7,urban,2,true
+940,Anzinger,124,1,5,940,house,1676,2007,529643.52,1,3.9,suburban,3,false
+941,Southridge,385,1,2,941,townhouse,3082,1984,980874.22,5,3.4,suburban,2,true
+942,Kim,446,3,3,942,apartment,1444,1950,583025.73,2,2.4,rural,2,false
+943,Esch,458,1,1,943,apartment,1117,2007,512913.81,4,2.7,urban,3,true
+944,Merchant,997,4,3,944,house,4325,1987,325268.88,3,3.6,rural,0,true
+945,Logan,968,1,3,945,apartment,2472,2001,559275.27,5,3.6,suburban,3,true
+946,Kedzie,433,3,5,946,condo,677,1928,683836.48,4,2.6,urban,3,true
+947,Vahlen,180,3,6,947,townhouse,585,2017,186994.45,5,2.6,rural,1,true
+948,Commercial,377,3,1,948,house,4002,1973,694000.49,1,3.8,suburban,2,false
+949,Crescent Oaks,514,3,1,949,house,667,1978,934977.46,6,2.9,urban,2,true
+950,Reindahl,400,4,1,950,condo,1133,1927,212061.53,3,3.6,suburban,1,false
+951,Spaight,290,3,1,951,condo,2997,1952,593410.22,6,1.6,suburban,2,false
+952,Tennessee,226,1,6,952,house,2369,1951,224917.91,1,1.7,rural,1,false
+953,Packers,424,1,4,953,townhouse,3176,2014,734805.54,3,1.6,rural,0,false
+954,Westport,953,4,3,954,house,4824,1929,849647.54,5,3.2,rural,1,false
+955,Commercial,389,5,5,955,apartment,601,1994,153987.85,4,2.2,rural,2,false
+956,Nancy,47,3,4,956,condo,2247,1942,527339.07,2,3.6,urban,2,false
+957,3rd,579,5,1,957,townhouse,4751,1913,558917.42,3,2.9,suburban,1,false
+958,Novick,205,3,1,958,condo,2805,1972,303194.94,4,2.0,urban,1,true
+959,Sutherland,798,2,1,959,townhouse,4021,1938,897353.93,6,1.8,rural,0,false
+960,Green,908,2,4,960,house,1275,2018,327003.32,5,1.9,urban,0,false
+961,Bartillon,138,2,5,961,apartment,513,1970,151945.18,3,3.5,suburban,2,true
+962,Mendota,19,3,2,962,apartment,547,1957,978807.88,4,3.2,rural,3,true
+963,Logan,335,4,3,963,townhouse,3523,1974,726164.23,6,1.7,urban,1,true
+964,Fallview,424,4,5,964,house,983,1981,271389.31,6,1.6,suburban,0,true
+965,Kropf,200,2,2,965,townhouse,2842,1983,257720.41,4,3.2,suburban,1,false
+966,Del Mar,12,3,4,966,condo,3733,1964,400031.21,1,3.8,rural,0,true
+967,Monterey,184,4,4,967,house,931,1955,709913.41,2,1.6,rural,0,false
+968,Brown,615,1,5,968,house,4689,2016,401696.64,3,3.1,urban,1,false
+969,Ronald Regan,259,1,6,969,townhouse,1276,1984,919874.21,2,2.0,urban,3,false
+970,Karstens,856,5,4,970,townhouse,4020,1917,723713.65,6,2.5,suburban,3,false
+971,Prentice,875,2,3,971,townhouse,2144,1968,968497.57,3,1.2,urban,2,false
+972,Sutteridge,148,2,3,972,apartment,1656,1963,784057.22,2,3.7,urban,3,false
+973,Transport,930,3,3,973,house,4746,1964,704115.59,5,3.7,urban,0,false
+974,Union,369,4,1,974,house,4035,1994,977947.06,6,2.7,rural,3,true
+975,Independence,117,4,5,975,apartment,2387,1908,906444.43,4,3.4,rural,1,true
+976,Linden,415,4,2,976,house,729,2009,928837.66,2,1.9,rural,1,true
+977,3rd,25,4,6,977,house,2338,2019,453267.16,5,1.2,urban,1,false
+978,Village,525,3,3,978,apartment,2077,1909,956377.64,2,1.7,urban,2,false
+979,Portage,632,2,6,979,townhouse,3443,2001,754778.2,2,3.0,urban,3,true
+980,Continental,247,4,5,980,condo,2206,1935,985857.79,1,1.5,urban,2,false
+981,Dapin,427,3,5,981,house,608,1930,439783.15,6,1.9,suburban,2,false
+982,Brown,317,2,4,982,townhouse,2534,1906,736279.28,5,2.2,urban,1,true
+983,Stoughton,750,2,6,983,townhouse,2762,1974,626081.53,5,3.7,suburban,2,true
+984,Boyd,10,4,6,984,condo,4132,1913,938568.34,1,2.9,suburban,2,true
+985,Vera,313,4,3,985,condo,3766,1979,577350.87,5,1.8,suburban,1,true
+986,Buell,541,2,5,986,condo,1163,1934,314663.82,4,2.6,urban,3,true
+987,Golf Course,471,5,2,987,condo,3487,1982,476873.25,1,3.1,urban,2,false
+988,Kedzie,830,3,5,988,townhouse,2735,2019,392086.76,6,3.3,rural,2,false
+989,Trailsway,208,1,1,989,apartment,3597,1990,326916.18,6,1.6,urban,0,false
+990,Sullivan,979,5,2,990,townhouse,3262,1907,863992.82,3,3.4,suburban,0,false
+991,Morningstar,21,2,2,991,townhouse,4070,1994,768975.01,1,3.3,rural,1,true
+992,Arapahoe,669,5,3,992,condo,4043,1971,531078.7,5,1.5,suburban,2,true
+993,Lyons,901,2,2,993,apartment,938,1904,700370.8,2,2.3,suburban,1,true
+994,West,325,2,5,994,townhouse,1828,1964,610738.45,6,3.5,suburban,3,true
+995,Kinsman,908,5,3,995,house,2231,1931,504126.46,5,3.9,suburban,3,false
+996,Armistice,757,4,5,996,townhouse,2529,1938,730786.23,4,2.8,rural,3,true
+997,Onsgard,86,5,5,997,house,4030,1942,969015.48,5,3.0,suburban,0,false
+998,Burning Wood,200,1,5,998,condo,3995,2014,386034.74,1,2.1,urban,2,false
+999,Acker,215,4,4,999,apartment,863,1931,141819.6,6,3.9,urban,1,true
+1000,Havey,892,5,3,1000,apartment,4461,1918,868032.16,4,2.8,suburban,2,true

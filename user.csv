@@ -1,0 +1,1001 @@
+person_id,first_name,last_name,age,gender,income,education_level,employment_status,marital_status,housing_type,customer_id,credit_score,credit_limit,outstanding_debt,payment_history,loan_purpose,loan_amount,loan_term
+1,Melamie,Pendle,61,Female,Ruble,Bachelor's Degree,Employed,Widowed,Own,1,845,75118.65,42339.99,on-time,debt consolidation,54814.63,12
+2,Hodge,Tadlow,35,Male,Hryvnia,Bachelor's Degree,Unemployed,Single,Rent,2,350,86192.01,11283.44,missed,home improvement,96900.95,24
+3,Solomon,Auletta,63,Male,Dirham,Bachelor's Degree,Self-Employed,Married,Own,3,456,17673.27,29675.15,on-time,home improvement,43425.18,18
+4,Rosana,Kann,69,Female,Euro,Master's Degree,Self-Employed,Single,Rent,4,469,44183.19,2780.82,missed,debt consolidation,42335.32,27
+5,Ab,Tschierasche,48,Male,Koruna,High School Diploma,Unemployed,Divorced,Mortgage,5,448,72783.18,18498.55,missed,home improvement,31531.47,5
+6,Bayard,Mossbee,18,Male,Yuan Renminbi,Master's Degree,Employed,Single,Mortgage,6,663,58785.33,1.26,missed,home improvement,53364.96,19
+7,Stacee,Belton,84,Male,Sol,Master's Degree,Self-Employed,Single,Mortgage,7,551,12732.28,22696.4,late,home improvement,4158.36,29
+8,Gipsy,Marzelle,37,Female,Dong,High School Diploma,Unemployed,Widowed,Mortgage,8,621,88782.9,26113.78,missed,debt consolidation,1826.73,14
+9,Phillip,Pimlett,85,Male,Baht,Bachelor's Degree,Employed,Widowed,Own,9,392,12526.22,25612.32,late,home improvement,87527.16,17
+10,Selina,Eborall,42,Female,Peso,High School Diploma,Self-Employed,Single,Own,10,577,85172.51,34619.74,missed,home improvement,67136.03,1
+11,Simeon,Reilingen,18,Male,Euro,High School Diploma,Self-Employed,Divorced,Mortgage,11,786,59046.03,38030.98,missed,home improvement,42330.51,15
+12,Elita,Costock,84,Female,Yuan Renminbi,High School Diploma,Self-Employed,Divorced,Own,12,316,56394.12,2845.62,late,home improvement,24770.82,18
+13,Matty,Knok,73,Agender,Real,Master's Degree,Unemployed,Widowed,Own,13,734,39011.72,49900.57,on-time,medical expenses,92647.58,10
+14,Gerik,Amor,74,Male,Peso,High School Diploma,Self-Employed,Married,Mortgage,14,701,90184.59,2740.02,missed,medical expenses,33215.15,14
+15,Saudra,Simonou,66,Female,Rupiah,Bachelor's Degree,Employed,Widowed,Mortgage,15,446,68297.63,40069.19,late,debt consolidation,94512.15,26
+16,Leslie,McTrustam,32,Female,Peso,Bachelor's Degree,Employed,Widowed,Own,16,690,73320.74,30589.14,missed,debt consolidation,41959.35,18
+17,Kristopher,Gaylor,55,Male,Peso,High School Diploma,Employed,Divorced,Rent,17,678,76202.73,41482.83,late,medical expenses,47324.52,17
+18,Etan,Eilhertsen,81,Genderfluid,Euro,High School Diploma,Employed,Widowed,Mortgage,18,383,60701.12,3639.31,on-time,medical expenses,68538.25,6
+19,Shanta,Message,26,Female,Yuan Renminbi,PhD,Self-Employed,Widowed,Own,19,428,11421.09,3939.27,missed,home improvement,22849.31,13
+20,Ned,Belhome,32,Male,Marka,PhD,Unemployed,Single,Mortgage,20,434,42658.94,24384.27,late,home improvement,34854.33,27
+21,Olga,Canning,57,Female,Dollar,Bachelor's Degree,Unemployed,Single,Own,21,733,41055.19,48985.13,on-time,medical expenses,12428.39,21
+22,Marysa,Wermerling,32,Female,Ariary,High School Diploma,Employed,Married,Rent,22,477,51844.94,21116.44,missed,debt consolidation,38485.82,25
+23,Yuma,Geertsen,77,Polygender,Ruble,Bachelor's Degree,Unemployed,Single,Own,23,715,41719.81,36290.36,on-time,debt consolidation,46464.03,24
+24,Celene,Bewfield,32,Genderqueer,Zloty,Master's Degree,Self-Employed,Married,Mortgage,24,303,42459.18,36897.39,on-time,debt consolidation,62574.69,7
+25,Wilmette,Dymidowski,18,Female,Peso,Bachelor's Degree,Employed,Divorced,Own,25,590,44322.39,30669.63,late,medical expenses,46157.44,20
+26,Odelinda,Balderson,52,Polygender,Taka,Master's Degree,Unemployed,Married,Own,26,309,66081.8,12729.61,late,medical expenses,99245.41,16
+27,Nils,Faux,52,Male,Peso,High School Diploma,Employed,Widowed,Own,27,613,70684.99,10492.9,late,debt consolidation,99138.62,14
+28,Bart,Lucock,81,Male,Quetzal,Bachelor's Degree,Employed,Married,Own,28,557,67389.19,48410.86,on-time,home improvement,85145.68,11
+29,Zaneta,Mongan,63,Female,Rupiah,Bachelor's Degree,Employed,Widowed,Rent,29,380,88617.93,33965.09,late,medical expenses,10627.24,16
+30,Pamella,Richards,77,Female,Real,High School Diploma,Self-Employed,Divorced,Own,30,359,74861.43,44382.01,late,home improvement,57498.72,8
+31,Johna,Neillans,85,Female,Ruble,High School Diploma,Employed,Divorced,Rent,31,807,82946.89,43489.92,missed,medical expenses,87292.32,7
+32,Myrvyn,Hixley,33,Male,Naira,Bachelor's Degree,Self-Employed,Single,Mortgage,32,663,31294.09,25726.0,late,home improvement,35240.88,11
+33,Patrizius,Dri,76,Male,Rupiah,Master's Degree,Employed,Married,Rent,33,681,51436.86,33134.98,late,medical expenses,94150.49,7
+34,Aviva,Troubridge,58,Female,Somoni,PhD,Employed,Single,Rent,34,842,77018.59,30855.93,missed,debt consolidation,58956.68,20
+35,Marci,Parkman,23,Female,Peso,PhD,Employed,Married,Mortgage,35,409,24045.23,29423.65,on-time,home improvement,9317.27,23
+36,Prince,Carde,59,Male,Dollar,Bachelor's Degree,Unemployed,Single,Mortgage,36,470,33520.88,39798.37,missed,medical expenses,61650.35,6
+37,Bethena,Auston,53,Female,Krona,High School Diploma,Employed,Married,Rent,37,512,84193.99,24835.3,missed,medical expenses,42140.33,20
+38,Terri-jo,Halley,47,Female,Zloty,High School Diploma,Self-Employed,Divorced,Rent,38,822,53886.31,46740.69,late,home improvement,74136.05,30
+39,Stevana,Lindback,62,Female,Krone,Bachelor's Degree,Unemployed,Married,Mortgage,39,313,50206.07,8572.95,on-time,debt consolidation,49088.94,25
+40,Richmond,Yakuntzov,84,Genderfluid,Baht,PhD,Self-Employed,Married,Own,40,831,55519.01,13353.49,missed,debt consolidation,97076.93,5
+41,Holli,Brookesbie,28,Female,Franc,High School Diploma,Self-Employed,Married,Rent,41,501,54723.25,46740.37,late,medical expenses,31155.1,6
+42,Laney,Nathon,68,Female,Dollar,Bachelor's Degree,Self-Employed,Single,Rent,42,818,23873.73,5318.72,late,medical expenses,53122.4,12
+43,Menard,Oxteby,47,Male,Krona,High School Diploma,Unemployed,Married,Rent,43,450,88435.14,35422.9,missed,debt consolidation,95177.37,24
+44,Kurtis,Betun,20,Bigender,Franc,Master's Degree,Self-Employed,Divorced,Rent,44,669,61174.9,18408.4,late,home improvement,29020.67,4
+45,Peggie,Isaak,62,Female,Real,PhD,Self-Employed,Divorced,Rent,45,513,24227.5,17481.45,late,medical expenses,6414.36,1
+46,Ernesta,Horsewood,62,Agender,Peso,PhD,Unemployed,Single,Mortgage,46,426,33364.2,27327.14,late,home improvement,18147.22,16
+47,Noreen,Brozsset,38,Female,Ruble,Bachelor's Degree,Self-Employed,Single,Own,47,438,77847.21,33508.0,missed,medical expenses,29200.64,16
+48,Merwyn,Larchiere,30,Male,Rupiah,Master's Degree,Self-Employed,Single,Own,48,613,21160.46,10975.27,on-time,debt consolidation,86623.11,16
+49,Heidi,Bullman,36,Female,Sol,Master's Degree,Employed,Single,Own,49,355,42890.36,31178.66,missed,debt consolidation,43870.59,1
+50,Tomkin,Gissop,49,Male,Euro,Master's Degree,Unemployed,Single,Mortgage,50,505,90075.91,13959.94,on-time,debt consolidation,52384.55,15
+51,Sayres,Skeffington,26,Male,Rupiah,High School Diploma,Employed,Single,Own,51,316,8348.51,48813.9,missed,home improvement,45549.55,29
+52,Cornelle,Veld,54,Female,Marka,Master's Degree,Self-Employed,Married,Rent,52,602,95176.88,49363.2,on-time,home improvement,38832.58,6
+53,Mollie,Brewster,33,Female,Franc,PhD,Employed,Widowed,Mortgage,53,835,65849.31,26723.12,missed,debt consolidation,82469.64,1
+54,Brandi,Hurn,26,Female,Yuan Renminbi,PhD,Self-Employed,Single,Rent,54,706,12079.67,49316.32,late,home improvement,78718.86,2
+55,Garnette,Averay,83,Female,Yuan Renminbi,Master's Degree,Self-Employed,Divorced,Mortgage,55,567,88073.62,41137.91,on-time,debt consolidation,68031.94,8
+56,Sonnie,Cluse,60,Male,Won,Bachelor's Degree,Unemployed,Single,Rent,56,351,90618.15,16734.38,missed,debt consolidation,64682.62,5
+57,Corella,Rignoldes,64,Genderqueer,Euro,Master's Degree,Unemployed,Single,Rent,57,832,41525.42,26931.34,late,home improvement,22055.18,1
+58,Juline,Poznanski,32,Female,Real,Bachelor's Degree,Unemployed,Widowed,Rent,58,598,11866.85,40615.69,missed,medical expenses,96544.01,15
+59,Erie,Edwicker,23,Male,Dollar,PhD,Employed,Divorced,Rent,59,385,25282.94,35199.55,missed,home improvement,32449.77,16
+60,Penn,Clemo,79,Male,Peso,Master's Degree,Self-Employed,Divorced,Own,60,379,24407.72,18896.12,missed,home improvement,26892.99,27
+61,Jessie,Klejin,76,Male,Zloty,High School Diploma,Employed,Single,Rent,61,542,39301.09,36706.54,late,debt consolidation,18666.56,21
+62,Aggy,Mozzi,57,Female,Dong,Master's Degree,Self-Employed,Married,Own,62,341,23388.84,8128.67,late,medical expenses,15107.8,14
+63,Claudie,Elacoate,50,Genderqueer,Yuan Renminbi,PhD,Self-Employed,Single,Rent,63,806,24446.54,4757.0,late,medical expenses,37029.02,9
+64,Lindsey,Conry,53,Male,Euro,PhD,Self-Employed,Widowed,Own,64,818,63724.15,40653.39,late,home improvement,93400.29,16
+65,Emmeline,Gomar,57,Female,Somoni,PhD,Self-Employed,Divorced,Own,65,788,71428.41,22883.18,on-time,debt consolidation,38892.12,13
+66,Kimble,Delgaty,67,Male,Yuan Renminbi,Bachelor's Degree,Employed,Widowed,Mortgage,66,570,18747.88,16255.88,missed,debt consolidation,29864.5,15
+67,Jacynth,Cushelly,75,Female,Dinar,PhD,Self-Employed,Divorced,Rent,67,375,54786.47,40656.9,on-time,debt consolidation,82586.23,22
+68,Beverly,Timberlake,84,Female,Rupiah,Master's Degree,Self-Employed,Widowed,Own,68,597,85288.43,4495.92,missed,home improvement,45846.52,13
+69,Filia,Haken,34,Female,Ruble,Master's Degree,Employed,Divorced,Own,69,675,23668.89,12563.6,late,home improvement,30162.71,10
+70,Quintana,Marty,53,Female,Peso,Master's Degree,Employed,Divorced,Mortgage,70,771,87695.54,43367.13,on-time,home improvement,32520.92,26
+71,Simonne,Danilchev,78,Female,Dirham,High School Diploma,Unemployed,Widowed,Rent,71,541,67103.58,49608.07,missed,home improvement,39224.94,26
+72,Damita,Bulfield,66,Female,Rupiah,Master's Degree,Employed,Widowed,Mortgage,72,348,54131.0,39367.41,late,home improvement,96544.26,10
+73,Thomasa,Nevet,79,Female,Euro,High School Diploma,Self-Employed,Single,Own,73,785,74559.49,47562.18,on-time,debt consolidation,35128.59,10
+74,Aldwin,McLugish,21,Male,Peso,Bachelor's Degree,Employed,Divorced,Mortgage,74,503,74792.62,49470.26,on-time,medical expenses,88830.54,10
+75,Dolli,Carrington,25,Female,Krona,PhD,Employed,Divorced,Mortgage,75,361,67951.72,3096.11,on-time,medical expenses,97749.9,30
+76,Morgana,Jayne,25,Female,Yuan Renminbi,Bachelor's Degree,Unemployed,Divorced,Own,76,413,78712.16,6523.35,missed,medical expenses,1308.42,2
+77,Germayne,Honisch,65,Male,Riels,Bachelor's Degree,Self-Employed,Widowed,Rent,77,628,95755.68,33803.26,missed,medical expenses,74340.57,2
+78,Eustace,Scartifield,41,Male,Tugrik,High School Diploma,Employed,Divorced,Mortgage,78,556,66938.57,25836.12,late,medical expenses,37275.12,22
+79,Ana,Hasslocher,49,Female,Zloty,Bachelor's Degree,Self-Employed,Divorced,Mortgage,79,669,95814.88,41883.5,late,debt consolidation,8828.15,11
+80,Chrysa,Draisey,44,Female,Zloty,Bachelor's Degree,Unemployed,Widowed,Mortgage,80,378,88470.15,48973.62,on-time,debt consolidation,68360.94,13
+81,Carmelia,Deeth,36,Genderqueer,Peso,PhD,Self-Employed,Married,Own,81,563,38639.99,47819.54,missed,debt consolidation,44457.19,1
+82,Prentiss,Gough,41,Non-binary,Ruble,Bachelor's Degree,Unemployed,Divorced,Rent,82,754,58938.51,20418.58,missed,home improvement,85586.44,27
+83,Beilul,Colbertson,41,Female,Yuan Renminbi,Master's Degree,Employed,Widowed,Own,83,425,25543.61,4247.27,late,debt consolidation,19389.48,23
+84,Dex,Fordy,66,Male,Peso,PhD,Self-Employed,Divorced,Rent,84,589,48227.14,7767.35,late,home improvement,24327.34,17
+85,Sonny,Daffey,75,Agender,Shilling,Master's Degree,Self-Employed,Widowed,Mortgage,85,366,36072.54,48778.16,late,home improvement,16090.14,1
+86,Munmro,Kubista,30,Male,Yuan Renminbi,PhD,Self-Employed,Married,Mortgage,86,731,98810.05,27479.55,missed,debt consolidation,26636.68,12
+87,Inez,Daffern,77,Female,Rupiah,PhD,Employed,Widowed,Mortgage,87,847,42785.99,3064.73,late,medical expenses,78868.7,19
+88,Joletta,Couzens,28,Female,Zloty,PhD,Employed,Widowed,Own,88,436,20728.7,49224.71,late,medical expenses,29275.45,12
+89,Cam,Matteini,74,Female,Ruble,PhD,Unemployed,Divorced,Own,89,585,21881.7,15210.15,missed,home improvement,59555.25,2
+90,Luke,Mc Caughen,81,Male,Lempira,PhD,Self-Employed,Divorced,Mortgage,90,803,26764.94,37848.34,on-time,medical expenses,10287.34,24
+91,Blayne,Pinare,29,Male,Yuan Renminbi,High School Diploma,Self-Employed,Widowed,Mortgage,91,616,34345.99,44064.91,on-time,debt consolidation,68841.15,15
+92,Gipsy,Skala,42,Female,Zloty,PhD,Self-Employed,Married,Mortgage,92,585,24235.71,20968.86,missed,debt consolidation,90352.95,29
+93,Hank,Divis,65,Male,Peso,PhD,Unemployed,Single,Mortgage,93,608,90416.0,34971.46,on-time,debt consolidation,12296.63,24
+94,Rebeca,Loudon,19,Female,Dinar,High School Diploma,Employed,Widowed,Own,94,351,79811.99,26094.64,late,home improvement,6693.92,19
+95,Neysa,Scandrett,27,Female,Zloty,High School Diploma,Unemployed,Single,Own,95,626,50194.69,46123.93,late,debt consolidation,78771.01,17
+96,Margarete,Beach,46,Genderqueer,Rupiah,Bachelor's Degree,Self-Employed,Single,Rent,96,624,48478.37,42586.16,late,home improvement,32785.55,4
+97,Brena,Revel,60,Female,Rupiah,Master's Degree,Unemployed,Married,Mortgage,97,546,54188.45,12325.02,on-time,home improvement,69890.96,3
+98,Joline,Tradewell,59,Female,Peso,High School Diploma,Employed,Married,Rent,98,813,88131.6,33768.8,on-time,home improvement,69376.82,1
+99,Shanan,Kornousek,75,Non-binary,Ruble,PhD,Employed,Married,Own,99,579,24426.09,30814.71,missed,home improvement,65805.47,15
+100,Lacie,Kevern,51,Non-binary,Real,Master's Degree,Unemployed,Single,Rent,100,746,57363.32,21227.27,missed,home improvement,22923.53,8
+101,Wang,Truscott,37,Male,Rupee,PhD,Employed,Single,Mortgage,101,799,57943.79,44551.9,missed,home improvement,71681.68,7
+102,Pren,Walewicz,67,Male,Naira,Master's Degree,Self-Employed,Married,Mortgage,102,559,29665.82,32307.72,missed,home improvement,7909.32,24
+103,Nickola,Arden,32,Male,Yuan Renminbi,High School Diploma,Employed,Married,Mortgage,103,557,94166.49,8535.11,on-time,home improvement,42928.31,26
+104,Flss,Luxon,65,Bigender,Yuan Renminbi,High School Diploma,Employed,Single,Rent,104,710,66616.64,40358.83,on-time,home improvement,91751.93,26
+105,Stan,Welds,84,Male,Euro,High School Diploma,Employed,Married,Own,105,302,47460.51,4827.75,late,home improvement,4576.21,17
+106,Beatrix,Shatford,33,Female,Ruble,Master's Degree,Unemployed,Single,Rent,106,420,31310.79,24407.94,late,home improvement,34703.99,9
+107,Adoree,Humberstone,46,Female,Rupiah,Bachelor's Degree,Employed,Widowed,Own,107,771,51782.5,8973.52,missed,medical expenses,67943.56,20
+108,Milo,aManger,40,Male,Yuan Renminbi,Master's Degree,Unemployed,Widowed,Own,108,757,35685.88,32130.55,late,debt consolidation,84291.27,3
+109,Herve,Glaves,73,Male,Dollar,PhD,Self-Employed,Widowed,Mortgage,109,388,14118.05,42996.82,late,debt consolidation,60815.88,14
+110,Dannel,Eagger,36,Male,Dollar,High School Diploma,Unemployed,Single,Rent,110,391,59650.97,14998.0,late,debt consolidation,48438.77,2
+111,Ferrel,Fehners,71,Male,Bolivar,PhD,Employed,Single,Rent,111,410,61043.11,38202.14,missed,home improvement,35037.86,19
+112,Armstrong,Wandrach,51,Bigender,Yuan Renminbi,Bachelor's Degree,Self-Employed,Single,Rent,112,345,67346.92,22797.05,on-time,medical expenses,74548.85,25
+113,Jacinda,Figgins,77,Female,Euro,Master's Degree,Unemployed,Widowed,Mortgage,113,831,72009.89,49398.99,late,debt consolidation,5184.31,2
+114,Bibbie,Tappington,55,Female,Yuan Renminbi,Bachelor's Degree,Self-Employed,Widowed,Rent,114,439,22062.0,47421.28,missed,home improvement,12887.41,19
+115,Phineas,Stranio,59,Male,Franc,Bachelor's Degree,Unemployed,Single,Mortgage,115,757,28971.38,4170.55,late,debt consolidation,3528.2,6
+116,Lucky,Leftwich,70,Female,Rupiah,High School Diploma,Self-Employed,Divorced,Rent,116,767,52388.24,2567.33,missed,medical expenses,99966.21,28
+117,Meggy,Morby,20,Female,Yuan Renminbi,PhD,Unemployed,Widowed,Own,117,373,92979.84,25185.86,late,debt consolidation,43339.95,10
+118,Jase,Tuttle,72,Male,Dollar,Bachelor's Degree,Self-Employed,Married,Rent,118,715,60277.81,45960.8,missed,debt consolidation,51511.78,27
+119,Carroll,Dudderidge,66,Female,Ruble,PhD,Self-Employed,Widowed,Mortgage,119,826,57652.85,17947.98,late,medical expenses,24602.3,27
+120,Lindy,Feldbaum,60,Male,Hryvnia,High School Diploma,Unemployed,Single,Rent,120,683,94406.89,26349.27,on-time,debt consolidation,10310.57,30
+121,Delaney,Dunstan,28,Male,Baht,Bachelor's Degree,Employed,Widowed,Rent,121,556,36468.24,32266.81,late,debt consolidation,13399.73,6
+122,Moselle,Milberry,45,Female,Zloty,High School Diploma,Unemployed,Widowed,Mortgage,122,444,15922.03,23198.47,missed,home improvement,29514.01,26
+123,Rutger,Burndred,84,Male,Baht,Master's Degree,Unemployed,Divorced,Own,123,571,74992.4,11300.59,on-time,debt consolidation,31830.52,18
+124,Stanford,Di Antonio,28,Male,Euro,High School Diploma,Unemployed,Married,Mortgage,124,471,89617.1,48656.44,on-time,medical expenses,10320.36,20
+125,Norah,Chstney,71,Female,Euro,Bachelor's Degree,Self-Employed,Single,Mortgage,125,371,19231.2,47114.06,on-time,debt consolidation,80940.28,23
+126,Wilfrid,Peres,77,Male,Sol,PhD,Self-Employed,Divorced,Own,126,313,23110.64,32410.76,missed,debt consolidation,61609.58,12
+127,Euphemia,Crum,56,Bigender,Lempira,Master's Degree,Self-Employed,Widowed,Mortgage,127,699,60309.42,17459.15,on-time,debt consolidation,47214.41,29
+128,Anders,Wordsworth,37,Male,Krona,High School Diploma,Employed,Widowed,Rent,128,537,8265.28,34225.8,missed,debt consolidation,48048.39,27
+129,Johanna,Jerrems,32,Non-binary,Yuan Renminbi,Master's Degree,Self-Employed,Single,Own,129,670,83118.5,30444.19,late,debt consolidation,13528.36,18
+130,Raddie,Wyldish,69,Male,Koruna,Master's Degree,Employed,Single,Rent,130,366,19844.48,8919.05,missed,debt consolidation,23798.23,10
+131,Gayler,Zanolli,59,Male,Dollar,Master's Degree,Self-Employed,Divorced,Rent,131,613,10907.41,18666.89,on-time,medical expenses,3554.8,29
+132,Blanche,Fortoun,37,Female,Peso,Bachelor's Degree,Employed,Married,Rent,132,669,1587.64,38553.39,late,home improvement,65246.91,21
+133,Leora,Olford,26,Female,Euro,PhD,Self-Employed,Single,Mortgage,133,304,70482.52,20238.12,missed,home improvement,3729.88,6
+134,Raynor,Applewhite,28,Male,Rupiah,Bachelor's Degree,Unemployed,Widowed,Mortgage,134,800,87696.51,28892.71,missed,home improvement,89808.98,1
+135,Fremont,Tynewell,82,Male,Krona,Master's Degree,Unemployed,Married,Own,135,466,21725.59,27668.34,late,home improvement,79611.63,6
+136,Carson,Britee,45,Male,Baht,High School Diploma,Employed,Single,Rent,136,518,72287.1,7946.12,late,home improvement,91208.23,2
+137,Tiler,McNickle,39,Male,Rupiah,Bachelor's Degree,Self-Employed,Divorced,Own,137,538,51101.6,35581.08,late,medical expenses,90714.4,25
+138,Cherye,Curnock,48,Female,Forint,Bachelor's Degree,Employed,Widowed,Rent,138,530,21489.23,27327.12,late,home improvement,60036.43,27
+139,Dania,Macias,84,Female,Peso,Master's Degree,Employed,Single,Rent,139,634,92718.07,29461.75,on-time,debt consolidation,90679.25,15
+140,Benjy,Rising,77,Male,Lek,Master's Degree,Employed,Single,Mortgage,140,649,93780.9,31432.78,missed,home improvement,40600.97,12
+141,Paolo,Render,26,Male,Rand,Bachelor's Degree,Employed,Single,Own,141,760,36578.27,16757.45,missed,debt consolidation,15193.78,17
+142,Coletta,Antoniottii,42,Female,Euro,Master's Degree,Self-Employed,Widowed,Own,142,681,96948.32,29309.23,missed,home improvement,95281.19,30
+143,Tedra,Guyonnet,50,Female,Peso,Master's Degree,Self-Employed,Single,Rent,143,721,85240.88,48746.44,missed,home improvement,54120.37,8
+144,Diarmid,Cullrford,40,Male,Rupiah,High School Diploma,Unemployed,Divorced,Mortgage,144,330,48508.39,32863.31,missed,home improvement,31918.42,11
+145,Nance,Kinnock,61,Female,Yuan Renminbi,PhD,Employed,Divorced,Own,145,695,29012.24,13277.05,missed,medical expenses,82713.03,3
+146,Dallas,Petteford,24,Male,Franc,Bachelor's Degree,Employed,Divorced,Own,146,495,55333.92,43188.26,missed,debt consolidation,1441.94,8
+147,Alden,Pontefract,49,Male,Yen,Bachelor's Degree,Self-Employed,Married,Own,147,548,20439.42,23525.76,late,home improvement,8628.41,27
+148,Paquito,Theis,44,Male,Yuan Renminbi,Bachelor's Degree,Self-Employed,Widowed,Own,148,547,46748.88,38738.61,late,home improvement,44428.57,2
+149,Felipa,O'Luby,76,Female,Rupiah,PhD,Employed,Widowed,Mortgage,149,624,4994.17,12443.01,missed,debt consolidation,62094.75,1
+150,Rafaelita,Costello,38,Female,Real,Bachelor's Degree,Unemployed,Married,Rent,150,391,10993.59,38648.84,late,debt consolidation,60219.71,28
+151,Donal,Beazer,39,Male,Koruna,PhD,Employed,Single,Rent,151,470,58697.12,11732.45,missed,home improvement,57644.5,16
+152,Tally,Dilke,68,Male,Euro,PhD,Unemployed,Single,Mortgage,152,490,7008.22,15852.4,late,home improvement,71784.05,28
+153,Karyn,Meeny,37,Female,Yen,PhD,Self-Employed,Divorced,Own,153,796,6950.56,14004.89,missed,home improvement,50169.67,7
+154,Elfrida,MacLaverty,27,Female,Forint,PhD,Employed,Married,Rent,154,701,44463.12,5004.45,missed,home improvement,93053.82,19
+155,Hasheem,Boog,58,Male,Sol,Bachelor's Degree,Self-Employed,Married,Mortgage,155,334,10686.48,27533.6,missed,medical expenses,49273.55,2
+156,Mandie,Liebrecht,56,Female,Franc,High School Diploma,Self-Employed,Divorced,Mortgage,156,738,56026.43,9108.22,missed,medical expenses,29314.53,25
+157,Alberto,Course,22,Male,Dollar,Bachelor's Degree,Unemployed,Married,Rent,157,625,49538.59,7688.24,late,home improvement,49695.23,24
+158,Tally,Parrett,66,Female,Yuan Renminbi,Master's Degree,Unemployed,Married,Rent,158,720,3974.36,27645.26,late,medical expenses,46403.49,3
+159,Maurise,Dykes,70,Male,Dollar,High School Diploma,Self-Employed,Widowed,Mortgage,159,605,53594.72,40317.2,on-time,home improvement,24551.94,4
+160,Renee,Hendrickson,35,Genderqueer,Yuan Renminbi,Bachelor's Degree,Unemployed,Widowed,Own,160,681,43285.85,11552.39,on-time,debt consolidation,20213.16,27
+161,Ari,Trebilcock,24,Male,Euro,PhD,Unemployed,Divorced,Mortgage,161,477,83740.74,15781.8,missed,debt consolidation,16651.34,29
+162,Hildagard,Friberg,59,Female,Rupee,PhD,Employed,Married,Own,162,586,28193.81,39070.27,missed,medical expenses,27294.12,26
+163,Fawnia,Mutter,58,Genderfluid,Ruble,PhD,Employed,Married,Own,163,830,95730.51,11255.16,missed,home improvement,77512.45,3
+164,Kiersten,Rossey,32,Female,Peso,Bachelor's Degree,Employed,Divorced,Mortgage,164,383,48856.18,10004.03,on-time,debt consolidation,33444.09,27
+165,Moselle,Hotton,25,Polygender,Yuan Renminbi,PhD,Unemployed,Divorced,Mortgage,165,771,19311.46,3973.05,missed,medical expenses,33334.25,7
+166,Dorree,Ormshaw,30,Female,Lev,High School Diploma,Employed,Widowed,Own,166,675,63343.49,31660.89,on-time,medical expenses,41043.84,29
+167,Kippie,Fochs,57,Male,Dollar,Master's Degree,Self-Employed,Single,Rent,167,565,79991.1,7357.13,missed,home improvement,4612.99,24
+168,Heinrick,Stoneley,39,Male,Shilling,PhD,Employed,Married,Own,168,634,23868.45,34716.41,on-time,home improvement,50024.88,16
+169,Wandie,Jonczyk,23,Female,Real,Bachelor's Degree,Self-Employed,Widowed,Own,169,308,52339.63,22468.52,late,home improvement,83132.49,3
+170,Judie,Crowter,78,Female,Dong,High School Diploma,Self-Employed,Widowed,Rent,170,839,40227.18,3405.46,late,debt consolidation,2519.02,20
+171,Frederick,Lamzed,78,Male,Peso,Bachelor's Degree,Self-Employed,Divorced,Mortgage,171,619,35215.61,1775.9,on-time,debt consolidation,94240.26,27
+172,Corly,Turpin,72,Female,Peso,PhD,Self-Employed,Married,Mortgage,172,330,26951.17,9339.0,missed,debt consolidation,55888.48,5
+173,Lion,Eixenberger,41,Male,Dollar,Master's Degree,Employed,Married,Own,173,687,56238.82,21084.87,missed,debt consolidation,94806.17,10
+174,Bary,Bolland,74,Male,Yen,Bachelor's Degree,Employed,Divorced,Rent,174,331,47575.07,31675.25,on-time,debt consolidation,14900.54,10
+175,Delmor,Ponten,52,Male,Yuan Renminbi,PhD,Employed,Widowed,Rent,175,841,78665.01,43791.93,late,debt consolidation,78938.77,27
+176,Nichols,Boyles,74,Male,Euro,PhD,Self-Employed,Widowed,Own,176,494,23930.46,11303.42,on-time,debt consolidation,77078.67,4
+177,Dickie,Rubenchik,42,Male,Real,Bachelor's Degree,Employed,Married,Mortgage,177,815,34219.15,24354.09,late,debt consolidation,19658.59,19
+178,Camille,McDowall,34,Female,Yuan Renminbi,Bachelor's Degree,Self-Employed,Divorced,Own,178,710,70580.08,30698.79,on-time,home improvement,36659.2,24
+179,Tyler,Leah,20,Male,Rupiah,Bachelor's Degree,Unemployed,Widowed,Mortgage,179,774,54739.31,3820.8,missed,debt consolidation,51122.24,16
+180,Spencer,Mc Mechan,21,Male,Kuna,High School Diploma,Self-Employed,Divorced,Mortgage,180,644,14074.1,21243.24,late,debt consolidation,48748.53,25
+181,Arielle,Kovalski,52,Bigender,Real,Master's Degree,Self-Employed,Divorced,Rent,181,762,65165.0,44947.59,missed,medical expenses,25876.25,5
+182,Joanne,McTrustrie,21,Female,Lev,Master's Degree,Unemployed,Widowed,Own,182,525,29180.83,35553.19,on-time,debt consolidation,20649.01,14
+183,Mariette,Riseam,21,Female,Cordoba,High School Diploma,Employed,Widowed,Mortgage,183,530,87721.54,21086.32,late,debt consolidation,42860.69,23
+184,Reinaldos,Lundbech,38,Male,Yuan Renminbi,Master's Degree,Unemployed,Divorced,Rent,184,430,72952.31,6387.67,on-time,home improvement,5276.59,18
+185,Arielle,Rooper,25,Female,Euro,Bachelor's Degree,Unemployed,Divorced,Mortgage,185,567,7394.74,17436.07,on-time,home improvement,52219.3,4
+186,Jamill,Lawlie,53,Male,Euro,PhD,Employed,Married,Rent,186,733,40008.04,5476.15,missed,debt consolidation,52331.59,2
+187,Carmelia,Heffernon,76,Female,Rupiah,Bachelor's Degree,Unemployed,Widowed,Own,187,487,5183.78,9784.53,on-time,debt consolidation,59592.25,20
+188,Daryle,Clemmow,40,Male,Euro,Master's Degree,Employed,Divorced,Mortgage,188,675,53488.66,28843.29,on-time,medical expenses,47136.9,16
+189,Kerrie,Dommerque,50,Non-binary,Ruble,High School Diploma,Self-Employed,Single,Mortgage,189,325,11545.4,3725.89,late,debt consolidation,20328.99,28
+190,Bridie,Howley,26,Female,Yuan Renminbi,PhD,Self-Employed,Widowed,Rent,190,608,51684.37,4015.96,missed,home improvement,25622.2,7
+191,Nat,Blainey,30,Male,Rupiah,Master's Degree,Self-Employed,Single,Rent,191,834,14860.38,40620.32,on-time,home improvement,53541.68,30
+192,Latrina,Lindberg,58,Female,Krona,PhD,Self-Employed,Married,Rent,192,754,15322.79,38580.49,on-time,medical expenses,65097.55,29
+193,Hamlin,Manna,71,Male,Rial,Master's Degree,Self-Employed,Single,Rent,193,362,51486.87,6848.43,missed,medical expenses,10627.5,24
+194,Sid,Zimmermeister,72,Male,Euro,High School Diploma,Employed,Single,Rent,194,700,61483.09,18774.95,on-time,home improvement,62601.6,20
+195,Salvidor,Fermer,61,Male,Euro,Master's Degree,Self-Employed,Single,Mortgage,195,769,58158.45,1574.79,late,debt consolidation,66488.33,20
+196,Maurice,Orpen,29,Male,Hryvnia,Master's Degree,Self-Employed,Single,Own,196,644,93663.49,13966.34,late,medical expenses,8522.32,25
+197,Pamella,Heinle,80,Female,Yuan Renminbi,Bachelor's Degree,Unemployed,Divorced,Own,197,790,62811.76,29883.41,on-time,home improvement,37397.97,10
+198,Sholom,Larner,62,Male,Yuan Renminbi,High School Diploma,Employed,Divorced,Own,198,555,68468.55,24372.06,on-time,debt consolidation,24173.4,3
+199,Kayne,Goodge,34,Male,Yuan Renminbi,PhD,Employed,Married,Mortgage,199,685,98474.26,15264.38,late,debt consolidation,99509.91,18
+200,Phylys,Benzie,70,Female,Euro,Master's Degree,Unemployed,Married,Own,200,416,88534.59,30076.15,on-time,debt consolidation,15479.02,23
+201,Blair,MacAnulty,20,Female,Naira,Bachelor's Degree,Unemployed,Married,Rent,201,840,5006.56,13675.56,on-time,home improvement,80432.64,27
+202,Gunar,Fleg,81,Male,Euro,Master's Degree,Unemployed,Single,Rent,202,588,4930.83,27640.9,late,home improvement,87644.49,4
+203,Lura,Irnys,27,Agender,Euro,High School Diploma,Self-Employed,Widowed,Rent,203,700,80314.99,45511.08,missed,home improvement,97172.45,20
+204,Mildrid,Riolfi,79,Female,Yuan Renminbi,Bachelor's Degree,Unemployed,Married,Own,204,562,23613.24,2336.17,on-time,medical expenses,42915.56,3
+205,Skipp,Iwaszkiewicz,76,Male,Euro,High School Diploma,Self-Employed,Widowed,Rent,205,397,4279.7,25175.74,missed,home improvement,33443.14,30
+206,Udale,Camock,64,Male,Ruble,High School Diploma,Employed,Widowed,Rent,206,623,49747.43,5867.82,missed,medical expenses,78851.35,13
+207,Justinn,Bourbon,33,Female,Baht,PhD,Employed,Single,Rent,207,429,39916.48,49264.45,late,debt consolidation,67813.85,4
+208,Nance,MacCahey,28,Female,Yen,High School Diploma,Unemployed,Single,Own,208,490,8006.27,8092.06,on-time,medical expenses,44530.2,3
+209,Hadria,Leist,39,Female,Peso,Bachelor's Degree,Unemployed,Widowed,Own,209,769,73748.38,49647.12,on-time,medical expenses,56769.41,23
+210,Luke,Levicount,32,Male,Yuan Renminbi,PhD,Employed,Divorced,Own,210,425,50199.36,16543.55,on-time,home improvement,36815.69,5
+211,Berry,Skouling,78,Female,Dollar,High School Diploma,Self-Employed,Single,Own,211,642,69582.46,38894.72,on-time,home improvement,46785.45,6
+212,Dion,Poskitt,74,Male,Yuan Renminbi,High School Diploma,Unemployed,Married,Mortgage,212,713,99228.25,33940.06,late,home improvement,55343.59,9
+213,Druci,Risebarer,56,Female,Ruble,Bachelor's Degree,Self-Employed,Divorced,Own,213,418,54118.91,47101.95,late,home improvement,40743.14,19
+214,Tommi,Danes,20,Female,Sol,High School Diploma,Self-Employed,Widowed,Own,214,317,14431.55,35563.69,late,home improvement,54165.3,14
+215,Read,Adnams,18,Male,Euro,Bachelor's Degree,Self-Employed,Single,Mortgage,215,847,37718.92,44728.99,missed,medical expenses,86563.64,29
+216,Anne-marie,Marty,61,Female,Lempira,Bachelor's Degree,Employed,Married,Own,216,526,14874.38,44756.42,on-time,debt consolidation,99629.01,27
+217,Inigo,Grenfell,55,Male,Yuan Renminbi,PhD,Self-Employed,Divorced,Mortgage,217,699,6376.89,40141.16,missed,debt consolidation,62055.92,19
+218,Shelden,Dallin,67,Male,Rupiah,High School Diploma,Employed,Divorced,Own,218,478,2543.65,14832.77,late,home improvement,54314.21,9
+219,Vassili,Ambrois,25,Male,Real,Bachelor's Degree,Employed,Widowed,Mortgage,219,387,3313.38,42292.92,late,medical expenses,86267.76,3
+220,Emogene,Fountian,43,Female,Dollar,High School Diploma,Unemployed,Divorced,Own,220,782,35394.93,42571.48,late,home improvement,84777.92,21
+221,Clarette,Batters,29,Female,Dollar,Master's Degree,Self-Employed,Divorced,Rent,221,702,94855.63,36048.75,on-time,medical expenses,21984.1,15
+222,Ardelis,Horche,83,Female,Pound,Master's Degree,Self-Employed,Married,Own,222,678,35475.66,33967.64,on-time,debt consolidation,99539.93,25
+223,Wat,Gammack,65,Bigender,Yuan Renminbi,Bachelor's Degree,Self-Employed,Widowed,Mortgage,223,361,77514.53,14269.94,missed,medical expenses,63992.61,2
+224,Janey,Durham,70,Female,Euro,High School Diploma,Employed,Married,Mortgage,224,578,70153.87,1628.38,late,debt consolidation,16955.39,15
+225,Efrem,Whoolehan,33,Male,Peso,Master's Degree,Unemployed,Single,Own,225,773,35851.71,5851.54,missed,medical expenses,96291.35,21
+226,Gilligan,Andrusov,67,Female,Real,High School Diploma,Employed,Divorced,Own,226,300,98819.81,8265.99,missed,debt consolidation,96406.11,16
+227,Renaud,Gyrgorwicx,37,Male,Peso,High School Diploma,Unemployed,Widowed,Mortgage,227,731,1257.26,41848.54,missed,home improvement,51075.23,10
+228,Sydney,Headley,65,Genderqueer,Krone,PhD,Employed,Married,Mortgage,228,788,938.67,40835.78,late,medical expenses,80140.14,5
+229,Gerhardt,Flisher,24,Male,Rupiah,High School Diploma,Unemployed,Married,Own,229,405,34403.25,20671.92,late,medical expenses,27411.28,25
+230,Lucius,Claypool,19,Male,Hryvnia,Bachelor's Degree,Self-Employed,Married,Own,230,502,84098.34,37769.57,on-time,home improvement,99213.02,3
+231,Debra,Harget,29,Female,Gourde,High School Diploma,Unemployed,Married,Rent,231,688,15178.36,9828.86,late,medical expenses,92997.16,29
+232,Jazmin,Hendrik,41,Female,Cordoba,PhD,Employed,Widowed,Own,232,832,99446.4,3630.93,on-time,home improvement,19736.85,8
+233,Sibbie,Wardel,41,Female,Yuan Renminbi,High School Diploma,Self-Employed,Married,Rent,233,736,38311.27,24758.11,late,home improvement,70390.81,24
+234,Modestia,Capeloff,34,Female,Kina,PhD,Unemployed,Married,Rent,234,587,8815.7,40905.71,missed,home improvement,91655.36,24
+235,Carey,Godsafe,70,Male,Rupiah,High School Diploma,Employed,Married,Rent,235,413,43602.36,33476.53,on-time,home improvement,14500.72,26
+236,Myles,Vahl,78,Male,Koruna,High School Diploma,Self-Employed,Widowed,Mortgage,236,548,18607.06,34198.17,late,debt consolidation,87436.73,6
+237,Ann,Duplock,45,Female,Zloty,PhD,Employed,Widowed,Rent,237,369,19015.86,21108.1,late,medical expenses,99464.66,24
+238,Franz,Allebone,74,Male,Ruble,High School Diploma,Employed,Married,Rent,238,499,43687.54,28549.77,missed,medical expenses,89913.14,13
+239,Maddalena,Olsen,37,Female,Yuan Renminbi,Bachelor's Degree,Self-Employed,Single,Rent,239,423,54554.0,9747.75,late,medical expenses,61977.35,27
+240,Tawnya,Idney,75,Female,Rial,PhD,Employed,Single,Rent,240,689,23927.13,44200.2,on-time,medical expenses,21478.84,5
+241,Danie,McCarrick,76,Male,Baht,High School Diploma,Employed,Single,Own,241,695,21122.4,26261.92,on-time,medical expenses,30421.38,22
+242,Ashley,Largan,79,Female,Yuan Renminbi,High School Diploma,Employed,Widowed,Mortgage,242,721,99039.96,16985.31,missed,medical expenses,64371.52,14
+243,Ozzy,Ciccarello,18,Male,Euro,High School Diploma,Employed,Widowed,Mortgage,243,511,58331.92,26832.63,on-time,debt consolidation,36629.31,5
+244,Rooney,Mc Cahey,73,Male,Yuan Renminbi,PhD,Unemployed,Widowed,Mortgage,244,379,57136.72,36467.78,on-time,debt consolidation,92476.04,9
+245,Garfield,Fassum,52,Male,Rupiah,PhD,Self-Employed,Married,Rent,245,813,57945.7,42069.6,missed,debt consolidation,81994.15,14
+246,Jesselyn,Pavkovic,38,Female,Euro,Bachelor's Degree,Employed,Single,Own,246,456,37934.86,566.64,late,debt consolidation,53503.54,16
+247,Dwayne,Milmo,47,Male,Peso,Bachelor's Degree,Self-Employed,Married,Mortgage,247,623,55488.69,47055.11,late,home improvement,21176.9,16
+248,Anjela,Wissbey,50,Female,Euro,High School Diploma,Unemployed,Divorced,Rent,248,685,83290.51,3602.52,late,debt consolidation,63261.6,6
+249,Eduard,Turville,72,Male,Pound,Bachelor's Degree,Unemployed,Divorced,Mortgage,249,575,39280.92,3927.17,late,medical expenses,13941.8,1
+250,Poppy,Armes,70,Female,Peso,Bachelor's Degree,Unemployed,Widowed,Rent,250,309,12963.72,39180.79,late,medical expenses,93335.43,14
+251,Ker,Casarili,68,Male,Rupiah,PhD,Employed,Married,Mortgage,251,497,20523.26,48860.82,on-time,debt consolidation,42252.18,16
+252,Miof mela,Eingerfield,63,Female,Peso,High School Diploma,Unemployed,Widowed,Own,252,397,80744.92,22495.33,on-time,home improvement,26256.23,13
+253,Conrad,Farren,21,Male,Hryvnia,Master's Degree,Employed,Widowed,Own,253,511,27891.85,21095.16,missed,medical expenses,38227.72,25
+254,Nolly,Abramcik,41,Male,Yuan Renminbi,PhD,Unemployed,Married,Own,254,463,11092.85,22403.47,missed,debt consolidation,56098.97,20
+255,Billy,Stannus,70,Female,Dong,PhD,Employed,Divorced,Own,255,581,59473.37,31162.01,late,debt consolidation,15501.93,2
+256,Berkley,Nulty,45,Male,Dollar,Bachelor's Degree,Unemployed,Widowed,Own,256,708,9172.2,41319.92,missed,home improvement,63930.99,1
+257,Kass,Gheerhaert,41,Female,Dollar,PhD,Unemployed,Widowed,Mortgage,257,627,87994.15,49106.2,on-time,medical expenses,54984.18,2
+258,Remus,Sheerin,24,Male,Ruble,Bachelor's Degree,Employed,Single,Own,258,626,85807.02,12693.77,late,debt consolidation,34863.98,9
+259,Butch,Broodes,75,Male,Euro,PhD,Unemployed,Single,Rent,259,582,81043.76,21571.78,missed,debt consolidation,8189.15,2
+260,Sophronia,Abdie,24,Female,Euro,Bachelor's Degree,Employed,Single,Rent,260,650,8595.0,16122.26,missed,medical expenses,41838.65,21
+261,Erinn,Alennikov,22,Female,Peso,High School Diploma,Employed,Married,Mortgage,261,438,80453.92,33766.83,late,home improvement,53268.21,25
+262,Riobard,Elsbury,76,Bigender,Lev,Master's Degree,Self-Employed,Married,Rent,262,545,66990.33,46088.28,missed,home improvement,63147.4,24
+263,Gerladina,Ochterlonie,35,Female,Real,High School Diploma,Self-Employed,Divorced,Own,263,687,68529.53,20948.92,on-time,medical expenses,4463.63,10
+264,Rosabel,Costell,56,Female,Naira,Master's Degree,Employed,Married,Own,264,768,94609.58,16953.18,missed,medical expenses,38545.84,2
+265,Lockwood,Taleworth,67,Male,Koruna,Bachelor's Degree,Self-Employed,Single,Rent,265,661,68132.16,9150.87,missed,medical expenses,57147.34,25
+266,Daisie,Foskett,56,Female,Sol,Bachelor's Degree,Unemployed,Divorced,Own,266,436,99155.17,25491.74,missed,debt consolidation,86512.09,8
+267,Jayne,Baldrey,34,Female,Tenge,Bachelor's Degree,Unemployed,Divorced,Own,267,435,85367.96,5498.63,late,debt consolidation,24266.8,25
+268,Shalom,Worswick,65,Male,Rial,Bachelor's Degree,Unemployed,Divorced,Rent,268,773,71093.62,27924.99,late,debt consolidation,51302.04,22
+269,Calla,Shevelin,58,Female,Dollar,PhD,Unemployed,Widowed,Rent,269,572,86946.46,38519.43,late,debt consolidation,70436.05,22
+270,Massimo,Pettko,68,Male,Euro,Master's Degree,Unemployed,Divorced,Own,270,849,35822.06,41393.79,on-time,medical expenses,3325.0,18
+271,Maud,Banville,44,Female,Rupiah,High School Diploma,Self-Employed,Widowed,Mortgage,271,798,88107.38,34305.85,on-time,medical expenses,39102.43,6
+272,Reba,Belliss,82,Female,Ruble,PhD,Unemployed,Divorced,Mortgage,272,507,60725.53,39507.26,missed,home improvement,73949.3,24
+273,Freddy,Rayman,36,Female,Peso,High School Diploma,Employed,Single,Mortgage,273,727,9412.66,935.23,on-time,debt consolidation,26860.55,6
+274,Jacinda,Barde,35,Genderfluid,Tugrik,High School Diploma,Unemployed,Single,Mortgage,274,502,5768.5,12616.17,on-time,home improvement,14306.13,2
+275,Leontine,Knibb,85,Female,Yuan Renminbi,PhD,Employed,Divorced,Mortgage,275,745,54201.81,10186.38,late,home improvement,43906.05,3
+276,Lissie,Schroder,78,Female,Krona,Master's Degree,Employed,Single,Rent,276,514,78524.94,6033.89,late,medical expenses,91190.17,7
+277,Adria,Jones,61,Female,Peso,Master's Degree,Employed,Single,Own,277,456,64851.1,49590.42,missed,medical expenses,86685.15,15
+278,Curr,Ryton,43,Male,Peso,PhD,Self-Employed,Married,Mortgage,278,404,19127.01,13943.2,on-time,debt consolidation,47242.73,10
+279,Ray,Cobbing,43,Female,Yuan Renminbi,Bachelor's Degree,Self-Employed,Single,Mortgage,279,692,91193.89,5977.03,on-time,home improvement,17671.63,27
+280,Minta,Meaders,68,Female,Yuan Renminbi,High School Diploma,Self-Employed,Single,Mortgage,280,351,89401.56,36276.04,missed,debt consolidation,41802.71,16
+281,Octavius,Couvet,73,Male,Peso,Master's Degree,Employed,Single,Rent,281,435,44912.52,47438.22,on-time,medical expenses,52621.12,27
+282,Aland,Skelcher,78,Male,Rupiah,Master's Degree,Employed,Married,Own,282,311,87065.38,25792.52,late,debt consolidation,40749.87,30
+283,Hubie,Jagels,66,Male,Rupiah,PhD,Employed,Divorced,Mortgage,283,765,27562.46,601.67,on-time,debt consolidation,23547.85,17
+284,Giff,Vaskov,82,Male,Ruble,Master's Degree,Self-Employed,Married,Mortgage,284,508,9478.96,13398.36,missed,debt consolidation,17176.64,3
+285,Judah,Zincke,70,Male,Won,High School Diploma,Self-Employed,Divorced,Mortgage,285,748,55764.77,34236.63,late,home improvement,45790.88,8
+286,Huntington,Kollatsch,64,Male,Ruble,PhD,Employed,Married,Mortgage,286,578,56833.92,643.15,on-time,home improvement,52133.62,10
+287,Kenton,Balls,33,Male,Manat,PhD,Employed,Divorced,Own,287,850,74951.39,21761.35,missed,home improvement,98397.57,1
+288,Heath,Bellenie,85,Male,Ruble,Master's Degree,Self-Employed,Married,Own,288,547,4056.7,31124.75,missed,home improvement,64646.65,28
+289,Olav,Edelman,84,Non-binary,Yuan Renminbi,Master's Degree,Self-Employed,Single,Mortgage,289,354,52711.54,34114.68,missed,home improvement,2981.92,24
+290,Idette,Ainger,45,Female,Zloty,High School Diploma,Unemployed,Divorced,Mortgage,290,334,46171.39,19720.82,late,debt consolidation,69934.05,4
+291,Brien,Smails,66,Male,Peso,PhD,Unemployed,Married,Mortgage,291,345,98290.76,48726.56,missed,debt consolidation,86365.69,19
+292,Daniel,Leteurtre,58,Male,Dollar,High School Diploma,Employed,Married,Own,292,645,11087.43,11724.13,late,medical expenses,97169.15,26
+293,Rosco,Parkey,48,Male,Euro,PhD,Unemployed,Divorced,Mortgage,293,612,20420.29,16906.32,late,home improvement,45549.04,30
+294,Ceciley,Kenwood,73,Female,Rupee,PhD,Self-Employed,Divorced,Rent,294,850,3456.9,24707.14,missed,debt consolidation,83225.2,28
+295,Dov,Hughman,19,Male,Euro,Master's Degree,Self-Employed,Divorced,Mortgage,295,450,68915.34,14629.69,late,home improvement,92655.2,15
+296,Stanislas,Covelle,22,Male,Euro,High School Diploma,Self-Employed,Widowed,Rent,296,300,90779.18,49047.6,on-time,home improvement,77535.84,6
+297,Scarface,Stoke,61,Male,Yuan Renminbi,PhD,Self-Employed,Divorced,Rent,297,362,16899.99,3649.3,late,debt consolidation,22183.89,4
+298,Gothart,Morales,79,Male,Rupiah,Master's Degree,Self-Employed,Married,Own,298,783,49934.62,19766.35,missed,home improvement,55357.21,26
+299,Melony,Lempke,39,Female,Ruble,Bachelor's Degree,Employed,Single,Own,299,545,53543.28,4043.85,on-time,medical expenses,74506.58,16
+300,Meir,de Glanville,20,Agender,Peso,PhD,Employed,Single,Mortgage,300,518,89026.3,48470.58,on-time,medical expenses,98761.64,5
+301,Jennine,Schlag,18,Agender,Peso,Master's Degree,Unemployed,Single,Rent,301,431,41997.85,44141.05,missed,medical expenses,81411.75,26
+302,Thayne,Hovenden,75,Male,Litas,PhD,Unemployed,Divorced,Own,302,766,41562.83,36774.19,missed,home improvement,24724.25,17
+303,Alwin,Winchester,30,Male,Peso,Master's Degree,Self-Employed,Divorced,Mortgage,303,328,90374.67,7325.79,late,debt consolidation,55956.4,5
+304,Georgianna,Gilsthorpe,79,Female,Yuan Renminbi,Master's Degree,Employed,Married,Own,304,754,48781.45,42326.39,on-time,medical expenses,31821.53,22
+305,Drucie,Hug,59,Female,Baht,High School Diploma,Self-Employed,Divorced,Mortgage,305,804,57774.76,7928.75,late,medical expenses,49990.55,12
+306,Jemmy,Zukierman,43,Female,Yuan Renminbi,Bachelor's Degree,Employed,Divorced,Own,306,413,80446.75,19744.2,missed,home improvement,78578.16,23
+307,Calvin,Lawling,29,Male,Euro,Master's Degree,Self-Employed,Widowed,Mortgage,307,832,696.71,32212.69,on-time,medical expenses,81925.34,3
+308,Bibbye,Connachan,34,Female,Krona,High School Diploma,Unemployed,Divorced,Own,308,474,71891.62,42031.47,late,debt consolidation,31339.72,21
+309,Laurice,Bondy,41,Female,Euro,High School Diploma,Employed,Divorced,Own,309,492,79855.63,49324.66,on-time,medical expenses,58099.03,9
+310,Jud,Delacourt,38,Male,Denar,High School Diploma,Self-Employed,Single,Own,310,352,63121.51,37823.98,on-time,home improvement,71442.49,18
+311,Jeramey,Swinburn,70,Male,Peso,Bachelor's Degree,Unemployed,Widowed,Mortgage,311,480,50344.02,10201.66,missed,debt consolidation,57702.13,28
+312,Amos,Bilbrooke,65,Male,Yuan Renminbi,Bachelor's Degree,Employed,Divorced,Mortgage,312,775,36244.4,29499.58,late,home improvement,26128.05,12
+313,Lucita,Dawidman,61,Female,Euro,Master's Degree,Employed,Married,Mortgage,313,536,43841.67,34743.33,missed,home improvement,3534.88,12
+314,Carlos,Tyrer,84,Male,Bolivar,Master's Degree,Unemployed,Married,Mortgage,314,583,18649.73,29408.63,on-time,home improvement,80177.6,3
+315,Rebbecca,Bohea,60,Female,Euro,Bachelor's Degree,Self-Employed,Married,Own,315,632,60278.96,20792.59,missed,debt consolidation,98026.22,20
+316,Berton,Petriello,83,Male,Rupiah,PhD,Unemployed,Married,Own,316,316,15747.09,32881.68,missed,home improvement,67390.98,7
+317,Freddie,Raffan,85,Male,Yuan Renminbi,PhD,Employed,Widowed,Mortgage,317,780,26072.35,9980.91,late,medical expenses,6384.77,7
+318,Skylar,Hamments,79,Male,Rupiah,Bachelor's Degree,Unemployed,Single,Mortgage,318,785,66202.36,21373.65,late,medical expenses,19350.31,9
+319,Ferdie,Clemow,29,Male,Franc,Bachelor's Degree,Unemployed,Divorced,Rent,319,654,53502.94,40943.72,late,home improvement,99548.52,17
+320,Kendricks,McShane,72,Male,Rupiah,PhD,Employed,Divorced,Mortgage,320,314,65342.76,34823.29,late,medical expenses,79526.24,20
+321,Gilli,Haimes,41,Female,Real,Bachelor's Degree,Self-Employed,Divorced,Own,321,806,92570.59,32039.8,missed,home improvement,73254.27,25
+322,Hailee,Alessandrini,51,Female,Peso,Bachelor's Degree,Employed,Married,Own,322,642,10368.48,14231.74,on-time,medical expenses,95660.73,29
+323,Mitchael,Gallard,82,Male,Birr,Bachelor's Degree,Employed,Widowed,Rent,323,662,23770.02,40148.59,missed,debt consolidation,83895.01,28
+324,Marlie,Crookston,48,Female,Euro,PhD,Unemployed,Widowed,Rent,324,373,51258.24,20738.4,late,home improvement,92874.58,12
+325,Anabel,Gracey,44,Female,Yuan Renminbi,PhD,Employed,Single,Own,325,829,34926.05,17141.58,missed,medical expenses,15398.76,22
+326,Demetria,Splevin,20,Female,Quetzal,PhD,Unemployed,Divorced,Own,326,512,20682.23,24336.54,late,debt consolidation,53832.9,4
+327,Lorain,Circuitt,39,Female,Dinar,Bachelor's Degree,Self-Employed,Widowed,Own,327,693,83276.78,35285.15,missed,home improvement,66207.55,6
+328,Glynnis,Harrap,73,Female,Lempira,High School Diploma,Unemployed,Married,Mortgage,328,546,70032.66,17070.94,on-time,debt consolidation,85517.31,24
+329,Lauryn,Greenwell,38,Female,Yuan Renminbi,Master's Degree,Unemployed,Divorced,Mortgage,329,371,70226.03,12519.25,late,debt consolidation,36522.06,19
+330,Dallas,Addekin,34,Female,Won,Bachelor's Degree,Self-Employed,Divorced,Mortgage,330,350,50183.56,24066.84,missed,debt consolidation,36193.25,7
+331,Darlene,Rosenfarb,46,Female,Yuan Renminbi,Master's Degree,Employed,Widowed,Rent,331,603,53014.68,33976.76,on-time,medical expenses,46294.61,4
+332,Rebekah,Norcop,35,Female,Euro,Bachelor's Degree,Self-Employed,Married,Own,332,739,46122.88,24951.35,late,home improvement,54896.76,21
+333,Sophie,Breckin,40,Female,Peso,High School Diploma,Unemployed,Divorced,Mortgage,333,497,53209.37,4052.09,on-time,medical expenses,95080.26,4
+334,Mariska,Arkwright,32,Female,Yuan Renminbi,PhD,Self-Employed,Single,Rent,334,615,9054.55,35783.4,on-time,debt consolidation,25895.68,19
+335,Edward,Milstead,40,Male,Yuan Renminbi,PhD,Unemployed,Married,Mortgage,335,335,58385.88,17435.98,missed,medical expenses,39909.88,27
+336,Cris,Arnaud,30,Female,Dollar,Bachelor's Degree,Unemployed,Widowed,Mortgage,336,485,68743.61,36078.87,missed,home improvement,50279.09,12
+337,Justis,Odger,23,Male,Yuan Renminbi,High School Diploma,Self-Employed,Divorced,Own,337,772,85521.26,17942.27,missed,home improvement,42249.87,16
+338,Alex,Woodford,81,Male,Yuan Renminbi,PhD,Self-Employed,Divorced,Own,338,422,43853.29,14108.46,late,debt consolidation,31077.11,30
+339,Prince,Hawson,79,Male,Rupiah,PhD,Unemployed,Divorced,Own,339,410,57808.21,29199.88,late,home improvement,72300.46,10
+340,Esmaria,Shere,26,Female,Koruna,Bachelor's Degree,Employed,Widowed,Rent,340,362,82789.88,6794.9,late,home improvement,93106.38,18
+341,Cecilio,Giacoppo,48,Male,Baht,Bachelor's Degree,Unemployed,Single,Mortgage,341,621,29050.97,12017.43,on-time,debt consolidation,25951.54,18
+342,Timmie,Dudding,45,Female,Euro,High School Diploma,Unemployed,Divorced,Rent,342,314,25910.31,4041.06,on-time,medical expenses,35646.68,11
+343,Madelene,Titmarsh,56,Female,Rupiah,PhD,Unemployed,Widowed,Rent,343,490,12007.15,23143.07,late,debt consolidation,28976.14,7
+344,Zane,Witham,65,Male,Hryvnia,High School Diploma,Self-Employed,Divorced,Rent,344,301,31780.84,12222.71,missed,medical expenses,51063.2,26
+345,Melisande,Reuble,26,Female,Naira,Bachelor's Degree,Self-Employed,Divorced,Rent,345,676,51740.7,34883.47,missed,debt consolidation,2662.46,11
+346,Sean,Cussins,65,Female,Krona,PhD,Employed,Widowed,Rent,346,623,55419.16,24203.31,late,debt consolidation,98618.67,7
+347,Ara,McCarrick,68,Female,Ruble,PhD,Employed,Married,Rent,347,681,99667.82,43666.51,missed,debt consolidation,16914.77,15
+348,Clay,Gylle,51,Male,Peso,Master's Degree,Self-Employed,Single,Rent,348,603,69170.95,20007.24,missed,home improvement,92401.24,11
+349,Olivie,Spraggs,18,Female,Real,PhD,Employed,Married,Rent,349,503,28805.35,49157.32,late,debt consolidation,2985.55,18
+350,Roderigo,Carty,28,Male,Ruble,Bachelor's Degree,Self-Employed,Married,Own,350,411,66056.17,22384.49,missed,medical expenses,50791.5,13
+351,Talyah,Stronack,59,Female,Naira,High School Diploma,Self-Employed,Single,Own,351,356,72961.56,30491.05,late,debt consolidation,29031.63,11
+352,Lainey,Maybery,33,Female,Denar,PhD,Self-Employed,Divorced,Own,352,458,57525.3,36947.72,missed,medical expenses,70392.23,2
+353,Nina,Jelphs,42,Female,Yen,Master's Degree,Self-Employed,Widowed,Own,353,601,73898.88,2307.05,late,medical expenses,14163.72,26
+354,Rhody,Doggett,45,Female,Krona,Bachelor's Degree,Self-Employed,Widowed,Mortgage,354,470,72047.95,5521.88,on-time,medical expenses,12160.62,7
+355,Myriam,Davidman,76,Female,Dollar,High School Diploma,Employed,Divorced,Rent,355,420,91697.47,25659.1,missed,debt consolidation,21825.06,23
+356,Lotte,Pierse,75,Female,Peso,High School Diploma,Employed,Widowed,Rent,356,505,75148.29,11305.31,on-time,debt consolidation,38269.74,30
+357,North,Zoephel,81,Male,Pound,Master's Degree,Self-Employed,Widowed,Mortgage,357,322,10744.25,7206.19,on-time,home improvement,56438.92,18
+358,Amory,Pleming,73,Male,Hryvnia,PhD,Unemployed,Widowed,Mortgage,358,328,73438.66,30610.51,late,debt consolidation,23392.33,11
+359,Ursuline,Guisler,38,Female,Rial,Bachelor's Degree,Self-Employed,Married,Rent,359,472,96256.0,49347.94,on-time,debt consolidation,62563.22,15
+360,Nydia,Moar,76,Female,Shilling,Master's Degree,Self-Employed,Married,Rent,360,614,22281.62,43261.28,missed,debt consolidation,79844.59,28
+361,Port,Evans,19,Male,Yuan Renminbi,High School Diploma,Unemployed,Divorced,Mortgage,361,744,78573.72,20197.06,late,home improvement,44668.5,21
+362,Della,Buggy,77,Female,Zloty,High School Diploma,Unemployed,Divorced,Own,362,574,2708.12,3902.11,late,home improvement,27993.7,4
+363,Mathian,Atcherley,53,Bigender,Rupiah,Master's Degree,Unemployed,Single,Rent,363,437,77152.98,2241.73,late,home improvement,41195.77,25
+364,Noreen,Burnyeat,36,Female,Yuan Renminbi,Bachelor's Degree,Self-Employed,Married,Rent,364,603,95453.72,6437.39,on-time,debt consolidation,23750.92,23
+365,Dahlia,Gerlts,43,Female,Yuan Renminbi,PhD,Employed,Single,Rent,365,462,35289.05,21617.29,missed,home improvement,91227.97,15
+366,Helene,Hateley,84,Female,Dollar,Master's Degree,Employed,Widowed,Own,366,419,20612.68,46250.97,missed,debt consolidation,1220.55,29
+367,Carlie,Kurth,49,Female,Yuan Renminbi,High School Diploma,Unemployed,Married,Rent,367,437,19627.72,35127.3,on-time,medical expenses,42348.66,10
+368,Ellery,Payler,61,Male,Dollar,High School Diploma,Unemployed,Divorced,Mortgage,368,831,29889.95,17624.0,late,debt consolidation,18360.57,18
+369,Lemar,Parlour,34,Male,Peso,Bachelor's Degree,Self-Employed,Widowed,Own,369,305,23487.47,43897.84,late,medical expenses,45534.98,23
+370,Chrissy,Haffenden,32,Male,Rupiah,PhD,Self-Employed,Married,Mortgage,370,724,50499.3,21551.6,on-time,debt consolidation,78496.05,23
+371,Erik,Madine,26,Male,Rupiah,Master's Degree,Self-Employed,Divorced,Mortgage,371,613,26380.28,1807.37,on-time,medical expenses,7166.64,20
+372,Gustav,Lumby,30,Male,Real,PhD,Self-Employed,Widowed,Own,372,491,10960.28,27676.73,late,debt consolidation,68940.47,21
+373,Esma,Smorthwaite,69,Non-binary,Dram,PhD,Employed,Married,Mortgage,373,812,15818.64,48575.35,late,medical expenses,62988.24,27
+374,Casandra,Jakubiak,37,Female,Koruna,PhD,Employed,Widowed,Mortgage,374,723,44862.34,15410.8,missed,debt consolidation,58417.89,1
+375,Jorge,Gabbitus,38,Non-binary,Peso,High School Diploma,Unemployed,Divorced,Mortgage,375,768,555.68,34368.58,late,home improvement,51830.81,7
+376,Tommie,Tutill,20,Male,Rupiah,PhD,Self-Employed,Single,Own,376,679,99250.01,12675.77,missed,home improvement,95770.41,23
+377,Rancell,Saenz,39,Male,Zloty,PhD,Self-Employed,Divorced,Own,377,474,68177.56,14258.84,missed,debt consolidation,81760.3,30
+378,Corrianne,Symcox,57,Genderfluid,Zloty,High School Diploma,Unemployed,Widowed,Mortgage,378,637,34950.93,42075.82,late,debt consolidation,67237.28,9
+379,Hannah,MacArthur,82,Female,Yuan Renminbi,PhD,Self-Employed,Divorced,Own,379,810,48707.42,26254.71,on-time,home improvement,29140.37,15
+380,Lesya,Kirkwood,44,Female,Dollar,Bachelor's Degree,Unemployed,Single,Rent,380,506,99229.77,10115.4,on-time,home improvement,59595.2,1
+381,Antonius,Nutten,85,Male,Litas,Bachelor's Degree,Unemployed,Widowed,Rent,381,441,20355.91,34640.58,late,medical expenses,49914.4,20
+382,Myrtie,Hubery,39,Female,Hryvnia,High School Diploma,Self-Employed,Single,Rent,382,834,46888.38,22999.96,missed,home improvement,69465.7,30
+383,Adriane,Parslow,54,Female,Rupiah,High School Diploma,Self-Employed,Single,Rent,383,648,93462.05,43537.38,missed,medical expenses,57751.43,22
+384,Violet,Whines,75,Female,Yuan Renminbi,Bachelor's Degree,Employed,Widowed,Rent,384,305,7079.83,38496.9,on-time,home improvement,36005.65,20
+385,Alika,Wiggett,79,Female,Yuan Renminbi,High School Diploma,Self-Employed,Single,Rent,385,365,68605.84,2326.27,missed,home improvement,87204.81,21
+386,Janith,Kildahl,24,Female,Ruble,Bachelor's Degree,Employed,Single,Mortgage,386,573,35529.77,28755.99,late,home improvement,67761.42,10
+387,Noble,De Dei,53,Male,Peso,Master's Degree,Self-Employed,Divorced,Mortgage,387,801,86638.7,12447.49,late,medical expenses,45453.76,14
+388,Lee,Fursse,25,Female,Real,Bachelor's Degree,Unemployed,Married,Own,388,542,80590.09,14039.1,late,medical expenses,5747.94,17
+389,Nissie,Duckhouse,60,Polygender,Krona,PhD,Self-Employed,Single,Own,389,440,44572.36,16766.88,missed,medical expenses,7476.91,13
+390,Tatiania,Peniman,56,Female,Bolivar,PhD,Employed,Married,Rent,390,697,65705.42,10231.92,on-time,home improvement,47818.0,2
+391,Loren,Demkowicz,64,Male,Euro,Master's Degree,Self-Employed,Widowed,Own,391,487,86029.02,44418.52,on-time,home improvement,83415.72,9
+392,Sidoney,Knutsen,62,Female,Ruble,PhD,Unemployed,Widowed,Rent,392,724,42488.47,43118.89,on-time,home improvement,15418.67,16
+393,Hazlett,Searles,30,Male,Euro,Bachelor's Degree,Unemployed,Divorced,Mortgage,393,475,92695.01,29300.79,late,debt consolidation,78281.01,11
+394,Egan,Skoggings,78,Male,Dollar,Bachelor's Degree,Self-Employed,Widowed,Rent,394,587,91677.75,3660.24,late,home improvement,11219.59,3
+395,Justinn,Roz,61,Female,Yuan Renminbi,Master's Degree,Unemployed,Widowed,Own,395,570,91172.15,12644.94,on-time,medical expenses,15447.28,15
+396,Stefano,Gonzalez,75,Male,Quetzal,PhD,Employed,Divorced,Mortgage,396,574,96617.67,44221.6,missed,medical expenses,53625.62,6
+397,Cleopatra,Holyland,50,Female,Euro,Bachelor's Degree,Employed,Widowed,Own,397,838,89694.03,23138.17,late,home improvement,57873.08,26
+398,Phyllys,Parkman,59,Female,Euro,Bachelor's Degree,Unemployed,Widowed,Mortgage,398,330,77469.74,17516.47,late,medical expenses,40818.35,24
+399,Dill,Bleything,61,Male,Ruble,Master's Degree,Employed,Single,Own,399,370,81100.41,23131.28,on-time,medical expenses,15927.46,30
+400,Jeanna,Brumby,61,Female,Dollar,High School Diploma,Unemployed,Married,Own,400,362,73158.54,10454.16,on-time,debt consolidation,49050.71,4
+401,Anni,Rawe,20,Female,Afghani,Bachelor's Degree,Unemployed,Widowed,Mortgage,401,439,87608.61,43766.56,on-time,debt consolidation,98540.53,28
+402,Perl,Housin,81,Female,Peso,Master's Degree,Self-Employed,Divorced,Mortgage,402,756,71304.69,6477.43,missed,medical expenses,81261.57,21
+403,Charmain,MacConnal,38,Female,Ruble,High School Diploma,Self-Employed,Married,Own,403,762,64405.64,30315.92,on-time,home improvement,40920.0,17
+404,Royal,O'Hollegan,53,Male,Ringgit,High School Diploma,Unemployed,Widowed,Own,404,624,52092.56,30862.21,on-time,medical expenses,76306.36,2
+405,Shelly,McNeigh,60,Female,Peso,PhD,Unemployed,Single,Mortgage,405,527,53484.24,4736.44,late,debt consolidation,4973.09,14
+406,Skippie,Lorraine,83,Male,Rupiah,Master's Degree,Employed,Single,Rent,406,488,34031.03,16025.58,missed,home improvement,98090.17,28
+407,Tierney,Darville,57,Bigender,Ruble,High School Diploma,Employed,Divorced,Own,407,614,10465.01,19955.45,late,home improvement,26953.45,28
+408,Courtnay,McDill,18,Bigender,Euro,Bachelor's Degree,Employed,Single,Rent,408,448,49955.06,29872.96,missed,debt consolidation,61659.62,11
+409,Antonin,Kirlin,24,Male,Sol,PhD,Self-Employed,Divorced,Own,409,654,59573.95,5899.54,missed,debt consolidation,58743.27,5
+410,Willabella,De Maine,22,Female,Ruble,PhD,Employed,Single,Own,410,374,60350.99,13487.05,on-time,medical expenses,37327.29,3
+411,Hall,Matz,37,Male,Peso,PhD,Employed,Widowed,Rent,411,510,31606.11,28392.6,missed,medical expenses,2082.93,19
+412,Ardelis,D'Agostini,71,Female,Rupiah,High School Diploma,Employed,Single,Rent,412,352,35613.11,34181.64,missed,debt consolidation,16706.38,11
+413,Nate,Williment,23,Male,Rupiah,PhD,Employed,Married,Rent,413,706,25386.18,49543.55,on-time,home improvement,39692.68,20
+414,Dwain,Liddell,46,Male,Zloty,High School Diploma,Self-Employed,Divorced,Mortgage,414,328,60701.31,43830.03,late,debt consolidation,26576.64,9
+415,Arte,Dart,60,Male,Peso,Bachelor's Degree,Unemployed,Widowed,Own,415,442,64949.27,28383.91,on-time,debt consolidation,69778.57,19
+416,Sarine,Loughman,85,Female,Peso,High School Diploma,Employed,Divorced,Mortgage,416,314,43070.34,9558.9,missed,medical expenses,84242.53,23
+417,Binni,Murtagh,20,Female,Yuan Renminbi,High School Diploma,Self-Employed,Widowed,Rent,417,692,49387.57,3617.68,missed,medical expenses,5110.79,27
+418,Rhett,Ansley,26,Male,Ruble,Master's Degree,Unemployed,Widowed,Own,418,706,83170.76,29451.42,late,debt consolidation,26546.35,21
+419,Phineas,Paradin,56,Male,Franc,Bachelor's Degree,Employed,Divorced,Own,419,355,12237.86,49621.64,on-time,debt consolidation,82801.41,21
+420,Benson,Kauscher,71,Male,Euro,PhD,Self-Employed,Divorced,Mortgage,420,502,71071.78,16766.06,on-time,debt consolidation,85766.51,25
+421,Kippie,Akerman,28,Male,Hryvnia,Master's Degree,Self-Employed,Married,Mortgage,421,571,70801.14,7367.62,late,home improvement,3668.89,3
+422,Giffie,Gemlbett,42,Male,Yuan Renminbi,PhD,Self-Employed,Widowed,Mortgage,422,601,88621.02,12857.2,late,debt consolidation,85305.69,21
+423,Lincoln,Beidebeke,32,Male,Peso,Bachelor's Degree,Unemployed,Divorced,Mortgage,423,813,86534.18,39767.8,on-time,home improvement,22980.72,4
+424,Doris,Flann,68,Female,Dollar,PhD,Unemployed,Divorced,Rent,424,744,27256.39,36919.76,on-time,home improvement,39556.69,16
+425,Daniel,Durnill,61,Male,Zloty,High School Diploma,Self-Employed,Married,Mortgage,425,338,24449.5,48809.14,missed,debt consolidation,48313.56,12
+426,Sylvan,Wink,45,Male,Rupiah,PhD,Unemployed,Widowed,Mortgage,426,687,41619.07,8530.8,missed,home improvement,74183.22,15
+427,Kirsteni,Bromont,63,Female,Rupiah,PhD,Employed,Single,Mortgage,427,810,38554.38,21667.2,on-time,home improvement,98778.16,16
+428,Wally,Polak,23,Polygender,Rupiah,PhD,Unemployed,Single,Rent,428,816,75409.74,30975.95,missed,medical expenses,58126.29,4
+429,Livvyy,McGougan,81,Female,Dollar,PhD,Employed,Divorced,Rent,429,709,194.42,34491.5,on-time,home improvement,95817.77,19
+430,Delcina,McKevany,42,Female,Rupiah,Bachelor's Degree,Self-Employed,Single,Rent,430,668,10183.5,28606.93,missed,home improvement,89474.75,1
+431,Mario,McCusker,68,Male,Rupiah,PhD,Employed,Divorced,Rent,431,726,73742.91,7249.64,late,medical expenses,78702.72,26
+432,Sunshine,Lazare,30,Female,Rupiah,PhD,Self-Employed,Single,Rent,432,431,9864.92,36263.17,on-time,home improvement,79874.44,12
+433,Maria,Odger,30,Female,Franc,PhD,Unemployed,Widowed,Rent,433,363,27165.22,28135.68,late,home improvement,28761.21,2
+434,Janeta,Petheridge,84,Female,Euro,High School Diploma,Unemployed,Married,Rent,434,813,58592.22,22086.93,missed,debt consolidation,8398.88,29
+435,Standford,Tayspell,80,Male,Dollar,High School Diploma,Employed,Divorced,Mortgage,435,837,69321.34,42761.24,on-time,debt consolidation,83408.78,14
+436,Misha,Cluney,40,Female,Rand,Master's Degree,Unemployed,Married,Mortgage,436,335,29604.66,7939.98,missed,medical expenses,94899.57,4
+437,Suzanna,Crutcher,48,Female,Zloty,Bachelor's Degree,Employed,Widowed,Mortgage,437,823,64988.96,25350.33,missed,debt consolidation,68891.43,27
+438,Ronda,Gailor,22,Female,Krona,High School Diploma,Employed,Widowed,Mortgage,438,380,86013.12,33015.51,missed,home improvement,33597.29,5
+439,Cordy,Paten,74,Female,Yuan Renminbi,PhD,Unemployed,Divorced,Mortgage,439,643,42627.42,7840.04,late,home improvement,3905.17,21
+440,Laraine,Brombell,66,Female,Yuan Renminbi,High School Diploma,Employed,Married,Rent,440,634,55715.17,49228.82,on-time,debt consolidation,86672.26,26
+441,Elia,Oldman,58,Male,Ringgit,Master's Degree,Self-Employed,Married,Rent,441,423,2687.31,26957.72,on-time,debt consolidation,61524.15,10
+442,Wilek,Ebourne,41,Male,Peso,High School Diploma,Self-Employed,Single,Mortgage,442,402,56037.1,37831.81,late,home improvement,28711.09,20
+443,Cesare,Wathey,27,Male,Yuan Renminbi,PhD,Self-Employed,Widowed,Mortgage,443,543,31812.1,27181.98,late,debt consolidation,72570.05,28
+444,Gerick,Senyard,34,Male,Peso,PhD,Employed,Divorced,Own,444,421,80648.8,7374.97,on-time,home improvement,91135.25,10
+445,Jeramie,Druitt,21,Male,Yuan Renminbi,Bachelor's Degree,Employed,Married,Mortgage,445,811,75726.53,46136.57,on-time,medical expenses,62020.61,16
+446,Demetrius,Dulwitch,26,Male,Franc,High School Diploma,Employed,Single,Mortgage,446,655,95255.21,30648.86,on-time,debt consolidation,48811.94,2
+447,Renato,Lawrenz,81,Male,Peso,High School Diploma,Employed,Single,Mortgage,447,760,53421.81,3554.27,late,medical expenses,42669.53,24
+448,Sasha,Barke,35,Female,Ruble,High School Diploma,Self-Employed,Married,Mortgage,448,549,60600.32,28931.33,missed,home improvement,68245.04,1
+449,Kiersten,Apedaile,33,Non-binary,Yuan Renminbi,High School Diploma,Self-Employed,Widowed,Own,449,829,97674.94,43476.55,late,debt consolidation,42335.78,1
+450,Ira,Briddle,82,Female,Rupiah,Master's Degree,Self-Employed,Single,Mortgage,450,433,79547.85,34675.32,late,home improvement,70677.05,16
+451,Allianora,Kemston,47,Polygender,Dinar,PhD,Self-Employed,Married,Rent,451,300,25598.14,39368.52,late,home improvement,15310.34,21
+452,Marchelle,Ewell,53,Polygender,Yuan Renminbi,Master's Degree,Employed,Widowed,Mortgage,452,436,76466.51,37854.89,missed,debt consolidation,75178.94,9
+453,Justina,Thurlbeck,76,Female,Shekel,Master's Degree,Unemployed,Single,Mortgage,453,657,51232.05,39956.16,late,debt consolidation,77726.7,29
+454,Nickey,Ilyuchyov,57,Male,Euro,Bachelor's Degree,Employed,Widowed,Mortgage,454,391,65293.24,43861.27,late,medical expenses,54346.65,16
+455,Kippie,Rendbaek,57,Female,Zloty,PhD,Self-Employed,Married,Mortgage,455,789,84232.7,30943.8,late,home improvement,59157.21,29
+456,Gusty,Ferns,41,Female,Yuan Renminbi,PhD,Self-Employed,Married,Own,456,806,78303.22,44298.17,late,debt consolidation,58442.46,4
+457,Emmalee,Melato,29,Female,Peso,PhD,Self-Employed,Divorced,Mortgage,457,778,86049.43,29126.3,late,medical expenses,12357.32,2
+458,Geralda,Grammer,20,Female,Ruble,PhD,Unemployed,Married,Rent,458,481,99814.75,7563.91,late,debt consolidation,79329.09,17
+459,Selby,Hawyes,76,Male,Krona,High School Diploma,Unemployed,Single,Mortgage,459,325,25884.36,18886.82,late,home improvement,73169.75,13
+460,Dode,Dwyr,29,Female,Dollar,Bachelor's Degree,Unemployed,Widowed,Rent,460,405,82429.51,43873.02,late,home improvement,45951.49,8
+461,Gualterio,Castagnasso,55,Male,Rupiah,PhD,Employed,Single,Rent,461,544,945.21,32617.44,on-time,home improvement,42268.5,7
+462,Curt,Charpin,47,Male,Sol,PhD,Employed,Widowed,Own,462,696,97428.58,39233.41,late,medical expenses,69052.55,2
+463,Ulises,McDool,62,Male,Real,High School Diploma,Unemployed,Divorced,Mortgage,463,783,95386.26,25349.38,on-time,debt consolidation,45730.25,18
+464,Trumaine,Chieze,66,Male,Ruble,Bachelor's Degree,Self-Employed,Divorced,Rent,464,393,93294.83,1040.31,missed,home improvement,27143.23,7
+465,Allys,Buxton,77,Female,Shilling,Master's Degree,Unemployed,Divorced,Rent,465,583,20997.5,30049.54,on-time,medical expenses,85530.94,21
+466,Falito,Croley,76,Male,Koruna,PhD,Employed,Widowed,Rent,466,691,61045.79,25318.96,on-time,home improvement,73778.59,19
+467,Claire,Ettles,25,Female,Quetzal,Master's Degree,Self-Employed,Single,Rent,467,751,36137.3,14276.52,missed,debt consolidation,45403.07,16
+468,Gerek,Bastick,55,Male,Dollar,Bachelor's Degree,Self-Employed,Divorced,Rent,468,393,4555.87,35757.14,late,medical expenses,54410.88,25
+469,Zandra,Mumby,23,Female,Peso,Master's Degree,Unemployed,Married,Mortgage,469,354,88424.1,20767.81,late,medical expenses,54943.29,14
+470,Allard,Cerman,72,Male,Rial,Master's Degree,Self-Employed,Married,Own,470,697,40768.1,24202.32,on-time,medical expenses,10388.12,15
+471,Freedman,Leser,84,Male,Yuan Renminbi,PhD,Employed,Married,Mortgage,471,588,24435.42,43107.94,missed,medical expenses,97510.25,6
+472,Zachery,Von Welldun,49,Male,Yuan Renminbi,Master's Degree,Self-Employed,Widowed,Mortgage,472,757,65211.6,13244.48,missed,home improvement,70215.57,7
+473,Hansiain,Jonson,35,Male,Yen,Bachelor's Degree,Self-Employed,Married,Rent,473,420,36266.8,20913.15,late,medical expenses,89858.96,11
+474,Euell,Delacour,79,Male,Euro,Bachelor's Degree,Unemployed,Widowed,Rent,474,581,34952.3,45037.51,late,debt consolidation,72831.52,10
+475,Ferd,Simpson,49,Male,Yuan Renminbi,Master's Degree,Self-Employed,Widowed,Rent,475,378,42951.1,47571.5,on-time,home improvement,27700.22,13
+476,Desdemona,Frome,78,Female,Manat,Master's Degree,Self-Employed,Married,Mortgage,476,710,50983.31,10220.39,missed,home improvement,55912.53,19
+477,Lucille,Beernt,34,Female,Dong,High School Diploma,Employed,Married,Mortgage,477,728,98475.01,35136.53,late,home improvement,23935.76,21
+478,Tremain,Tuttiett,76,Male,Peso,Master's Degree,Unemployed,Divorced,Mortgage,478,530,60755.74,436.57,on-time,medical expenses,94067.86,22
+479,Wernher,O' Mullan,19,Male,Euro,Master's Degree,Employed,Divorced,Mortgage,479,684,50990.21,22237.29,late,debt consolidation,79573.51,17
+480,Sayres,Lester,40,Male,Ruble,High School Diploma,Self-Employed,Widowed,Mortgage,480,464,94160.58,25333.14,late,home improvement,94086.8,17
+481,Deloria,Pifford,42,Female,Yuan Renminbi,Bachelor's Degree,Unemployed,Divorced,Own,481,824,78618.47,42346.78,missed,home improvement,83342.11,17
+482,Farly,Alecock,82,Male,Euro,Master's Degree,Self-Employed,Single,Own,482,381,47481.85,48590.65,on-time,medical expenses,35521.4,11
+483,Izabel,Ingerson,72,Female,Yuan Renminbi,High School Diploma,Unemployed,Married,Mortgage,483,556,65268.22,5.1,missed,medical expenses,73435.92,13
+484,Bird,Gurr,76,Female,Dinar,High School Diploma,Employed,Divorced,Own,484,816,96705.89,15019.37,late,debt consolidation,23322.83,18
+485,Lucretia,Scullard,84,Female,Peso,Bachelor's Degree,Employed,Widowed,Mortgage,485,564,89029.3,48616.68,missed,home improvement,39648.9,7
+486,Neville,Mongin,63,Male,Real,High School Diploma,Unemployed,Divorced,Own,486,746,35976.37,49018.52,late,medical expenses,23173.95,23
+487,Kettie,McKibbin,57,Female,Yuan Renminbi,Bachelor's Degree,Unemployed,Widowed,Mortgage,487,593,79928.1,15608.37,missed,medical expenses,56888.51,20
+488,Sheffield,Fraczkiewicz,63,Agender,Yuan Renminbi,Master's Degree,Unemployed,Married,Rent,488,664,27566.05,37293.88,late,home improvement,1958.33,28
+489,Augustin,Olivetta,59,Male,Rupee,High School Diploma,Self-Employed,Widowed,Own,489,746,25198.23,28589.31,late,medical expenses,42433.24,9
+490,Jocelin,Lupson,66,Female,Rupiah,High School Diploma,Self-Employed,Divorced,Rent,490,323,26354.17,48504.87,late,debt consolidation,89628.38,30
+491,Osmond,Bolgar,62,Male,Rupiah,Master's Degree,Unemployed,Divorced,Mortgage,491,578,21303.66,38252.31,late,home improvement,86544.89,18
+492,Skylar,Blackaller,38,Male,Naira,PhD,Employed,Married,Mortgage,492,441,53854.98,30573.32,missed,home improvement,95482.61,27
+493,Audry,Gallymore,42,Female,Euro,Bachelor's Degree,Unemployed,Married,Mortgage,493,584,41868.4,33840.57,late,medical expenses,99922.51,18
+494,Brockie,Lamberth,30,Male,Rupiah,Master's Degree,Unemployed,Single,Own,494,631,17970.23,30189.99,missed,debt consolidation,89663.62,12
+495,Suzanne,Tudor,36,Female,Yuan Renminbi,High School Diploma,Self-Employed,Single,Rent,495,802,54686.14,11967.76,missed,medical expenses,99170.46,3
+496,Jerry,Hugenin,54,Male,Ruble,Master's Degree,Unemployed,Widowed,Mortgage,496,516,36250.57,49746.08,missed,debt consolidation,69729.99,29
+497,Jameson,Dering,54,Male,Rupiah,PhD,Unemployed,Married,Own,497,671,91618.76,6274.67,on-time,home improvement,97757.42,27
+498,Gilburt,Moncur,43,Agender,Yuan Renminbi,Master's Degree,Employed,Divorced,Mortgage,498,586,11857.45,43748.24,missed,home improvement,8367.59,22
+499,Lexy,Reddin,42,Female,Real,High School Diploma,Unemployed,Divorced,Rent,499,615,69879.74,25878.98,missed,debt consolidation,12598.28,25
+500,Rutledge,McAne,52,Male,Rupiah,High School Diploma,Employed,Widowed,Own,500,668,37607.37,2501.76,missed,medical expenses,71409.49,23
+501,Darrell,Streeting,24,Male,Ruble,PhD,Self-Employed,Married,Rent,501,721,48345.32,9359.51,late,home improvement,55796.64,26
+502,Valdemar,Brandom,83,Non-binary,Ruble,PhD,Unemployed,Widowed,Rent,502,746,5030.49,19904.03,late,home improvement,47866.52,30
+503,Tove,Ells,71,Bigender,Rupiah,High School Diploma,Unemployed,Married,Own,503,301,60510.27,39355.52,missed,medical expenses,7485.67,3
+504,Mario,Caslett,43,Male,Lev,Master's Degree,Employed,Single,Rent,504,767,94092.86,23651.9,on-time,home improvement,48286.63,23
+505,Lucas,McCafferky,74,Male,Rupiah,Bachelor's Degree,Self-Employed,Single,Mortgage,505,775,25579.85,31204.88,on-time,debt consolidation,93589.62,20
+506,Marcile,Weben,37,Female,Real,High School Diploma,Self-Employed,Widowed,Own,506,822,85453.5,1291.9,on-time,medical expenses,89922.81,8
+507,Maurice,Kyne,74,Male,Yuan Renminbi,Master's Degree,Self-Employed,Widowed,Own,507,375,33949.79,36602.17,late,medical expenses,34590.4,28
+508,Eddy,Alway,37,Male,Peso,PhD,Employed,Single,Mortgage,508,694,13750.37,39707.4,on-time,home improvement,62394.07,3
+509,Hayyim,Askaw,26,Male,Peso,Bachelor's Degree,Employed,Widowed,Rent,509,736,42803.16,10996.21,late,medical expenses,49098.53,24
+510,Colene,Dundredge,49,Female,Dollar,High School Diploma,Unemployed,Widowed,Rent,510,772,76579.42,5148.85,late,medical expenses,53228.22,17
+511,Neville,MacGeffen,40,Male,Peso,High School Diploma,Self-Employed,Divorced,Mortgage,511,405,88928.15,6254.9,late,medical expenses,86433.92,14
+512,Candis,MacSherry,34,Female,Rupiah,PhD,Employed,Widowed,Mortgage,512,525,89677.93,11403.72,missed,home improvement,70903.05,9
+513,Sybyl,Giametti,75,Female,Yuan Renminbi,Master's Degree,Unemployed,Married,Mortgage,513,540,34523.67,14206.43,missed,medical expenses,78661.98,15
+514,Aleda,Foreman,59,Female,Bolivar,High School Diploma,Employed,Divorced,Rent,514,799,66654.05,42492.36,late,debt consolidation,93655.07,11
+515,Ailina,Fitzsymons,20,Female,Krona,PhD,Employed,Single,Own,515,662,70749.14,887.98,missed,home improvement,46877.16,11
+516,Thornie,Hennington,81,Male,Peso,PhD,Self-Employed,Married,Own,516,315,98515.03,37866.82,on-time,medical expenses,30229.52,9
+517,Nappie,Bagnold,22,Male,Yuan Renminbi,High School Diploma,Employed,Single,Mortgage,517,681,69473.05,26561.32,on-time,home improvement,58050.14,15
+518,Alaine,Cable,49,Female,Peso,PhD,Self-Employed,Single,Own,518,362,67890.47,42808.55,on-time,debt consolidation,33454.99,23
+519,Giustina,Hebditch,82,Female,Peso,PhD,Employed,Divorced,Own,519,514,51043.66,6288.28,missed,debt consolidation,18257.05,24
+520,Ludvig,Veevers,60,Male,Euro,PhD,Employed,Divorced,Rent,520,738,17588.6,40192.03,on-time,debt consolidation,95436.3,16
+521,Von,Low,37,Male,Rupiah,Master's Degree,Self-Employed,Divorced,Mortgage,521,626,58437.07,33901.44,missed,medical expenses,81555.33,5
+522,Nickey,Aingell,24,Male,Zloty,PhD,Employed,Divorced,Rent,522,523,69250.63,47170.58,missed,home improvement,62893.46,8
+523,Dudley,Bailie,65,Male,Euro,High School Diploma,Employed,Single,Own,523,729,99511.19,40268.92,on-time,debt consolidation,88657.01,6
+524,Dorelle,Sabbins,47,Genderqueer,Krona,Master's Degree,Self-Employed,Widowed,Rent,524,404,36045.9,6698.07,on-time,medical expenses,97707.09,5
+525,Lolita,De la croix,26,Female,Peso,Master's Degree,Employed,Single,Mortgage,525,553,89925.68,45867.13,on-time,home improvement,40467.1,4
+526,Joanie,Brazear,80,Agender,Franc,High School Diploma,Employed,Single,Own,526,365,52613.27,20434.77,late,home improvement,12331.93,13
+527,Udall,Sowter,20,Male,Yen,Master's Degree,Unemployed,Married,Rent,527,630,12506.18,25498.89,on-time,debt consolidation,37886.69,16
+528,Prentiss,Jakubovsky,45,Male,Real,PhD,Employed,Married,Mortgage,528,676,68188.59,32619.39,missed,home improvement,51814.58,12
+529,Lyndsie,Skellern,42,Female,Denar,High School Diploma,Employed,Widowed,Own,529,374,24282.01,7716.24,missed,home improvement,32939.32,20
+530,Roxanna,Everill,50,Female,Rupiah,Master's Degree,Unemployed,Divorced,Own,530,596,39232.97,5906.47,late,medical expenses,26533.4,25
+531,Miles,Drohun,25,Male,Krone,High School Diploma,Unemployed,Single,Mortgage,531,526,88901.53,49301.92,on-time,medical expenses,96727.16,10
+532,Vito,Hassett,28,Male,Euro,High School Diploma,Employed,Divorced,Mortgage,532,344,53211.98,21050.79,on-time,medical expenses,65135.72,14
+533,Vanni,Ricciardello,55,Female,Yuan Renminbi,Bachelor's Degree,Self-Employed,Divorced,Mortgage,533,830,94496.44,3884.61,missed,medical expenses,90536.86,25
+534,Barbara-anne,Goodbairn,64,Female,Euro,Master's Degree,Unemployed,Single,Rent,534,732,63720.95,31288.54,missed,home improvement,11237.81,5
+535,Ingeberg,Pearch,84,Female,Rupiah,Master's Degree,Employed,Widowed,Mortgage,535,465,39263.99,20033.1,late,medical expenses,25578.56,10
+536,Deanna,Kier,29,Female,Dollar,PhD,Self-Employed,Divorced,Mortgage,536,766,66748.66,31335.15,on-time,medical expenses,90888.52,3
+537,Corie,McTerry,31,Female,Euro,High School Diploma,Unemployed,Married,Rent,537,722,73791.24,32063.5,missed,medical expenses,79969.71,5
+538,Hailee,Matthesius,28,Female,Peso,Master's Degree,Self-Employed,Widowed,Mortgage,538,634,97750.18,23833.41,on-time,medical expenses,77963.04,28
+539,Phoebe,Haith,59,Female,Rupiah,PhD,Self-Employed,Married,Rent,539,448,66108.96,5040.75,late,debt consolidation,19212.47,21
+540,Cristal,Melmore,60,Female,Dinar,High School Diploma,Employed,Married,Own,540,626,85721.31,8497.66,on-time,debt consolidation,38263.3,25
+541,Lory,Streetley,50,Female,Real,High School Diploma,Unemployed,Divorced,Own,541,315,49935.21,31998.19,missed,home improvement,31219.59,29
+542,Terri,Broggini,49,Female,Peso,Master's Degree,Self-Employed,Divorced,Mortgage,542,785,36826.71,26809.14,missed,medical expenses,79768.54,11
+543,Phillip,Brise,70,Male,Birr,Master's Degree,Employed,Married,Mortgage,543,314,29383.22,45991.59,missed,medical expenses,72499.19,27
+544,Garv,Standidge,79,Male,Euro,Bachelor's Degree,Self-Employed,Divorced,Mortgage,544,797,85982.72,7916.35,on-time,home improvement,41029.55,17
+545,Charlie,Hampstead,63,Male,Yuan Renminbi,Bachelor's Degree,Self-Employed,Single,Rent,545,737,30412.07,26853.57,late,medical expenses,3433.38,7
+546,Dannie,Blampied,24,Female,Dinar,Master's Degree,Self-Employed,Widowed,Mortgage,546,741,72291.91,6642.57,missed,debt consolidation,47948.46,30
+547,Karna,Ivins,41,Female,Naira,High School Diploma,Employed,Divorced,Own,547,311,14989.98,36647.03,on-time,home improvement,37495.28,21
+548,Ward,Musico,34,Male,Ruble,High School Diploma,Employed,Single,Mortgage,548,765,31961.24,5810.79,on-time,medical expenses,22778.64,30
+549,Claresta,Clubley,61,Female,Sol,Master's Degree,Employed,Married,Own,549,583,35490.5,14696.81,late,debt consolidation,11294.57,5
+550,Nollie,Kelmere,68,Male,Yen,High School Diploma,Self-Employed,Widowed,Mortgage,550,343,69040.57,141.71,late,home improvement,10489.46,28
+551,Rana,Wakeley,43,Female,Bolivar,High School Diploma,Employed,Divorced,Mortgage,551,574,58527.22,32943.94,on-time,home improvement,97979.8,11
+552,Avery,Klemenz,72,Male,Kuna,Bachelor's Degree,Unemployed,Widowed,Rent,552,628,28650.39,7188.98,late,home improvement,64116.52,2
+553,Pepillo,Casswell,43,Male,Franc,High School Diploma,Self-Employed,Divorced,Own,553,371,35359.42,21660.63,missed,debt consolidation,23740.23,10
+554,Curcio,William,63,Male,Dong,Master's Degree,Self-Employed,Widowed,Rent,554,532,90842.46,35400.49,missed,home improvement,6620.68,10
+555,Nell,Prescot,47,Female,Kuna,PhD,Unemployed,Married,Own,555,470,34955.8,49184.05,missed,debt consolidation,15249.88,10
+556,Maridel,Gayler,31,Female,Yuan Renminbi,Bachelor's Degree,Self-Employed,Married,Own,556,550,8328.79,45582.18,missed,debt consolidation,74955.81,1
+557,Freddy,Osband,70,Female,Yen,PhD,Employed,Widowed,Own,557,338,67913.87,48059.7,missed,medical expenses,96813.67,4
+558,Sigfrid,Dowears,67,Male,Koruna,High School Diploma,Unemployed,Widowed,Own,558,601,65930.57,32426.18,late,debt consolidation,72828.47,27
+559,Weidar,Daglish,64,Male,Euro,PhD,Employed,Married,Own,559,599,89355.08,14728.02,on-time,home improvement,5220.64,3
+560,Mandi,Rubinowicz,42,Female,Dollar,Master's Degree,Unemployed,Divorced,Mortgage,560,449,12775.18,20868.26,missed,home improvement,35455.17,2
+561,Gaylor,Baglin,30,Male,Yuan Renminbi,Master's Degree,Employed,Widowed,Mortgage,561,713,73338.12,30863.95,missed,debt consolidation,86061.19,26
+562,Laurene,Castanaga,49,Female,Som,PhD,Unemployed,Married,Rent,562,527,37948.31,30832.31,late,home improvement,90521.37,30
+563,Bel,Collinson,51,Female,Rupiah,Master's Degree,Unemployed,Divorced,Rent,563,710,54768.98,10781.5,on-time,debt consolidation,75733.2,14
+564,Rachelle,Sunter,19,Female,Yuan Renminbi,PhD,Employed,Divorced,Own,564,452,48864.58,29036.62,on-time,home improvement,62533.09,2
+565,Norah,Grills,80,Female,Colon,Master's Degree,Employed,Widowed,Rent,565,488,51928.84,10432.17,missed,home improvement,88331.79,14
+566,Wylie,Dils,29,Male,Lek,Master's Degree,Employed,Single,Own,566,554,2583.84,15602.93,late,debt consolidation,49714.64,8
+567,Pascale,Checci,70,Male,Yuan Renminbi,Bachelor's Degree,Employed,Divorced,Mortgage,567,432,11091.56,18897.42,missed,home improvement,84831.21,8
+568,Claybourne,Usborn,74,Male,Dollar,High School Diploma,Employed,Single,Rent,568,502,97543.69,4949.63,late,debt consolidation,16876.37,24
+569,Forester,Brickwood,41,Male,Lari,Bachelor's Degree,Self-Employed,Married,Rent,569,320,19031.52,26877.43,on-time,home improvement,32757.35,9
+570,Carmela,Philpotts,82,Female,Koruna,Master's Degree,Unemployed,Married,Mortgage,570,448,94306.22,22815.29,missed,debt consolidation,40731.58,25
+571,Dex,McCarry,35,Male,Yuan Renminbi,High School Diploma,Employed,Single,Mortgage,571,656,54014.4,29305.01,on-time,debt consolidation,9569.07,30
+572,Nilson,Adcocks,84,Genderfluid,Pound,Master's Degree,Unemployed,Widowed,Own,572,714,90088.51,6103.24,missed,debt consolidation,14540.89,10
+573,Hetti,Seater,73,Female,Ruble,High School Diploma,Employed,Widowed,Rent,573,700,31886.56,42729.38,on-time,debt consolidation,32447.69,5
+574,Ives,Bragger,44,Male,Yuan Renminbi,Master's Degree,Unemployed,Single,Rent,574,438,97566.19,25753.38,late,home improvement,16275.97,25
+575,Casper,Nolte,25,Male,Yuan Renminbi,PhD,Self-Employed,Widowed,Own,575,620,80805.88,35152.7,on-time,medical expenses,57550.38,25
+576,Misti,Gammie,80,Female,Euro,PhD,Unemployed,Married,Rent,576,451,40608.05,48604.87,on-time,medical expenses,48176.41,2
+577,Standford,Chiswell,36,Male,Ngultrum,Bachelor's Degree,Employed,Divorced,Mortgage,577,586,75917.78,31228.7,missed,medical expenses,76996.75,24
+578,Borg,Elmar,47,Male,Peso,PhD,Employed,Divorced,Own,578,561,96356.28,22238.47,on-time,debt consolidation,53715.39,2
+579,Jeniece,Easson,61,Non-binary,Yuan Renminbi,High School Diploma,Self-Employed,Divorced,Mortgage,579,491,91401.31,41345.43,late,debt consolidation,22362.98,1
+580,Dianna,Ccomini,21,Female,Yuan Renminbi,Master's Degree,Unemployed,Single,Rent,580,597,94928.72,26701.28,missed,home improvement,6733.73,22
+581,Lionel,Apdell,36,Male,Dollar,High School Diploma,Self-Employed,Married,Rent,581,547,32185.24,27744.52,late,medical expenses,65966.61,27
+582,Keary,Tackell,82,Bigender,Euro,High School Diploma,Unemployed,Single,Own,582,549,8766.75,33038.61,on-time,debt consolidation,3967.16,30
+583,Trey,Tate,75,Male,Afghani,PhD,Self-Employed,Single,Own,583,518,68263.27,23198.97,missed,debt consolidation,47801.16,19
+584,Valentine,Tann,32,Male,Shilling,Master's Degree,Unemployed,Married,Own,584,563,5931.32,25187.75,missed,home improvement,41595.72,7
+585,Page,Accombe,64,Male,Rupiah,Bachelor's Degree,Unemployed,Widowed,Rent,585,564,31225.42,16398.34,on-time,home improvement,68098.44,4
+586,Daffie,Palfreeman,42,Female,Yuan Renminbi,High School Diploma,Unemployed,Married,Rent,586,448,78789.09,42837.37,missed,home improvement,54909.99,29
+587,Cad,Harston,58,Male,Peso,Master's Degree,Unemployed,Married,Rent,587,401,95640.72,11071.12,late,home improvement,12233.13,16
+588,Joceline,Arnison,25,Female,Real,PhD,Employed,Divorced,Mortgage,588,551,50768.81,20984.97,late,debt consolidation,85615.82,13
+589,Gregory,Giroldo,59,Male,Rupiah,Master's Degree,Employed,Single,Rent,589,463,21893.89,30638.3,late,home improvement,40133.09,13
+590,Dirk,Menere,67,Male,Rupiah,Bachelor's Degree,Self-Employed,Widowed,Own,590,635,40110.18,34516.03,late,medical expenses,64208.65,10
+591,Ora,Danielut,27,Genderfluid,Yuan Renminbi,High School Diploma,Unemployed,Divorced,Rent,591,567,12080.06,12228.03,on-time,medical expenses,4427.3,1
+592,Chen,Mattusov,43,Male,Tenge,PhD,Unemployed,Widowed,Own,592,775,75596.55,3223.71,on-time,medical expenses,61668.75,28
+593,Caldwell,Jerosch,60,Male,Zloty,PhD,Unemployed,Single,Rent,593,640,75341.68,24563.14,missed,home improvement,73643.67,16
+594,Angeli,Geroldi,47,Male,Euro,High School Diploma,Unemployed,Divorced,Rent,594,401,39883.68,9318.84,on-time,medical expenses,38220.71,3
+595,Cyrille,Hourston,18,Male,Yuan Renminbi,Bachelor's Degree,Self-Employed,Widowed,Rent,595,451,1019.8,18330.98,late,medical expenses,46724.43,27
+596,Zora,Harsnipe,69,Female,Dong,PhD,Unemployed,Single,Rent,596,524,72999.33,31162.66,missed,medical expenses,50331.2,11
+597,L;urette,Baber,65,Female,Peso,Bachelor's Degree,Self-Employed,Married,Mortgage,597,582,24207.51,10094.05,on-time,medical expenses,98125.76,10
+598,Elijah,Grogono,62,Male,Ruble,PhD,Unemployed,Widowed,Rent,598,768,94249.73,47728.65,missed,debt consolidation,92788.23,12
+599,Reinhold,Start,47,Bigender,Yuan Renminbi,Master's Degree,Unemployed,Single,Rent,599,596,79861.28,40589.66,missed,debt consolidation,22429.97,1
+600,Carlita,De Domenico,22,Genderqueer,Dollar,Bachelor's Degree,Unemployed,Divorced,Rent,600,755,18349.44,35162.24,on-time,home improvement,55112.1,28
+601,Addie,Seilmann,42,Female,Yuan Renminbi,Bachelor's Degree,Self-Employed,Divorced,Own,601,780,4304.42,42931.94,late,debt consolidation,71033.46,15
+602,Seline,Serck,60,Female,Manat,High School Diploma,Employed,Single,Own,602,733,93503.53,39847.26,missed,debt consolidation,24795.1,4
+603,Pyotr,Silbersak,43,Male,Euro,Bachelor's Degree,Self-Employed,Single,Rent,603,587,63835.92,13509.09,late,debt consolidation,52479.07,20
+604,Anabelle,Disney,53,Female,Krona,High School Diploma,Employed,Divorced,Rent,604,457,9421.95,25523.81,missed,home improvement,79136.39,4
+605,Nealon,Witherington,37,Male,Quetzal,Master's Degree,Self-Employed,Widowed,Own,605,355,25090.82,24714.1,on-time,debt consolidation,97411.1,26
+606,Lurleen,Asty,23,Genderfluid,Euro,PhD,Unemployed,Married,Own,606,728,91886.29,1348.46,on-time,medical expenses,48676.98,23
+607,Rod,Poletto,30,Male,Peso,PhD,Unemployed,Married,Mortgage,607,582,47916.69,19053.33,on-time,medical expenses,33487.84,16
+608,Paige,Garraway,81,Male,Dollar,Master's Degree,Self-Employed,Single,Mortgage,608,306,81935.48,33277.4,on-time,medical expenses,47426.7,2
+609,Christabella,Lesor,38,Female,Euro,Master's Degree,Self-Employed,Married,Mortgage,609,643,77528.44,33891.94,late,debt consolidation,28382.02,5
+610,Kelby,Tomasello,32,Male,Dinar,Bachelor's Degree,Self-Employed,Single,Mortgage,610,517,46832.65,48382.18,missed,home improvement,48777.16,22
+611,Elsinore,Spohrmann,55,Female,Sol,Bachelor's Degree,Unemployed,Widowed,Own,611,412,4376.15,41768.96,missed,debt consolidation,73224.22,26
+612,Aurea,Turpie,27,Bigender,Euro,High School Diploma,Employed,Married,Own,612,372,8019.08,20870.67,on-time,debt consolidation,26052.21,21
+613,Grantham,Batstone,83,Male,Yuan Renminbi,PhD,Unemployed,Married,Rent,613,516,69692.78,1270.37,missed,medical expenses,72004.27,14
+614,Tiphani,Wharin,64,Female,Euro,Master's Degree,Unemployed,Divorced,Own,614,456,7075.66,15172.11,late,home improvement,8975.95,21
+615,Melloney,Meneer,38,Female,Zloty,Bachelor's Degree,Unemployed,Divorced,Mortgage,615,618,24.69,13242.4,missed,medical expenses,65566.07,24
+616,Filbert,Stopher,59,Male,Koruna,PhD,Self-Employed,Single,Own,616,462,49825.49,18674.28,late,medical expenses,57616.77,24
+617,Domenico,Geraldez,80,Male,Zloty,High School Diploma,Unemployed,Single,Mortgage,617,646,63864.1,42822.82,on-time,debt consolidation,70657.66,1
+618,Dalt,Etchells,65,Male,Peso,PhD,Self-Employed,Divorced,Rent,618,686,46736.07,40315.34,on-time,debt consolidation,60622.08,7
+619,Shelia,Mander,81,Female,Franc,PhD,Unemployed,Single,Rent,619,651,75293.79,47366.04,on-time,home improvement,94264.66,7
+620,Saundra,Mangion,53,Male,Euro,High School Diploma,Unemployed,Married,Own,620,746,92809.04,4466.81,missed,debt consolidation,67515.81,11
+621,Lynnette,Buttler,53,Female,Zloty,Bachelor's Degree,Self-Employed,Divorced,Rent,621,728,58853.3,33559.7,late,medical expenses,17301.71,9
+622,Audrie,Syversen,29,Female,Euro,Master's Degree,Employed,Divorced,Mortgage,622,601,46093.46,4275.72,late,home improvement,11237.02,29
+623,Eziechiele,Rawstorn,81,Male,Euro,High School Diploma,Employed,Widowed,Own,623,841,54956.08,14348.24,on-time,medical expenses,55613.95,16
+624,Sissie,Duester,75,Polygender,Baht,Bachelor's Degree,Unemployed,Single,Mortgage,624,621,89146.84,19957.45,on-time,home improvement,21957.01,12
+625,Larissa,Belfrage,63,Female,Rupiah,High School Diploma,Self-Employed,Single,Own,625,720,26699.26,33641.69,late,home improvement,10942.07,26
+626,Jerome,Kimbling,61,Male,Euro,High School Diploma,Self-Employed,Married,Rent,626,505,13832.27,39153.5,missed,home improvement,30400.86,19
+627,Jeffy,Stollberg,29,Male,Peso,Master's Degree,Unemployed,Single,Rent,627,494,2340.29,17762.0,late,debt consolidation,20100.56,5
+628,Bren,Hardwick,23,Male,Yuan Renminbi,Bachelor's Degree,Employed,Single,Mortgage,628,775,34291.75,13815.49,late,medical expenses,13281.93,18
+629,Lyndsay,Croxall,81,Female,Rial,Master's Degree,Self-Employed,Married,Own,629,336,43211.33,17156.74,on-time,home improvement,23959.87,15
+630,Inger,Buddock,47,Female,Yuan Renminbi,High School Diploma,Employed,Single,Own,630,706,39145.38,49672.3,missed,medical expenses,53278.87,14
+631,Daveta,Wynes,63,Female,Peso,PhD,Self-Employed,Single,Mortgage,631,612,27300.34,36934.29,on-time,debt consolidation,72405.96,17
+632,Gal,Duxfield,62,Male,Baht,PhD,Employed,Married,Own,632,310,78206.12,9302.26,on-time,medical expenses,46688.52,19
+633,Durward,Enrietto,76,Male,Peso,High School Diploma,Employed,Widowed,Own,633,400,30246.97,41586.81,missed,debt consolidation,94821.7,28
+634,Denys,Pinare,34,Male,Tugrik,Bachelor's Degree,Self-Employed,Single,Own,634,764,26615.9,27623.59,on-time,home improvement,24085.74,18
+635,Emanuel,Drioli,30,Male,Euro,High School Diploma,Employed,Divorced,Mortgage,635,608,36025.97,27458.53,late,debt consolidation,69285.89,26
+636,Dion,Morville,66,Female,Peso,PhD,Employed,Widowed,Rent,636,563,20413.92,23618.05,missed,home improvement,41766.32,18
+637,Ainslee,Woodwind,18,Bigender,Dollar,Master's Degree,Self-Employed,Single,Mortgage,637,804,93.66,42867.9,late,debt consolidation,16590.83,1
+638,Stephan,Physic,53,Male,Peso,Bachelor's Degree,Employed,Widowed,Own,638,467,96253.05,39270.58,missed,home improvement,20385.47,13
+639,Gardie,Antoons,82,Male,Yuan Renminbi,High School Diploma,Unemployed,Divorced,Own,639,538,41570.53,20452.13,on-time,debt consolidation,88043.0,13
+640,Jasun,Barta,71,Male,Boliviano,Bachelor's Degree,Employed,Married,Own,640,762,50514.17,16036.5,missed,home improvement,60506.34,7
+641,Heather,Flohard,30,Female,Taka,Master's Degree,Unemployed,Widowed,Rent,641,491,33716.38,43589.55,on-time,home improvement,40066.41,25
+642,Jacklin,Lewsley,83,Female,Yuan Renminbi,High School Diploma,Self-Employed,Single,Own,642,441,52531.21,27782.95,late,home improvement,59938.98,11
+643,Rustin,McBeath,75,Polygender,Peso,PhD,Employed,Married,Own,643,790,37428.4,40205.49,missed,home improvement,19273.28,19
+644,Vern,Pleass,29,Male,Dinar,Master's Degree,Employed,Widowed,Own,644,438,23672.8,28661.43,missed,medical expenses,27293.42,3
+645,Onfroi,Tender,42,Male,Krona,Bachelor's Degree,Self-Employed,Married,Own,645,316,20679.26,48551.1,missed,home improvement,24364.94,17
+646,Blanche,Genney,37,Female,Euro,Bachelor's Degree,Self-Employed,Widowed,Rent,646,467,85261.32,3590.4,late,home improvement,62005.56,2
+647,Deina,Uren,85,Female,Rupee,PhD,Employed,Divorced,Rent,647,343,29485.54,42161.53,missed,debt consolidation,61463.72,23
+648,Rhys,Rival,72,Male,Yuan Renminbi,PhD,Employed,Divorced,Rent,648,571,36399.91,9854.01,missed,home improvement,96785.17,30
+649,Alvina,Goldsbrough,57,Female,Peso,High School Diploma,Self-Employed,Widowed,Rent,649,550,58060.2,28710.11,missed,medical expenses,44948.75,8
+650,Melisande,Shurrock,36,Female,Koruna,High School Diploma,Unemployed,Divorced,Mortgage,650,779,64095.3,45269.33,late,medical expenses,7505.14,24
+651,Francis,Bynold,38,Male,Peso,Master's Degree,Employed,Married,Rent,651,714,44091.11,19645.33,missed,medical expenses,76886.49,21
+652,Quintina,Verrier,64,Female,Rupiah,High School Diploma,Self-Employed,Married,Own,652,517,77673.86,48534.75,late,debt consolidation,7338.06,21
+653,Andre,Durram,26,Male,Peso,Master's Degree,Employed,Single,Rent,653,811,86614.87,7986.38,missed,home improvement,5634.69,25
+654,Joanne,Bladge,85,Female,Ruble,High School Diploma,Self-Employed,Single,Own,654,426,46930.23,32639.77,on-time,home improvement,98903.4,20
+655,Deni,Barfitt,55,Female,Dirham,High School Diploma,Unemployed,Single,Rent,655,314,6515.83,13653.81,on-time,home improvement,69155.5,30
+656,Doralynn,Umpleby,64,Female,Krona,PhD,Self-Employed,Divorced,Rent,656,348,61910.96,31606.39,late,medical expenses,79796.07,14
+657,Eolande,Cayford,31,Female,Dollar,Bachelor's Degree,Employed,Divorced,Rent,657,540,91235.03,45416.9,missed,home improvement,98311.09,3
+658,Alister,Essberger,73,Male,Yuan Renminbi,Master's Degree,Unemployed,Widowed,Mortgage,658,614,96043.18,31539.73,on-time,medical expenses,31404.47,27
+659,Rubi,Vardon,68,Female,Peso,PhD,Self-Employed,Widowed,Rent,659,403,45638.07,17697.23,late,debt consolidation,59782.66,2
+660,Fanchon,Ost,81,Female,Lempira,Master's Degree,Unemployed,Divorced,Rent,660,638,83985.55,21813.2,missed,medical expenses,3988.81,25
+661,Bettye,Andreopolos,50,Female,Peso,Master's Degree,Self-Employed,Divorced,Own,661,621,11193.9,7185.16,late,home improvement,5743.47,2
+662,Edee,Bister,48,Female,Dong,Bachelor's Degree,Self-Employed,Widowed,Own,662,833,59921.86,24504.41,late,home improvement,16464.17,27
+663,Ashlan,Ionnidis,31,Female,Dollar,Bachelor's Degree,Unemployed,Divorced,Rent,663,784,70136.35,18796.47,on-time,debt consolidation,51493.83,23
+664,Fawne,Farragher,67,Female,Yuan Renminbi,Bachelor's Degree,Self-Employed,Married,Rent,664,782,35116.34,11619.59,missed,debt consolidation,44210.63,10
+665,Ailee,Geldart,68,Polygender,Real,PhD,Self-Employed,Divorced,Own,665,772,42387.7,42324.34,missed,home improvement,87890.21,3
+666,Fran,Simanenko,30,Male,Sol,High School Diploma,Employed,Married,Own,666,481,79551.9,49012.75,late,debt consolidation,10825.99,22
+667,Alexei,Dearell,30,Male,Ruble,Bachelor's Degree,Employed,Widowed,Rent,667,668,21494.89,15467.64,missed,medical expenses,69507.0,15
+668,Charlean,Holde,77,Female,Yuan Renminbi,High School Diploma,Unemployed,Single,Rent,668,383,32713.24,15813.27,late,medical expenses,96689.81,15
+669,Cloris,Fynan,29,Female,Ruble,PhD,Self-Employed,Divorced,Mortgage,669,498,92734.4,48338.89,on-time,medical expenses,39170.71,12
+670,Traver,Ewin,22,Male,Euro,Bachelor's Degree,Employed,Married,Rent,670,575,78295.54,35675.86,late,medical expenses,80785.66,9
+671,Cassy,MacGaughey,66,Female,Krona,Bachelor's Degree,Self-Employed,Married,Own,671,507,12951.31,37452.63,missed,medical expenses,19047.93,11
+672,Baldwin,Carlile,79,Genderfluid,Krona,High School Diploma,Self-Employed,Widowed,Own,672,439,58063.41,7449.9,missed,home improvement,86777.51,23
+673,Dale,Gabbotts,64,Female,Yuan Renminbi,Master's Degree,Unemployed,Divorced,Mortgage,673,525,55070.59,22859.61,missed,medical expenses,30760.46,10
+674,Burt,Di Lucia,72,Non-binary,Yuan Renminbi,PhD,Employed,Single,Mortgage,674,428,29576.67,562.06,late,medical expenses,6802.55,23
+675,Gaylene,Mighele,82,Female,Yuan Renminbi,Master's Degree,Employed,Single,Mortgage,675,590,51127.46,21063.72,missed,medical expenses,45542.04,23
+676,Winthrop,Saker,62,Male,Dram,High School Diploma,Employed,Widowed,Rent,676,660,48313.58,304.23,late,medical expenses,5068.92,11
+677,Ester,Divine,67,Female,Yuan Renminbi,High School Diploma,Self-Employed,Divorced,Mortgage,677,439,68217.02,29692.89,on-time,debt consolidation,21584.33,27
+678,Denys,Nursey,84,Male,Ruble,Master's Degree,Employed,Divorced,Rent,678,450,69075.77,30009.29,late,home improvement,86009.86,1
+679,Gonzalo,Maber,18,Agender,Manat,Bachelor's Degree,Self-Employed,Single,Rent,679,571,71039.35,13525.78,missed,medical expenses,5282.06,27
+680,Graeme,Kopf,54,Male,Rupee,PhD,Employed,Married,Rent,680,604,64455.27,36608.44,late,debt consolidation,74111.16,28
+681,Diana,Norcliff,23,Female,Dollar,PhD,Self-Employed,Married,Rent,681,640,32071.28,32161.92,on-time,debt consolidation,22663.28,15
+682,Chrysa,Thornborrow,23,Female,Franc,High School Diploma,Employed,Married,Mortgage,682,515,76.38,47956.09,late,medical expenses,11946.46,15
+683,Gabrila,Casbourne,83,Female,Euro,PhD,Employed,Divorced,Mortgage,683,462,38652.43,29126.87,on-time,medical expenses,72467.25,30
+684,Lorinda,Galiford,49,Female,Yuan Renminbi,PhD,Unemployed,Divorced,Rent,684,832,10949.02,36696.94,missed,home improvement,56214.54,1
+685,Lynelle,McConaghy,65,Female,Dollar,Master's Degree,Unemployed,Divorced,Mortgage,685,579,61582.35,25333.8,late,debt consolidation,55705.2,23
+686,Paule,Stutard,25,Female,Yuan Renminbi,Master's Degree,Unemployed,Single,Rent,686,537,47306.79,25067.47,on-time,medical expenses,89397.18,21
+687,Curcio,Leggatt,76,Male,Ruble,High School Diploma,Employed,Single,Mortgage,687,804,56991.97,40655.61,on-time,debt consolidation,31506.79,19
+688,Albertina,Spottiswood,71,Female,Peso,Master's Degree,Employed,Widowed,Own,688,628,90630.34,22575.64,on-time,medical expenses,89735.09,7
+689,Quent,Kerner,59,Male,Yuan Renminbi,PhD,Employed,Divorced,Mortgage,689,841,8296.96,17170.96,missed,medical expenses,9812.47,7
+690,Susannah,Giller,83,Female,Rupiah,Bachelor's Degree,Unemployed,Divorced,Mortgage,690,597,16609.44,45614.86,missed,debt consolidation,76064.61,23
+691,Angelina,Flipek,20,Female,Zloty,Bachelor's Degree,Self-Employed,Divorced,Mortgage,691,320,48907.92,12943.66,missed,home improvement,82148.89,17
+692,Brita,Dennerly,81,Female,Rupiah,Master's Degree,Employed,Married,Mortgage,692,409,40505.69,35258.04,missed,debt consolidation,11627.83,27
+693,Ricard,Fitzsymon,39,Male,Yuan Renminbi,Master's Degree,Unemployed,Widowed,Mortgage,693,628,74116.7,15063.03,missed,home improvement,58932.59,15
+694,Ranna,Filler,57,Female,Rupiah,High School Diploma,Employed,Married,Own,694,749,18708.03,34832.27,on-time,medical expenses,56573.95,30
+695,Giselle,Ianetti,19,Female,Yuan Renminbi,Master's Degree,Self-Employed,Married,Own,695,755,41906.98,45535.25,on-time,medical expenses,60640.68,21
+696,Carlye,Finn,83,Female,Rupiah,PhD,Employed,Single,Mortgage,696,612,48022.52,14060.45,on-time,home improvement,35876.56,30
+697,Eunice,Cotsford,82,Female,Euro,High School Diploma,Self-Employed,Single,Mortgage,697,422,1857.46,32125.81,missed,medical expenses,71839.1,1
+698,Stephana,Bakhrushkin,57,Female,Euro,Master's Degree,Self-Employed,Divorced,Mortgage,698,532,82176.32,33568.51,late,medical expenses,37974.97,19
+699,Munroe,Ibbett,79,Male,Euro,Master's Degree,Employed,Divorced,Mortgage,699,644,17158.61,22548.99,missed,medical expenses,65481.49,22
+700,Jeremias,Eate,30,Male,Rupiah,High School Diploma,Self-Employed,Single,Mortgage,700,556,61070.1,8462.66,on-time,medical expenses,58108.7,25
+701,Gwyneth,Bridewell,63,Female,Yuan Renminbi,Master's Degree,Employed,Married,Own,701,326,3411.36,27381.14,late,medical expenses,26952.86,6
+702,Bliss,Faulconer,42,Female,Yuan Renminbi,Master's Degree,Unemployed,Divorced,Rent,702,740,62282.55,25609.48,missed,home improvement,85374.3,29
+703,Chaim,Elis,81,Male,Euro,High School Diploma,Unemployed,Widowed,Own,703,469,57219.71,38658.16,on-time,debt consolidation,36204.9,10
+704,Ally,Celle,76,Female,Ruble,PhD,Self-Employed,Married,Mortgage,704,616,30418.18,3535.23,on-time,medical expenses,6461.67,30
+705,Hedvige,Hobble,61,Female,Rupiah,Bachelor's Degree,Self-Employed,Married,Own,705,837,14328.27,42719.43,late,home improvement,99880.32,16
+706,Erroll,Vondrak,37,Male,Lek,PhD,Self-Employed,Divorced,Mortgage,706,650,20342.4,30078.1,late,home improvement,25064.57,15
+707,Any,Loftus,56,Male,Rupiah,High School Diploma,Employed,Single,Own,707,741,94646.88,13980.46,on-time,medical expenses,84302.48,3
+708,Benjie,Jurn,61,Male,Rupiah,High School Diploma,Unemployed,Divorced,Mortgage,708,841,70817.39,24083.5,missed,home improvement,13820.62,27
+709,Derick,Eisikovitsh,82,Male,Real,PhD,Self-Employed,Single,Mortgage,709,781,46118.78,22516.54,missed,home improvement,18930.39,18
+710,Morgan,Ling,27,Male,Ruble,Bachelor's Degree,Self-Employed,Divorced,Own,710,700,20739.47,23599.22,late,debt consolidation,69727.92,7
+711,Adriaens,Mityakov,85,Polygender,Euro,PhD,Self-Employed,Married,Own,711,799,46921.6,37940.0,missed,home improvement,6794.36,15
+712,Jackqueline,Berndtsson,61,Female,Peso,Master's Degree,Employed,Divorced,Rent,712,506,55534.59,49077.46,on-time,debt consolidation,5967.43,27
+713,Lyn,Salazar,36,Female,Ruble,High School Diploma,Unemployed,Divorced,Mortgage,713,656,76191.71,34891.96,late,home improvement,73778.79,6
+714,Kaylil,Callow,37,Female,Euro,PhD,Self-Employed,Widowed,Own,714,609,9561.39,32806.33,late,medical expenses,3065.88,1
+715,Kirby,Dunlop,24,Male,Ruble,Bachelor's Degree,Unemployed,Widowed,Mortgage,715,802,30391.02,22805.72,late,debt consolidation,55281.07,12
+716,Omar,Ions,79,Male,Rupiah,Master's Degree,Unemployed,Single,Rent,716,698,15654.36,1620.58,missed,medical expenses,83844.07,9
+717,Calley,Irnis,21,Female,Franc,Master's Degree,Unemployed,Widowed,Mortgage,717,678,78373.75,24666.25,on-time,medical expenses,17909.99,28
+718,Dallas,Gallihaulk,64,Male,Yuan Renminbi,PhD,Unemployed,Widowed,Own,718,308,91139.39,48074.18,missed,home improvement,12097.65,2
+719,Emalia,Camock,34,Female,Ruble,Bachelor's Degree,Unemployed,Widowed,Mortgage,719,450,5898.52,47760.85,missed,home improvement,54437.04,28
+720,Phebe,McGirr,41,Female,Yen,High School Diploma,Employed,Single,Mortgage,720,340,35860.0,48724.57,missed,medical expenses,63897.96,6
+721,Emmit,McGooch,33,Male,Rupiah,High School Diploma,Employed,Single,Rent,721,405,16874.93,2307.76,late,medical expenses,49310.19,22
+722,Salomone,Flintiff,72,Male,Euro,Bachelor's Degree,Unemployed,Married,Rent,722,745,26099.27,38911.13,missed,medical expenses,30173.93,12
+723,Shellysheldon,Howsego,38,Male,Real,High School Diploma,Unemployed,Married,Own,723,326,12923.07,49816.3,missed,home improvement,69601.67,27
+724,Gael,Joicey,63,Male,Kwacha,Bachelor's Degree,Unemployed,Married,Mortgage,724,781,45159.9,44594.9,on-time,debt consolidation,39600.31,25
+725,Reine,Steljes,71,Genderqueer,Sol,PhD,Employed,Single,Rent,725,798,27540.35,26106.73,on-time,medical expenses,73844.51,29
+726,Simonne,Notti,76,Female,Peso,High School Diploma,Employed,Single,Rent,726,811,57755.51,41655.21,on-time,debt consolidation,56305.28,26
+727,Virginia,Moysey,61,Bigender,Rupiah,Bachelor's Degree,Self-Employed,Single,Own,727,300,81077.8,8135.93,late,medical expenses,29126.37,11
+728,Asa,Staley,41,Genderqueer,Hryvnia,High School Diploma,Employed,Married,Mortgage,728,371,95546.83,11728.51,late,home improvement,63373.78,22
+729,Nathanial,Doughty,34,Male,Ruble,PhD,Employed,Widowed,Own,729,566,88378.72,4511.71,late,home improvement,16637.33,17
+730,Adelaide,Giorgietto,44,Female,Euro,High School Diploma,Self-Employed,Married,Rent,730,737,73779.12,27134.76,late,home improvement,75461.94,3
+731,Grier,Gasken,23,Female,Loti,Bachelor's Degree,Unemployed,Single,Rent,731,850,87653.56,31369.13,late,medical expenses,25624.22,2
+732,Henrietta,Evitt,78,Female,Naira,Master's Degree,Self-Employed,Married,Own,732,792,75338.95,11107.87,missed,debt consolidation,23168.96,12
+733,Annie,Swancock,63,Female,Yuan Renminbi,Bachelor's Degree,Self-Employed,Married,Rent,733,471,44402.75,19489.07,late,medical expenses,3922.03,20
+734,Elyn,Stitwell,30,Female,Rial,Bachelor's Degree,Unemployed,Divorced,Own,734,698,66742.9,6794.83,on-time,debt consolidation,45579.61,8
+735,Orland,Liggons,61,Genderfluid,Rupiah,PhD,Employed,Divorced,Own,735,834,20347.27,29190.09,late,medical expenses,8207.44,2
+736,Pat,Rickards,70,Female,Yen,PhD,Self-Employed,Divorced,Own,736,358,90731.45,35660.44,on-time,debt consolidation,29510.61,20
+737,Kelila,Gerding,28,Female,Rand,Master's Degree,Unemployed,Married,Own,737,775,33586.15,37976.66,late,medical expenses,11323.81,24
+738,Inigo,Measor,26,Male,Dollar,High School Diploma,Employed,Widowed,Own,738,343,8653.91,14673.64,on-time,debt consolidation,4181.83,1
+739,Annadiane,Burbudge,38,Female,Euro,Master's Degree,Self-Employed,Married,Mortgage,739,553,58033.69,12080.78,missed,home improvement,65900.08,15
+740,Bethena,McEllen,78,Female,Yuan Renminbi,High School Diploma,Self-Employed,Married,Own,740,790,60627.7,33189.48,on-time,medical expenses,99863.21,28
+741,Anderea,Elkin,52,Female,Yen,PhD,Employed,Single,Mortgage,741,480,75903.8,967.59,missed,debt consolidation,42370.56,9
+742,Rhianon,Beard,70,Bigender,Peso,PhD,Self-Employed,Single,Mortgage,742,830,88402.96,12185.14,on-time,home improvement,52215.51,30
+743,Linnie,Hoff,45,Female,Dong,PhD,Self-Employed,Widowed,Own,743,324,65713.52,43124.6,late,medical expenses,26985.61,30
+744,Brandea,Perelli,46,Female,Euro,High School Diploma,Unemployed,Single,Rent,744,620,21660.25,3268.91,on-time,home improvement,63767.67,9
+745,Magdalene,Crabb,59,Female,Sol,Bachelor's Degree,Unemployed,Widowed,Mortgage,745,580,79359.69,26466.24,late,medical expenses,37436.16,16
+746,Rudie,Trematick,50,Male,Quetzal,High School Diploma,Employed,Married,Rent,746,579,18218.6,27828.74,missed,debt consolidation,41775.68,11
+747,Bertram,Otto,36,Male,Naira,Master's Degree,Self-Employed,Divorced,Mortgage,747,339,21774.13,207.76,missed,debt consolidation,19121.41,19
+748,Bastian,Lightbody,26,Male,Sol,High School Diploma,Self-Employed,Single,Mortgage,748,351,85905.16,36794.17,missed,debt consolidation,76168.26,2
+749,Amos,Danne,23,Male,Yen,Master's Degree,Employed,Divorced,Own,749,456,21094.32,17099.34,late,debt consolidation,76002.39,7
+750,Burnaby,Fellon,26,Male,Rupiah,Bachelor's Degree,Self-Employed,Single,Mortgage,750,753,89245.93,44931.46,missed,debt consolidation,71717.53,6
+751,Danika,Lockley,55,Female,Franc,PhD,Unemployed,Widowed,Mortgage,751,809,52333.41,47750.74,late,debt consolidation,75546.81,28
+752,Rafe,Ell,82,Male,Euro,Bachelor's Degree,Employed,Married,Mortgage,752,460,31411.94,15688.23,on-time,medical expenses,74623.6,24
+753,Luke,Stubbeley,70,Male,Yuan Renminbi,Bachelor's Degree,Self-Employed,Married,Own,753,587,7793.89,30775.94,missed,debt consolidation,14599.37,6
+754,Cesya,Girard,64,Female,Franc,High School Diploma,Employed,Single,Own,754,424,32158.0,46450.25,on-time,debt consolidation,57871.47,20
+755,Ninetta,Youle,72,Female,Rial,PhD,Employed,Single,Own,755,359,26486.98,22540.43,missed,debt consolidation,82485.32,21
+756,Normy,Cutler,27,Male,Peso,PhD,Employed,Single,Mortgage,756,307,20066.61,8012.99,late,home improvement,1287.98,24
+757,Brynne,Goldhill,31,Female,Dollar,Master's Degree,Self-Employed,Single,Rent,757,330,42094.29,36291.58,late,home improvement,47359.58,22
+758,Tybie,Rodders,73,Female,Yuan Renminbi,Bachelor's Degree,Unemployed,Married,Mortgage,758,491,72981.05,24657.01,late,medical expenses,56747.59,6
+759,Emilio,Screwton,63,Male,Rupiah,Master's Degree,Unemployed,Married,Own,759,825,87025.16,15240.13,on-time,debt consolidation,75346.31,11
+760,Archibold,Brettoner,25,Male,Zloty,Master's Degree,Self-Employed,Single,Rent,760,547,42679.63,37106.08,late,debt consolidation,8818.26,28
+761,Grissel,Kitchaside,20,Female,Euro,Bachelor's Degree,Self-Employed,Divorced,Own,761,589,80283.41,23624.3,missed,medical expenses,64939.02,1
+762,Klement,Durnall,41,Male,Hryvnia,Bachelor's Degree,Unemployed,Divorced,Mortgage,762,350,97716.51,39154.85,late,home improvement,60757.27,27
+763,Celie,Banks,53,Female,Peso,High School Diploma,Unemployed,Divorced,Mortgage,763,301,6863.37,49424.58,on-time,home improvement,34026.7,18
+764,Jamaal,Cuardall,56,Male,Real,PhD,Employed,Widowed,Mortgage,764,775,96751.97,37619.35,on-time,debt consolidation,51631.56,25
+765,Cindy,O'Dyvoy,31,Female,Yuan Renminbi,PhD,Unemployed,Married,Rent,765,621,43269.38,17125.68,late,home improvement,43286.87,26
+766,Lorens,Edelmann,56,Male,Euro,PhD,Unemployed,Widowed,Rent,766,381,54480.95,26042.36,on-time,debt consolidation,17444.84,10
+767,Gayla,McKearnen,21,Female,Rupiah,High School Diploma,Self-Employed,Divorced,Mortgage,767,468,11279.62,23122.17,missed,home improvement,1812.92,8
+768,Debi,Ellery,51,Agender,Franc,PhD,Employed,Widowed,Own,768,354,47494.85,30694.23,missed,medical expenses,74291.65,9
+769,Jenni,Butterwick,74,Female,Yuan Renminbi,PhD,Unemployed,Married,Mortgage,769,546,92197.29,4009.97,late,home improvement,28673.75,13
+770,Bradley,Manus,33,Male,Yuan Renminbi,High School Diploma,Employed,Married,Mortgage,770,565,14564.51,43480.46,late,medical expenses,90504.58,25
+771,Nikki,Gutch,20,Agender,Ruble,Master's Degree,Self-Employed,Married,Own,771,612,52797.01,580.97,missed,medical expenses,77663.74,15
+772,Gran,Doey,85,Bigender,Rupiah,High School Diploma,Self-Employed,Widowed,Mortgage,772,441,14771.57,29554.22,on-time,home improvement,12036.59,18
+773,Cornie,Sperry,31,Male,Real,Bachelor's Degree,Self-Employed,Married,Mortgage,773,823,82938.05,21037.5,late,debt consolidation,52295.33,28
+774,Lauralee,Berrane,26,Female,Euro,High School Diploma,Self-Employed,Divorced,Own,774,817,31525.13,1144.72,on-time,medical expenses,14195.45,25
+775,Lynde,Mateiko,38,Female,Peso,Bachelor's Degree,Employed,Married,Own,775,603,15658.59,35311.54,missed,debt consolidation,56658.11,23
+776,Gray,Ericsson,22,Female,Yuan Renminbi,Master's Degree,Self-Employed,Widowed,Rent,776,311,98942.24,30788.9,late,home improvement,78761.45,11
+777,Rufe,Oakden,59,Male,Naira,High School Diploma,Self-Employed,Single,Mortgage,777,523,60925.03,10203.8,late,home improvement,36944.66,17
+778,Averil,Garman,40,Female,Euro,Master's Degree,Unemployed,Divorced,Own,778,717,87039.87,23721.43,late,medical expenses,91196.95,1
+779,Howie,Tull,26,Male,Lek,Bachelor's Degree,Self-Employed,Married,Rent,779,496,23354.48,36165.01,on-time,home improvement,77994.01,15
+780,Bethena,Foynes,52,Female,Rupiah,Master's Degree,Self-Employed,Single,Own,780,773,19635.54,47600.59,late,debt consolidation,76267.99,7
+781,Germaine,Petteford,25,Male,Koruna,PhD,Employed,Divorced,Own,781,580,85530.67,37124.3,missed,medical expenses,79103.15,11
+782,Alidia,Ruvel,61,Bigender,Euro,Master's Degree,Unemployed,Divorced,Rent,782,688,95234.0,47576.24,late,medical expenses,79846.83,8
+783,Duffie,Poultney,83,Male,Krona,High School Diploma,Self-Employed,Single,Own,783,773,5743.58,7483.13,missed,home improvement,25592.64,15
+784,Maria,Wixon,63,Female,Euro,Master's Degree,Self-Employed,Widowed,Mortgage,784,585,73428.63,40074.84,late,home improvement,26848.46,5
+785,Merill,Woodford,74,Male,Sol,High School Diploma,Unemployed,Divorced,Rent,785,426,40803.79,12896.26,on-time,medical expenses,74834.47,15
+786,Farrell,MacIntosh,82,Male,Ruble,Master's Degree,Employed,Single,Mortgage,786,766,60726.82,45577.88,missed,home improvement,33447.42,20
+787,Rufe,Hadigate,48,Male,Euro,Bachelor's Degree,Employed,Widowed,Own,787,302,44557.59,8151.26,on-time,debt consolidation,54741.8,16
+788,Shae,Doran,76,Male,Peso,High School Diploma,Self-Employed,Married,Own,788,687,72709.06,18137.87,late,debt consolidation,68110.99,2
+789,Mareah,Burkitt,67,Female,Dram,PhD,Employed,Divorced,Mortgage,789,690,25872.45,38857.66,missed,medical expenses,68710.35,26
+790,Emmalyn,McKay,60,Non-binary,Euro,PhD,Unemployed,Single,Mortgage,790,521,13987.2,31703.5,missed,home improvement,15987.72,12
+791,Zsazsa,Dillamore,40,Agender,Yuan Renminbi,PhD,Employed,Married,Own,791,720,95918.62,1221.4,missed,home improvement,91631.82,15
+792,Brandon,Deeney,21,Male,Rupiah,High School Diploma,Unemployed,Single,Own,792,683,18748.89,39879.24,on-time,home improvement,84673.8,22
+793,Torry,Plain,85,Male,Real,PhD,Employed,Married,Mortgage,793,751,57838.86,3543.84,on-time,debt consolidation,41303.54,13
+794,Sauncho,Scrinage,75,Male,Peso,PhD,Self-Employed,Single,Mortgage,794,576,93930.0,14515.63,late,debt consolidation,24075.79,8
+795,Skell,Franzonello,79,Male,Krona,High School Diploma,Unemployed,Single,Rent,795,748,20285.27,37238.82,missed,medical expenses,73185.83,29
+796,Ina,Lempel,39,Female,Rupiah,PhD,Unemployed,Divorced,Mortgage,796,822,22059.11,20163.01,late,medical expenses,60311.45,12
+797,Arabelle,Northover,46,Female,Rupee,Bachelor's Degree,Self-Employed,Married,Mortgage,797,685,74891.19,9859.35,on-time,home improvement,95624.27,5
+798,Barton,Kingerby,55,Male,Tugrik,Master's Degree,Employed,Single,Mortgage,798,456,91212.17,16674.71,late,home improvement,53055.27,6
+799,Nevsa,Chidzoy,47,Genderqueer,Rupee,High School Diploma,Employed,Divorced,Rent,799,783,46141.77,27122.2,missed,home improvement,59424.95,20
+800,Phineas,Surgey,76,Male,Boliviano,High School Diploma,Unemployed,Divorced,Mortgage,800,423,40987.24,13700.28,late,medical expenses,96235.16,7
+801,Lindi,Cathersides,69,Female,Yuan Renminbi,PhD,Employed,Married,Own,801,465,44395.73,2734.93,late,debt consolidation,19300.0,7
+802,Chelsie,Cranny,26,Female,Euro,PhD,Unemployed,Single,Mortgage,802,712,1950.16,547.42,on-time,medical expenses,33030.51,2
+803,Bond,Ioselevich,18,Male,Ringgit,PhD,Self-Employed,Single,Own,803,547,74267.64,38840.96,late,debt consolidation,48641.2,21
+804,Tiphani,Gyver,62,Female,Som,Bachelor's Degree,Unemployed,Divorced,Mortgage,804,448,2780.29,28483.59,missed,home improvement,87933.05,18
+805,Tandy,Castana,75,Female,Sol,Master's Degree,Employed,Divorced,Own,805,485,80181.27,4207.97,on-time,debt consolidation,51771.3,21
+806,Farlie,Parrot,26,Male,Rupiah,High School Diploma,Employed,Widowed,Mortgage,806,549,23163.24,345.25,missed,medical expenses,54197.81,16
+807,Biron,Ruddoch,63,Male,Shilling,Bachelor's Degree,Employed,Widowed,Own,807,733,55343.1,24881.57,late,debt consolidation,41441.69,29
+808,Jeana,Santarelli,58,Female,Rupiah,Master's Degree,Employed,Divorced,Rent,808,589,90549.5,15855.37,missed,debt consolidation,9218.41,19
+809,Joe,Hardison,77,Male,Rand,PhD,Self-Employed,Single,Mortgage,809,384,97981.48,16399.33,on-time,debt consolidation,39957.33,3
+810,Bren,Shackle,51,Female,Peso,PhD,Self-Employed,Widowed,Mortgage,810,663,53844.55,43343.01,late,debt consolidation,91088.22,8
+811,Ashton,Bodill,74,Male,Franc,Master's Degree,Self-Employed,Widowed,Rent,811,481,3575.32,46644.0,on-time,home improvement,96336.25,17
+812,Callida,Rubertis,59,Female,Lek,PhD,Unemployed,Married,Rent,812,635,33060.5,13733.27,missed,medical expenses,99628.96,19
+813,Hakim,Mateus,53,Male,Dollar,Bachelor's Degree,Employed,Married,Mortgage,813,392,24133.33,40565.7,missed,home improvement,45497.03,15
+814,Rachel,Westby,18,Female,Rupiah,High School Diploma,Employed,Divorced,Mortgage,814,798,47473.49,11654.39,missed,home improvement,35759.46,17
+815,Karlee,Eyles,56,Female,Peso,Master's Degree,Unemployed,Married,Rent,815,516,36502.75,38208.03,missed,home improvement,87355.9,18
+816,Gwenneth,O'Devey,33,Female,Dirham,PhD,Self-Employed,Divorced,Own,816,679,88717.51,18147.13,on-time,medical expenses,5104.74,30
+817,Mina,Castanho,73,Genderqueer,Yen,High School Diploma,Unemployed,Widowed,Own,817,794,13498.31,22250.86,on-time,debt consolidation,8122.37,27
+818,Joanna,Antonacci,80,Female,Kyat,Master's Degree,Unemployed,Single,Rent,818,806,20724.01,23330.01,on-time,home improvement,70856.86,1
+819,Nikki,Gillopp,33,Female,Dong,PhD,Unemployed,Married,Own,819,780,92702.51,23352.48,on-time,medical expenses,67376.83,7
+820,Purcell,Saiger,50,Male,Yuan Renminbi,High School Diploma,Employed,Widowed,Rent,820,710,41837.02,7667.93,late,debt consolidation,37619.34,21
+821,Denna,Seyler,73,Genderqueer,Lek,Bachelor's Degree,Self-Employed,Married,Mortgage,821,554,46715.98,8833.7,missed,medical expenses,40533.2,19
+822,Brook,Malloy,78,Female,Yuan Renminbi,Master's Degree,Self-Employed,Widowed,Mortgage,822,582,29548.27,16358.49,late,debt consolidation,96187.45,16
+823,Kendal,Massen,38,Male,Zloty,Bachelor's Degree,Unemployed,Widowed,Mortgage,823,465,24279.0,29263.18,on-time,medical expenses,2854.71,17
+824,Hadleigh,Espinel,65,Male,Yuan Renminbi,Bachelor's Degree,Employed,Married,Own,824,660,77410.2,47625.48,on-time,medical expenses,61574.52,15
+825,Sid,Clines,75,Agender,Ringgit,High School Diploma,Self-Employed,Widowed,Own,825,547,83432.04,39332.49,late,medical expenses,28559.23,26
+826,Alaine,Pitkaithly,29,Polygender,Koruna,Master's Degree,Self-Employed,Divorced,Mortgage,826,686,78986.41,4580.42,late,debt consolidation,7294.47,26
+827,Aretha,Haggas,78,Female,Real,Master's Degree,Self-Employed,Divorced,Mortgage,827,330,68546.06,49583.28,late,home improvement,17536.47,8
+828,Graeme,Surpliss,44,Male,Yuan Renminbi,PhD,Employed,Single,Rent,828,463,46157.61,26642.69,on-time,home improvement,50617.18,20
+829,Jana,Wilmot,38,Female,Lempira,High School Diploma,Self-Employed,Widowed,Rent,829,632,15700.68,39026.56,late,medical expenses,53048.63,3
+830,Hi,Duly,65,Male,Rupiah,High School Diploma,Employed,Married,Rent,830,486,31522.08,3052.59,late,debt consolidation,75378.95,6
+831,Valentijn,Arniz,75,Male,Pound,Bachelor's Degree,Self-Employed,Divorced,Rent,831,810,55981.25,13054.95,late,medical expenses,7146.5,23
+832,Clotilda,Arbuckel,49,Female,Rupiah,Bachelor's Degree,Unemployed,Divorced,Mortgage,832,813,60668.53,37557.95,late,home improvement,53202.09,18
+833,Cosme,Reynard,38,Male,Tugrik,PhD,Unemployed,Single,Rent,833,506,41617.51,8189.94,late,medical expenses,36375.55,28
+834,Arly,Syson,67,Female,Rupiah,Master's Degree,Self-Employed,Divorced,Own,834,358,86687.67,40422.61,missed,home improvement,11231.57,21
+835,Zane,Bradbeer,56,Male,Peso,Master's Degree,Employed,Divorced,Mortgage,835,399,1309.25,37544.96,late,debt consolidation,82422.0,21
+836,Eduard,Birtle,20,Genderqueer,Yuan Renminbi,Bachelor's Degree,Unemployed,Married,Own,836,714,34505.0,38724.41,late,medical expenses,69191.0,9
+837,Barbe,Smurfit,49,Female,Taka,Master's Degree,Employed,Widowed,Rent,837,657,91187.09,30960.41,late,home improvement,16736.35,21
+838,Torey,Fishbourne,57,Female,Yuan Renminbi,Bachelor's Degree,Unemployed,Single,Mortgage,838,358,63024.34,16445.72,on-time,home improvement,78732.97,10
+839,Rodger,Samet,77,Male,Peso,Bachelor's Degree,Unemployed,Divorced,Mortgage,839,650,58887.58,18779.37,on-time,medical expenses,23235.73,9
+840,Ardyth,Horstead,42,Female,Peso,High School Diploma,Self-Employed,Married,Own,840,837,55206.88,49375.7,missed,home improvement,65297.17,26
+841,Karleen,O' Hern,66,Female,Euro,Bachelor's Degree,Employed,Divorced,Mortgage,841,319,76678.24,31669.02,late,home improvement,79434.93,8
+842,Madelle,Dunmore,75,Non-binary,Peso,PhD,Employed,Married,Rent,842,328,79649.57,26076.0,missed,debt consolidation,12046.92,7
+843,Hanny,Deedes,67,Female,Peso,Master's Degree,Self-Employed,Widowed,Mortgage,843,618,92677.4,9114.44,on-time,home improvement,55793.15,7
+844,Evvie,Hattrick,62,Genderqueer,Yuan Renminbi,PhD,Unemployed,Widowed,Rent,844,677,99010.26,45323.92,on-time,home improvement,14704.74,30
+845,Kain,Gittus,19,Male,Yuan Renminbi,PhD,Unemployed,Divorced,Mortgage,845,819,94507.0,37270.91,on-time,debt consolidation,81291.41,16
+846,Edward,Benois,39,Male,Yuan Renminbi,Master's Degree,Unemployed,Single,Mortgage,846,339,45434.82,39072.35,missed,home improvement,29515.92,1
+847,Calley,Greetham,46,Female,Euro,High School Diploma,Employed,Married,Rent,847,755,28229.88,5358.13,late,home improvement,91341.08,28
+848,Bell,Tampion,40,Female,Dinar,Master's Degree,Unemployed,Divorced,Rent,848,507,90442.45,38776.12,missed,medical expenses,64943.69,16
+849,Horatio,Carryer,85,Male,Pound,PhD,Employed,Single,Rent,849,540,86182.28,40082.34,missed,home improvement,77579.17,27
+850,Willi,Reeves,73,Genderfluid,Euro,Master's Degree,Unemployed,Single,Mortgage,850,820,53886.7,31773.74,on-time,medical expenses,86696.81,7
+851,Lukas,O'Sheils,37,Male,Koruna,Master's Degree,Employed,Divorced,Own,851,723,25143.11,12574.54,late,debt consolidation,37629.51,7
+852,Enrika,Lidierth,53,Female,Dirham,PhD,Employed,Single,Own,852,634,55156.89,15699.19,on-time,home improvement,3811.41,1
+853,Manolo,Kinkaid,77,Male,Sol,High School Diploma,Self-Employed,Widowed,Rent,853,476,64349.11,16300.14,missed,home improvement,51677.49,23
+854,Mavis,Carbett,73,Female,Tugrik,Bachelor's Degree,Unemployed,Divorced,Own,854,778,98253.12,30136.82,missed,home improvement,74455.43,4
+855,Thornie,Kernock,59,Male,Peso,High School Diploma,Self-Employed,Married,Rent,855,812,88921.03,15030.23,missed,medical expenses,71524.72,7
+856,Vern,Gemmell,28,Male,Ruble,Bachelor's Degree,Employed,Single,Own,856,437,20186.1,45223.39,missed,medical expenses,55128.65,21
+857,Dallon,Gayforth,73,Male,Rupiah,High School Diploma,Employed,Widowed,Mortgage,857,505,44396.57,39824.98,missed,medical expenses,2772.46,18
+858,Kori,Gasken,46,Female,Rand,High School Diploma,Unemployed,Widowed,Mortgage,858,315,9290.34,24612.15,on-time,debt consolidation,9056.69,9
+859,Cherry,McSparran,55,Female,Yuan Renminbi,High School Diploma,Unemployed,Widowed,Own,859,600,72735.59,25966.54,missed,home improvement,22769.12,16
+860,Antoni,Phythean,51,Male,Rupiah,Bachelor's Degree,Employed,Married,Mortgage,860,463,63432.29,18290.55,late,debt consolidation,19863.84,29
+861,Kari,Donnan,26,Female,Rupiah,PhD,Unemployed,Widowed,Rent,861,389,24457.12,5032.7,on-time,home improvement,5810.85,8
+862,Ulrikaumeko,Hawsby,78,Female,Yuan Renminbi,Master's Degree,Unemployed,Single,Mortgage,862,590,7912.28,23086.07,missed,debt consolidation,95039.34,5
+863,Keane,Rooze,32,Male,Sol,Master's Degree,Self-Employed,Divorced,Own,863,311,78713.48,41859.28,late,debt consolidation,2990.58,27
+864,Gus,Sanchis,84,Male,Yuan Renminbi,PhD,Self-Employed,Married,Rent,864,319,81621.22,37862.34,missed,debt consolidation,81801.07,15
+865,Orel,Wrintmore,27,Female,Yuan Renminbi,Bachelor's Degree,Employed,Widowed,Mortgage,865,455,86259.29,7604.2,late,debt consolidation,52363.92,20
+866,Osgood,Grunbaum,73,Male,Yuan Renminbi,Bachelor's Degree,Unemployed,Divorced,Mortgage,866,786,7576.94,4930.36,on-time,home improvement,25231.93,21
+867,Erhard,Crawford,68,Male,Rupiah,PhD,Unemployed,Single,Own,867,823,95787.03,36284.37,on-time,medical expenses,95194.33,15
+868,Rodie,Grisewood,55,Female,Zloty,PhD,Self-Employed,Widowed,Own,868,545,23999.47,8931.23,late,home improvement,2150.21,14
+869,Franklin,Gummory,83,Male,Krona,PhD,Employed,Married,Rent,869,648,1407.12,17534.73,missed,debt consolidation,38686.55,23
+870,Jemimah,Mohammad,67,Female,Krone,Bachelor's Degree,Unemployed,Single,Mortgage,870,395,59321.82,10606.43,missed,medical expenses,1532.15,19
+871,Orv,De Blasiis,44,Genderfluid,Zloty,High School Diploma,Employed,Divorced,Own,871,532,59688.93,37029.77,missed,medical expenses,14453.93,6
+872,Ole,Varian,34,Bigender,Rand,PhD,Unemployed,Widowed,Own,872,712,83253.83,7898.26,on-time,home improvement,98898.98,20
+873,Thaine,Kettleson,48,Male,Real,PhD,Employed,Single,Mortgage,873,656,89851.81,32210.74,missed,home improvement,23442.56,19
+874,Collette,Birkenshaw,80,Agender,Yuan Renminbi,High School Diploma,Unemployed,Single,Mortgage,874,591,26425.43,17133.25,missed,medical expenses,79386.78,17
+875,Sheppard,Granleese,26,Male,Rupiah,PhD,Unemployed,Widowed,Rent,875,580,13299.93,41059.75,on-time,debt consolidation,39677.17,2
+876,Salli,Marielle,79,Female,Ruble,High School Diploma,Employed,Divorced,Mortgage,876,560,81301.85,26482.9,late,home improvement,47448.81,5
+877,Elisha,Stiling,38,Bigender,Leu,High School Diploma,Unemployed,Widowed,Own,877,731,38106.29,42147.62,missed,debt consolidation,93326.53,5
+878,Corrinne,Adamovitz,50,Female,Real,PhD,Unemployed,Divorced,Mortgage,878,730,64149.26,35529.74,late,home improvement,34948.81,10
+879,Rowen,Neem,41,Male,Rial,Bachelor's Degree,Unemployed,Divorced,Rent,879,310,39472.42,20184.83,late,medical expenses,53257.2,20
+880,Odell,Morteo,23,Male,Rand,Bachelor's Degree,Employed,Divorced,Own,880,542,12816.26,35435.1,late,medical expenses,55817.25,8
+881,Moina,Minkin,35,Female,Peso,Bachelor's Degree,Unemployed,Divorced,Mortgage,881,584,53779.72,884.61,on-time,debt consolidation,90508.17,18
+882,Stacey,Padden,65,Female,Ruble,Bachelor's Degree,Self-Employed,Single,Mortgage,882,538,26799.98,16542.98,missed,home improvement,67532.12,10
+883,Mayer,Aldie,34,Male,Yuan Renminbi,PhD,Unemployed,Widowed,Own,883,424,33246.79,30384.54,missed,home improvement,62374.73,28
+884,Smitty,Writer,61,Male,Real,Master's Degree,Unemployed,Divorced,Rent,884,531,34274.9,5255.4,missed,medical expenses,56151.65,4
+885,Daphna,Soall,33,Female,Koruna,PhD,Unemployed,Divorced,Rent,885,566,65585.35,28254.6,missed,debt consolidation,84210.51,4
+886,Jennilee,Greenshiels,68,Female,Peso,High School Diploma,Unemployed,Widowed,Mortgage,886,837,86074.97,224.33,late,home improvement,70449.48,22
+887,Issiah,Macoun,40,Male,Zloty,High School Diploma,Employed,Divorced,Rent,887,712,87600.15,19582.12,late,debt consolidation,80974.58,10
+888,Robinetta,Chatteris,25,Female,Euro,High School Diploma,Self-Employed,Single,Own,888,733,75163.71,48707.43,on-time,debt consolidation,71958.29,18
+889,Marlyn,Piolli,62,Female,Rupiah,Master's Degree,Self-Employed,Widowed,Rent,889,687,1257.71,22012.04,late,debt consolidation,73915.53,17
+890,Jerrylee,Pragnall,22,Female,Yuan Renminbi,High School Diploma,Unemployed,Single,Own,890,471,94877.1,27041.76,on-time,debt consolidation,35818.45,23
+891,Marc,Akast,37,Male,Ruble,High School Diploma,Employed,Single,Own,891,325,49724.43,40065.2,on-time,home improvement,89528.27,8
+892,Benedikta,Mitten,23,Female,Yuan Renminbi,PhD,Self-Employed,Widowed,Mortgage,892,303,67617.03,15258.34,late,debt consolidation,25296.17,12
+893,Rosalia,Smeal,77,Female,Rupiah,High School Diploma,Unemployed,Single,Rent,893,432,2707.24,43836.96,on-time,home improvement,38220.47,11
+894,Normy,Tickner,60,Male,Rupiah,PhD,Unemployed,Divorced,Rent,894,711,19206.51,10884.87,on-time,medical expenses,97839.81,6
+895,Arturo,Domel,44,Male,Rupiah,PhD,Employed,Widowed,Own,895,659,29652.29,37853.49,missed,home improvement,38251.17,29
+896,Ingmar,Bouchier,48,Male,Peso,High School Diploma,Unemployed,Married,Rent,896,594,34113.85,30222.67,late,debt consolidation,78171.62,1
+897,Land,Ecob,64,Polygender,Pound,PhD,Employed,Divorced,Mortgage,897,761,12113.11,3541.75,on-time,medical expenses,98131.9,14
+898,Braden,Tuffley,37,Male,Ruble,PhD,Self-Employed,Divorced,Mortgage,898,495,82320.86,38751.9,missed,home improvement,31506.68,10
+899,Leshia,Rawne,63,Female,Yuan Renminbi,High School Diploma,Self-Employed,Widowed,Own,899,643,7585.82,28979.2,late,home improvement,39175.56,13
+900,Tessa,Moncrieffe,42,Female,Krona,High School Diploma,Self-Employed,Divorced,Rent,900,574,44207.83,1489.64,late,debt consolidation,33298.73,8
+901,Tova,Copeman,81,Female,Yuan Renminbi,High School Diploma,Unemployed,Divorced,Mortgage,901,766,23867.77,33372.75,missed,debt consolidation,36765.82,21
+902,Thebault,Conring,46,Male,Yuan Renminbi,Bachelor's Degree,Unemployed,Widowed,Own,902,385,10808.98,44222.26,late,medical expenses,48026.57,21
+903,Christiane,Tenaunt,20,Female,Yuan Renminbi,PhD,Self-Employed,Widowed,Mortgage,903,570,64948.39,18942.45,missed,home improvement,10574.45,13
+904,Jocelin,Joselevitch,42,Female,Yuan Renminbi,Master's Degree,Self-Employed,Divorced,Mortgage,904,455,31182.88,23405.89,on-time,debt consolidation,15101.83,8
+905,Anjela,Phillip,58,Female,Ruble,Bachelor's Degree,Self-Employed,Single,Mortgage,905,580,86572.97,37011.51,on-time,debt consolidation,37287.83,18
+906,Brittne,Haggerwood,64,Female,Rupiah,Bachelor's Degree,Unemployed,Divorced,Mortgage,906,687,42816.86,45152.77,on-time,debt consolidation,5633.61,11
+907,Marga,Naris,67,Female,Lari,Master's Degree,Unemployed,Married,Mortgage,907,518,21664.73,12247.99,missed,debt consolidation,48651.19,8
+908,Kristina,Bambery,85,Female,Tenge,Master's Degree,Employed,Single,Own,908,850,93778.52,23168.97,missed,debt consolidation,43201.44,5
+909,Hannis,Hadley,30,Female,Yuan Renminbi,High School Diploma,Self-Employed,Divorced,Rent,909,452,19201.96,4047.62,late,home improvement,47333.96,16
+910,Shari,Jevons,23,Female,Zloty,PhD,Self-Employed,Widowed,Own,910,813,24436.57,37638.86,on-time,medical expenses,70453.09,29
+911,Cecilia,Girkins,32,Female,Euro,High School Diploma,Employed,Divorced,Rent,911,797,13328.12,33646.9,missed,medical expenses,6569.47,5
+912,Selena,Fassman,43,Female,Naira,High School Diploma,Unemployed,Divorced,Mortgage,912,810,79628.49,37310.05,on-time,home improvement,69412.65,6
+913,Valery,Cranton,43,Female,Euro,Master's Degree,Employed,Single,Rent,913,391,65800.8,8654.24,on-time,medical expenses,98038.55,1
+914,Kayla,Biasotti,84,Female,Ruble,High School Diploma,Self-Employed,Single,Rent,914,507,12094.56,23790.18,on-time,debt consolidation,53299.4,26
+915,Joseph,Coker,75,Male,Tugrik,PhD,Self-Employed,Single,Own,915,816,33744.4,24147.07,late,medical expenses,11091.9,5
+916,Lorenzo,Faiers,70,Male,Koruna,Bachelor's Degree,Unemployed,Widowed,Rent,916,760,58412.46,31125.32,on-time,debt consolidation,24057.73,30
+917,Merle,Trebbett,69,Female,Tugrik,PhD,Self-Employed,Single,Mortgage,917,489,49850.2,26390.45,late,debt consolidation,22859.15,24
+918,Rex,Mayman,34,Male,Yuan Renminbi,Bachelor's Degree,Unemployed,Single,Rent,918,763,29798.46,49026.57,on-time,home improvement,7222.19,26
+919,Carlye,Grandin,18,Female,Ruble,High School Diploma,Unemployed,Widowed,Mortgage,919,848,62489.15,3235.08,on-time,debt consolidation,90348.98,12
+920,Glennis,Attwool,74,Female,Euro,Master's Degree,Self-Employed,Married,Own,920,827,9302.88,19171.01,on-time,debt consolidation,76734.66,29
+921,Ellery,Audley,66,Male,Dinar,Master's Degree,Unemployed,Married,Rent,921,623,32464.08,26251.93,late,home improvement,2026.51,27
+922,Gamaliel,Urwen,84,Male,Kuna,PhD,Unemployed,Widowed,Mortgage,922,643,26861.91,21323.42,late,home improvement,60929.28,28
+923,Eva,Cadwallader,18,Non-binary,Euro,Bachelor's Degree,Unemployed,Widowed,Rent,923,526,30825.35,17028.42,on-time,medical expenses,63742.57,15
+924,Holly-anne,Luetchford,64,Female,Boliviano,PhD,Unemployed,Married,Rent,924,824,40965.56,31487.12,on-time,medical expenses,36583.14,24
+925,Ennis,Pietrzyk,43,Male,Euro,Master's Degree,Self-Employed,Married,Rent,925,809,50487.13,30037.13,late,home improvement,32062.32,7
+926,Tish,Hauxwell,68,Polygender,Baht,Bachelor's Degree,Employed,Single,Own,926,331,52830.55,28093.12,late,debt consolidation,41196.6,5
+927,Tera,Mustarde,19,Female,Peso,High School Diploma,Employed,Single,Mortgage,927,503,9185.84,7470.57,late,medical expenses,19204.16,15
+928,Benoit,Robertsson,71,Male,Dollar,Bachelor's Degree,Unemployed,Divorced,Rent,928,305,72091.31,21245.3,on-time,home improvement,44531.32,22
+929,Missie,Bover,76,Female,Franc,PhD,Unemployed,Widowed,Own,929,575,38224.37,8110.17,on-time,home improvement,46294.48,15
+930,Lutero,Lillyman,82,Male,Yuan Renminbi,High School Diploma,Employed,Divorced,Own,930,400,92683.63,33330.45,missed,medical expenses,45666.45,20
+931,Roseanna,Tregent,39,Female,Rand,Bachelor's Degree,Self-Employed,Single,Rent,931,414,59661.76,44329.78,late,debt consolidation,56504.96,5
+932,Mandi,Pargent,19,Female,Euro,Bachelor's Degree,Unemployed,Widowed,Own,932,436,63785.01,4569.0,late,home improvement,40327.54,29
+933,Elfrieda,Fugere,81,Female,Euro,Bachelor's Degree,Unemployed,Single,Rent,933,620,27349.33,42809.59,on-time,medical expenses,48093.24,9
+934,Cate,Navan,46,Female,Peso,Master's Degree,Unemployed,Widowed,Rent,934,317,15010.22,3877.23,missed,home improvement,80911.2,3
+935,Sigismondo,Boullin,61,Male,Yuan Renminbi,Master's Degree,Employed,Widowed,Rent,935,524,9974.76,5979.25,late,home improvement,85825.14,2
+936,Alexa,Bouskill,46,Non-binary,Euro,High School Diploma,Unemployed,Single,Mortgage,936,454,95354.05,39035.64,on-time,debt consolidation,2986.62,6
+937,Simone,Tatterton,44,Male,Yuan Renminbi,Bachelor's Degree,Self-Employed,Widowed,Own,937,804,28413.27,14317.07,missed,debt consolidation,13562.1,20
+938,Fields,Skerrett,69,Male,Rupiah,High School Diploma,Unemployed,Divorced,Mortgage,938,671,35071.2,42707.49,late,medical expenses,53830.23,22
+939,Myles,Bellefonte,52,Genderfluid,Ruble,Bachelor's Degree,Unemployed,Widowed,Mortgage,939,301,90597.34,17154.77,late,medical expenses,75731.73,25
+940,Anson,Haizelden,78,Male,Yuan Renminbi,PhD,Unemployed,Married,Mortgage,940,375,94383.34,25429.96,on-time,home improvement,5872.6,27
+941,Wrennie,Pemble,71,Female,Yuan Renminbi,Bachelor's Degree,Employed,Single,Rent,941,619,75949.58,11885.2,missed,home improvement,96513.37,19
+942,Caresa,Masson,58,Female,Sol,Bachelor's Degree,Employed,Single,Mortgage,942,642,68570.69,42873.07,on-time,medical expenses,82384.89,21
+943,Mallissa,Streetfield,22,Genderfluid,Euro,PhD,Employed,Single,Rent,943,821,84067.07,27866.16,late,home improvement,28932.17,29
+944,Mick,Filipczynski,83,Male,Euro,High School Diploma,Self-Employed,Divorced,Mortgage,944,664,42859.12,47756.95,late,medical expenses,81366.21,30
+945,Galen,Molyneaux,76,Male,Zloty,PhD,Unemployed,Married,Mortgage,945,305,36109.57,20059.5,on-time,medical expenses,6872.48,7
+946,Ned,Duckers,18,Male,Hryvnia,PhD,Employed,Widowed,Own,946,504,19804.35,28183.15,on-time,debt consolidation,49870.92,1
+947,Chris,McGinly,20,Male,Yuan Renminbi,High School Diploma,Employed,Married,Own,947,405,48890.54,35803.46,on-time,debt consolidation,49876.02,11
+948,Shannon,Maffi,58,Male,Zloty,Bachelor's Degree,Unemployed,Widowed,Own,948,761,21457.7,26239.44,missed,debt consolidation,8498.67,28
+949,Preston,Titmus,27,Male,Euro,Master's Degree,Employed,Married,Mortgage,949,413,6114.31,3301.47,missed,home improvement,86409.45,13
+950,Pen,Philipsson,79,Female,Rupiah,Master's Degree,Employed,Divorced,Mortgage,950,311,54131.71,6788.01,missed,debt consolidation,13421.62,3
+951,Brinna,Yellop,78,Female,Euro,High School Diploma,Employed,Single,Own,951,824,37357.62,11813.03,missed,home improvement,22890.98,15
+952,Gwendolyn,Dimond,84,Female,Euro,Bachelor's Degree,Self-Employed,Single,Rent,952,442,94343.63,30233.74,late,debt consolidation,66098.03,18
+953,Barrett,Camps,59,Male,Dollar,Bachelor's Degree,Unemployed,Married,Mortgage,953,523,61820.63,44621.17,missed,home improvement,14204.0,2
+954,Weidar,Robjohns,84,Male,Ruble,Master's Degree,Self-Employed,Divorced,Rent,954,623,55125.42,10428.61,on-time,medical expenses,95803.31,17
+955,Emera,Croyden,26,Female,Yuan Renminbi,Bachelor's Degree,Unemployed,Divorced,Own,955,415,23359.31,41185.54,on-time,home improvement,42444.56,5
+956,Jason,Baddiley,51,Male,Real,High School Diploma,Unemployed,Widowed,Mortgage,956,492,61525.83,40401.13,on-time,medical expenses,46388.01,12
+957,Oberon,Tirkin,38,Male,Dollar,Bachelor's Degree,Unemployed,Divorced,Rent,957,359,34768.64,37048.32,missed,home improvement,94284.85,15
+958,Tait,Creswell,47,Male,Real,Bachelor's Degree,Self-Employed,Single,Rent,958,756,53292.36,11774.9,on-time,home improvement,76762.62,21
+959,Tania,Beswetherick,22,Female,Peso,PhD,Self-Employed,Divorced,Rent,959,396,65352.99,42323.58,on-time,home improvement,82667.45,30
+960,Janenna,Abdey,60,Agender,Rupiah,PhD,Unemployed,Divorced,Own,960,391,53623.55,39863.03,late,medical expenses,66431.97,30
+961,Saree,Dankov,68,Female,Euro,PhD,Self-Employed,Divorced,Mortgage,961,568,98176.44,18220.33,on-time,debt consolidation,2216.7,26
+962,Darya,Yantsurev,82,Female,Euro,Bachelor's Degree,Self-Employed,Single,Own,962,738,96808.33,48297.05,missed,home improvement,59704.9,6
+963,Ruthie,Buttwell,49,Female,Real,High School Diploma,Self-Employed,Widowed,Rent,963,803,91143.8,45730.38,late,medical expenses,60920.04,8
+964,Alisun,Sexton,64,Female,Peso,PhD,Self-Employed,Widowed,Own,964,551,643.55,4821.85,on-time,medical expenses,2141.02,25
+965,Murielle,MacGee,73,Polygender,Krona,Master's Degree,Self-Employed,Widowed,Mortgage,965,604,95445.51,48932.71,missed,medical expenses,31035.78,1
+966,Tyler,Stanney,73,Male,Rupiah,Master's Degree,Employed,Single,Rent,966,506,50755.66,37327.74,late,medical expenses,5524.42,6
+967,Petey,Charlo,59,Male,Rupiah,High School Diploma,Unemployed,Single,Own,967,682,64467.24,40746.22,on-time,medical expenses,38307.46,13
+968,Des,Lamont,28,Male,Rupiah,PhD,Self-Employed,Divorced,Rent,968,680,94524.87,30453.65,late,medical expenses,71740.6,23
+969,Della,Jakoubek,26,Female,Som,PhD,Employed,Single,Rent,969,584,415.74,8288.09,late,home improvement,1356.52,5
+970,Norah,Greedy,50,Female,Peso,High School Diploma,Employed,Divorced,Rent,970,640,80143.17,843.76,late,home improvement,35459.29,4
+971,Alberta,Munroe,53,Female,Euro,Master's Degree,Unemployed,Single,Mortgage,971,576,41456.24,15325.38,missed,home improvement,61283.06,20
+972,Carole,Hindenburg,53,Female,Yuan Renminbi,Master's Degree,Unemployed,Widowed,Mortgage,972,749,59096.46,336.78,on-time,home improvement,24410.53,4
+973,Yehudi,Acutt,26,Bigender,Som,Bachelor's Degree,Self-Employed,Widowed,Mortgage,973,783,14945.83,20156.26,late,medical expenses,33090.61,3
+974,Liz,Baum,53,Female,Colon,High School Diploma,Self-Employed,Divorced,Own,974,729,29147.83,43135.39,missed,home improvement,22469.14,23
+975,Sarah,Jackling,38,Female,Euro,PhD,Self-Employed,Single,Mortgage,975,768,43895.48,46262.44,missed,home improvement,4341.3,6
+976,Karon,Bryson,57,Female,Dollar,Bachelor's Degree,Self-Employed,Divorced,Own,976,811,51359.56,25559.01,missed,medical expenses,51063.2,6
+977,Merrilee,Swyne,59,Female,Hryvnia,PhD,Unemployed,Divorced,Own,977,592,56188.11,43322.37,on-time,debt consolidation,73333.63,21
+978,Nestor,MacMillan,30,Male,Zloty,High School Diploma,Self-Employed,Married,Mortgage,978,607,30428.52,17700.83,late,medical expenses,89810.96,12
+979,Noelyn,Fintoph,69,Female,Koruna,PhD,Self-Employed,Divorced,Own,979,433,42354.5,29759.59,late,medical expenses,99687.69,23
+980,Kaela,Waber,44,Female,Baht,Bachelor's Degree,Unemployed,Single,Own,980,707,72667.59,11032.55,on-time,home improvement,44718.11,29
+981,Valentin,Compfort,53,Male,Tugrik,Master's Degree,Unemployed,Divorced,Rent,981,393,51584.81,47132.63,on-time,home improvement,66638.26,8
+982,Glyn,Speachley,25,Male,Som,Bachelor's Degree,Employed,Single,Own,982,794,17603.01,8715.42,late,medical expenses,4264.43,4
+983,Shandy,Hollyland,76,Female,Franc,Master's Degree,Employed,Married,Rent,983,806,22925.65,37677.29,missed,debt consolidation,20709.47,30
+984,Bradford,Abrahart,85,Non-binary,Yuan Renminbi,Bachelor's Degree,Employed,Divorced,Mortgage,984,801,18125.58,15713.24,on-time,medical expenses,59776.41,25
+985,Paddie,Lant,72,Male,Dollar,Bachelor's Degree,Unemployed,Divorced,Rent,985,534,10041.38,3832.42,on-time,medical expenses,82776.33,7
+986,Ynez,Splevings,77,Female,Peso,High School Diploma,Unemployed,Divorced,Mortgage,986,500,15161.25,47755.18,late,home improvement,66585.62,5
+987,Harriot,Jugging,64,Female,Yuan Renminbi,High School Diploma,Unemployed,Single,Rent,987,388,15918.54,2848.15,late,medical expenses,37927.11,18
+988,Nadia,Feldhuhn,48,Female,Lek,High School Diploma,Unemployed,Married,Own,988,331,63278.69,28387.28,late,debt consolidation,20439.74,20
+989,Almeria,Aleshintsev,51,Female,Yuan Renminbi,High School Diploma,Unemployed,Widowed,Mortgage,989,579,64679.06,25708.46,missed,medical expenses,21683.39,12
+990,Bartie,Brangan,20,Male,Peso,PhD,Employed,Single,Own,990,497,43580.55,15811.44,on-time,medical expenses,6550.73,10
+991,Roch,Dunwoody,75,Female,Ruble,High School Diploma,Unemployed,Single,Rent,991,570,21877.35,5171.93,late,medical expenses,76993.88,22
+992,Valerie,Harkins,73,Female,Rupiah,Bachelor's Degree,Employed,Divorced,Rent,992,501,87573.7,9069.94,on-time,debt consolidation,67411.88,27
+993,Verla,Lardiner,25,Female,Euro,Bachelor's Degree,Employed,Widowed,Rent,993,764,78742.67,20298.88,late,medical expenses,86317.77,20
+994,Rora,O'Carroll,75,Female,Hryvnia,PhD,Self-Employed,Single,Rent,994,387,38194.52,30674.95,missed,debt consolidation,22319.61,21
+995,Glynis,Cauldwell,48,Non-binary,Euro,Bachelor's Degree,Employed,Married,Own,995,702,59127.18,26165.56,missed,home improvement,66373.31,28
+996,Waite,Stuckow,28,Agender,Yuan Renminbi,Master's Degree,Unemployed,Married,Mortgage,996,545,10090.68,32695.82,missed,medical expenses,66039.2,17
+997,Abe,Vasyagin,37,Bigender,Yuan Renminbi,Bachelor's Degree,Unemployed,Widowed,Rent,997,562,16708.41,15099.66,on-time,home improvement,21063.91,21
+998,Stanley,Brownstein,74,Male,Dollar,High School Diploma,Unemployed,Married,Rent,998,369,9315.15,7608.61,missed,home improvement,6509.21,5
+999,Heda,Pourvoieur,70,Agender,Hryvnia,Master's Degree,Self-Employed,Married,Rent,999,557,86868.31,21522.18,missed,home improvement,9966.86,5
+1000,Allianora,Naismith,81,Female,Yuan Renminbi,Bachelor's Degree,Self-Employed,Widowed,Own,1000,680,57341.84,36664.16,missed,medical expenses,54423.73,14
